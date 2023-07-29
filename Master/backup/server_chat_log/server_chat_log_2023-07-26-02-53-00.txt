@@ -1,0 +1,15 @@
+[00:01:23]: [Join Announcement] estarhp
+[00:01:36]: [Join Announcement] 3301624889
+[00:02:09]: [Join Announcement] 3512835457
+[00:33:11]: [Leave Announcement] estarhp
+[00:34:49]: [Join Announcement] estarhp
+[00:57:41]: [Leave Announcement] 3512835457
+[01:02:37]: [Join Announcement] 3512835457
+[01:57:22]: [Death Announcement] 3512835457 was killed by Hound. He became a spooky ghost!
+[01:57:28]: [Vote Announcement] rollback passed
+[01:58:27]: [Death Announcement] 3512835457 was killed by Pig Man. He became a spooky ghost!
+[01:58:35]: [Vote Announcement] rollback passed
+[01:59:14]: [Vote Announcement] rollback passed
+[02:27:00]: [Leave Announcement] 3512835457
+[02:28:26]: [Leave Announcement] 3301624889
+[02:31:07]: [Leave Announcement] estarhp

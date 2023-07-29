@@ -1,0 +1,922 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 562556
+[00:00:00]: Current time: Fri Jul 21 10:50:34 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: edac49f520a8
+[00:00:00]: Release(Kernel) Version: 5.10.134-14.1.al8.x86_64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Thu May 25 18:05:52 CST 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 562556 LINUX
+[00:00:00]: Build Date: 8920
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -persistent_storage_root /data -ugc_directory /data/ugc -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: ProfileIndex:3.61
+[00:00:00]: THREAD - started 'GAClient' (4138986304)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (4084190016)
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x32
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: ConsoleScreenSettings could not load consolescreen	
+[00:00:02]: bloom_enabled	true	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:03]: 	Load FE	
+[00:00:04]: 	Load FE: done	
+[00:00:04]: Check for write access: TRUE
+[00:00:04]: Check for read access: TRUE
+[00:00:04]: Available disk space for save files: 8730 MB
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (4046187328)
+[00:00:04]: FilesExistAsyncThread started (22134 files)...
+[00:00:05]: [200] Account Communication Success (6)
+[00:00:05]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Master/save/cached_userid
+[00:00:05]: Received (KU_2HEq3klP) from TokenPurpose
+[00:00:05]: Starting Dedicated Server Game	
+[00:00:05]: Network tick rate: U=15(2), D=0
+[00:00:05]: About to start a server with the following settings:
+[00:00:05]:   Dedicated: true
+[00:00:05]:   Online: true
+[00:00:05]:   Passworded: true
+[00:00:05]:   ServerPort: 11000
+[00:00:05]:   SteamAuthPort: 8768
+[00:00:05]:   SteamMasterServerPort: 27018
+[00:00:05]:   ClanID: false
+[00:00:05]:   ClanOnly: false
+[00:00:05]:   ClanAdmin: false
+[00:00:05]:   LanOnly: false
+[00:00:05]:   FriendsOnly: false
+[00:00:05]:   EnableAutosaver: true
+[00:00:05]:   EncodeUserPath: true
+[00:00:05]:   PVP: false
+[00:00:05]:   MaxPlayers: 3
+[00:00:05]:   GameMode: survival
+[00:00:05]:   OverridenDNS: 
+[00:00:05]:   PauseWhenEmpty: true
+[00:00:05]:   IdleTimeout: 1800s
+[00:00:05]:   VoteEnabled: true
+[00:00:05]:   InternetBroadcasting: true
+[00:00:05]: Online Server Started on port: 11000
+[00:00:05]: Not applying level data overrides.	
+[00:00:05]: Found a worldgen override file with these contents:	
+[00:00:05]: 	K: 	override_enabled	 V: 	true	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xf708ba0	
+[00:00:05]: 	K: 	settings_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:05]: 	K: 	worldgen_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:05]:   sanity-checking worldgenoverride.lua...	
+[00:00:05]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:00:05]:   contained worldgen preset SURVIVAL_TOGETHER, loading...	
+[00:00:05]:   contained settings preset SURVIVAL_TOGETHER, loading...	
+[00:00:05]: Overwriting savedata with override file.	
+[00:00:05]: Collecting garbage...
+[00:00:05]: lua_gc took 0.05 seconds
+[00:00:05]: ~ShardLuaProxy()
+[00:00:05]: ~cEventLeaderboardProxy()
+[00:00:05]: ~ItemServerLuaProxy()
+[00:00:05]: ~InventoryLuaProxy()
+[00:00:05]: ~NetworkLuaProxy()
+[00:00:05]: ~SimLuaProxy()
+[00:00:05]: FilesExistAsyncThread aborted.
+[00:00:05]: ... FilesExistAsyncThread complete
+[00:00:05]: lua_close took 0.08 seconds
+[00:00:05]: ReleaseAll
+[00:00:05]: ReleaseAll Finished
+[00:00:05]: cGame::StartPlaying
+[00:00:05]: AppVersion::GetArchitecture() x32
+[00:00:05]: LOADING LUA
+[00:00:05]: DoLuaFile scripts/main.lua
+[00:00:05]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]: Running main.lua
+	
+[00:00:06]: loaded modindex	
+[00:00:06]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:06]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:06]: LOADING LUA SUCCESS
+[00:00:06]: PlayerDeaths could not load morgue	
+[00:00:06]: PlayerHistory could not load player_history	
+[00:00:06]: ServerPreferences could not load server_preferences	
+[00:00:06]: ConsoleScreenSettings could not load consolescreen	
+[00:00:06]: bloom_enabled	true	
+[00:00:06]: OnFilesLoaded()	
+[00:00:06]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Loading world: session/0648409BE5F4CFA1/0000000040	
+[00:00:06]: Save file is at version 5.141	
+[00:00:06]: Klump load on boot started.	
+[00:00:06]: Klump files loaded: 	0	
+[00:00:06]: 	Unload FE	
+[00:00:06]: 	Unload FE done	
+[00:00:08]: 	LOAD BE	
+[00:00:18]: 	LOAD BE: done	
+[00:00:18]: Begin Session: 0648409BE5F4CFA1
+[00:00:18]: saving to server_temp/server_save	
+[00:00:18]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:18]: Loading 19 new character(s)	
+[00:00:19]: Total 19 character(s) loaded	
+[00:00:19]: Loading Nav Grid	
+[00:00:19]: World generated on build 562556 with save version: 5.141, using seed: 1689844859	
+[00:00:19]: setting 	summerlength	15	
+[00:00:19]: setting 	cavemoonphase	half	
+[00:00:19]: setting 	iscavefullmoon	false	
+[00:00:19]: setting 	isnightmaredawn	false	
+[00:00:19]: setting 	elapseddaysinseason	6	
+[00:00:19]: setting 	isfullmoon	false	
+[00:00:19]: setting 	moisture	988.14239501953	
+[00:00:19]: setting 	cavephase	day	
+[00:00:19]: setting 	iscavewaxingmoon	true	
+[00:00:19]: setting 	isnightmarewild	false	
+[00:00:19]: setting 	nightmaretimeinphase	0	
+[00:00:19]: setting 	precipitationrate	0	
+[00:00:19]: setting 	iswet	false	
+[00:00:19]: setting 	isnewmoon	false	
+[00:00:19]: setting 	precipitation	none	
+[00:00:19]: setting 	israining	false	
+[00:00:19]: setting 	isnightmarewarn	false	
+[00:00:19]: setting 	isacidraining	false	
+[00:00:19]: setting 	iswinter	true	
+[00:00:19]: setting 	season	winter	
+[00:00:19]: setting 	remainingdaysinseason	9	
+[00:00:19]: setting 	winterlength	15	
+[00:00:19]: setting 	iscaveday	true	
+[00:00:19]: setting 	moistureceil	2875.6970214844	
+[00:00:19]: setting 	isday	true	
+[00:00:19]: setting 	springlength	20	
+[00:00:19]: setting 	wetness	0	
+[00:00:19]: setting 	iscavedusk	false	
+[00:00:19]: setting 	isalterawake	false	
+[00:00:19]: setting 	isnightmarecalm	false	
+[00:00:19]: setting 	isnight	false	
+[00:00:19]: setting 	isdusk	false	
+[00:00:19]: setting 	isspring	false	
+[00:00:19]: setting 	isautumn	false	
+[00:00:19]: setting 	issnowing	false	
+[00:00:19]: setting 	iswaxingmoon	true	
+[00:00:19]: setting 	phase	day	
+[00:00:19]: setting 	snowlevel	1	
+[00:00:19]: setting 	issnowcovered	true	
+[00:00:19]: setting 	autumnlength	20	
+[00:00:19]: setting 	pop	0.083161749342026	
+[00:00:19]: setting 	nightmaretime	0	
+[00:00:19]: setting 	seasonprogress	0.4	
+[00:00:19]: setting 	moonphase	half	
+[00:00:19]: setting 	nightmarephase	none	
+[00:00:19]: setting 	cycles	26	
+[00:00:19]: setting 	timeinphase	0.095795389811198	
+[00:00:19]: setting 	iscavenight	false	
+[00:00:19]: setting 	iscavenewmoon	false	
+[00:00:19]: setting 	issummer	false	
+[00:00:19]: setting 	temperature	-21.054697349963	
+[00:00:19]: setting 	time	0.029936059315999	
+[00:00:24]: Reconstructing topology	
+[00:00:24]: 	...Sorting points	
+[00:00:24]: 	...Sorting edges	
+[00:00:24]: 	...Connecting nodes	
+[00:00:24]: 	...Validating connections	
+[00:00:24]: 	...Housekeeping	
+[00:00:24]: 	...Done!	
+[00:00:24]: 1 uploads added to server. From server_temp
+[00:00:24]: About to start a shard with these settings:
+[00:00:24]:   ShardName: [SHDMASTER]
+[00:00:24]:   ShardID: 1
+[00:00:24]:   ShardRole: MASTER
+[00:00:24]:   MasterHost: (null)
+[00:00:24]:   MasterBind: 127.0.0.1
+[00:00:24]:   MasterPort: 10998
+[00:00:24]: [Shard] Starting master server
+[00:00:24]: [Shard] Shard server started on port: 10998
+[00:00:24]: Telling Client our new session identifier: 0648409BE5F4CFA1
+[00:00:24]: Check for write access: TRUE
+[00:00:24]: Check for read access: TRUE
+[00:00:24]: Available disk space for save files: 8730 MB
+[00:00:24]: ModIndex: Load sequence finished successfully.	
+[00:00:24]: Reset() returning
+[00:00:25]: Validating portal[6] <-> 641468961[6] (inactive)	
+[00:00:25]: Validating portal[1] <-> 641468961[1] (inactive)	
+[00:00:25]: Validating portal[3] <-> 641468961[3] (inactive)	
+[00:00:25]: Validating portal[9] <-> 641468961[9] (inactive)	
+[00:00:25]: Validating portal[8] <-> 641468961[8] (inactive)	
+[00:00:25]: Validating portal[5] <-> 641468961[5] (inactive)	
+[00:00:25]: Validating portal[4] <-> 641468961[4] (inactive)	
+[00:00:25]: Validating portal[2] <-> 641468961[2] (inactive)	
+[00:00:25]: Validating portal[7] <-> 641468961[7] (inactive)	
+[00:00:25]: Sim paused
+[00:00:25]: Server registered via geo DNS in ap-southeast-1
+[00:00:25]: [Shard] Secondary shard Caves(641468961) connected: [LAN] 127.0.0.1
+[00:00:26]: [Shard] Secondary Caves(641468961) ready!
+[00:00:26]: World 641468961 is now connected	
+[00:00:26]: Validating portal[6] <-> 641468961[6] (disabled)	
+[00:00:26]: Validating portal[1] <-> 641468961[1] (disabled)	
+[00:00:26]: Validating portal[3] <-> 641468961[3] (disabled)	
+[00:00:26]: Validating portal[9] <-> 641468961[9] (disabled)	
+[00:00:26]: Validating portal[8] <-> 641468961[8] (disabled)	
+[00:00:26]: Validating portal[5] <-> 641468961[5] (disabled)	
+[00:00:26]: Validating portal[4] <-> 641468961[4] (disabled)	
+[00:00:26]: Validating portal[2] <-> 641468961[2] (disabled)	
+[00:00:26]: Validating portal[7] <-> 641468961[7] (active)	
+[00:00:49]: New incoming connection 112.44.144.157|20238 <5653824979249349757>
+[00:00:49]: Client connected from 112.44.144.157|20238 <5653824979249349757>
+[00:00:49]: ValidateGameSessionToken GUID<5653824979249349757>
+[00:00:49]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:00:50]: [Steam] Authenticated host '76561199365741450'
+[00:00:51]: There is no active event to validate against.
+[00:00:51]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:01:15]: Resuming user: session/0648409BE5F4CFA1/A7G92EQ0TQUP/0000000040
+[00:01:15]: Spawning player at: [Load] (341.37, 0.00, 109.02)	
+[00:01:15]: Sim unpaused
+[00:01:37]: New incoming connection 36.162.177.193|53144 <7136289698292002029>
+[00:01:37]: Client connected from 36.162.177.193|53144 <7136289698292002029>
+[00:01:37]: ValidateGameSessionToken GUID<7136289698292002029>
+[00:01:37]: Client authenticated: (KU_K9a7KhGz) 3512835457
+[00:01:38]: [Steam] SendUserConnectAndAuthenticate for '76561199389496337'
+[00:01:38]: [Steam] Authenticated client '76561199389496337'
+[00:01:39]: There is no active event to validate against.
+[00:01:39]: [Shard] Read save location file for (KU_K9a7KhGz)
+[00:02:01]: Resuming user: session/0648409BE5F4CFA1/A7IGJ43L5D1T/0000000040
+[00:02:02]: Health:SetPenalty	false	
+[00:02:02]: Spawning player at: [Load] (347.44, 0.00, 117.23)	
+[00:03:22]: Could not find anim [death] in bank [ghost]
+[00:03:22]: Serializing user: session/0648409BE5F4CFA1/A7IGJ43L5D1T/0000000041
+[00:06:01]: Rate limiting RPCs from	118544 - wilson	KU_K9a7KhGz	last one being ID	41	
+[00:06:09]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:06:09]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:06:10]: Serializing user: session/0648409BE5F4CFA1/A7G92EQ0TQUP/0000000041
+[00:06:10]: Start world reset countdown... 120 seconds...	
+[00:07:19]: New incoming connection 112.44.144.157|20412 <8579116593587256049>
+[00:07:19]: Client connected from 112.44.144.157|20412 <8579116593587256049>
+[00:07:19]: ValidateGameSessionToken GUID<8579116593587256049>
+[00:07:20]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:07:20]: [Steam] Authenticated host '76561199365741450'
+[00:07:21]: There is no active event to validate against.
+[00:07:21]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:07:43]: Resuming user: session/0648409BE5F4CFA1/A7G92EQ0TQUP/0000000041
+[00:07:43]: Spawning player at: [Load] (334.65, 0.00, 137.97)	
+[00:07:43]: Stop world reset countdown	
+[00:07:52]: KU_2HEq3klP	running text command:	regenerate	true	
+[00:07:57]: Received world reset request	
+[00:07:57]: ... File [0000000037.meta]
+[00:07:57]: ... File [0000000035]
+[00:07:57]: ... File [0000000035.meta]
+[00:07:57]: ... File [0000000038.meta]
+[00:07:57]: ... Directory [A7ILUGHR7MEL]
+[00:07:57]: ... File [0000000036]
+[00:07:57]: ... File [0000000040]
+[00:07:57]: ... File [0000000039]
+[00:07:57]: ... Directory [A7IGJ43L5D1T]
+[00:07:57]: ... File [0000000038]
+[00:07:57]: ... Directory [A7G92EQ0TQUP]
+[00:07:57]: ... File [0000000037]
+[00:07:57]: ... File [0000000039.meta]
+[00:07:57]: ... File [0000000036.meta]
+[00:07:57]: ... File [0000000040.meta]
+[00:07:57]: ... File [0000000029.meta]
+[00:07:57]: ... File [0000000029]
+[00:07:57]: DelDirectory [/data//DoNotStarveTogether/Cluster_1/Master/save/session/0648409BE5F4CFA1/A7ILUGHR7MEL] 0: ok.
+[00:07:57]: ... File [0000000037.meta]
+[00:07:57]: ... File [0000000035]
+[00:07:57]: ... File [0000000035.meta]
+[00:07:57]: ... File [0000000038.meta]
+[00:07:57]: ... File [0000000036]
+[00:07:57]: ... File [0000000040]
+[00:07:57]: ... File [0000000039]
+[00:07:57]: ... File [0000000038]
+[00:07:57]: ... File [0000000037]
+[00:07:57]: ... File [0000000041]
+[00:07:57]: ... File [0000000039.meta]
+[00:07:57]: ... File [0000000036.meta]
+[00:07:57]: ... File [0000000040.meta]
+[00:07:57]: ... File [0000000041.meta]
+[00:07:57]: ... File [savelocation]
+[00:07:57]: DelDirectory [/data//DoNotStarveTogether/Cluster_1/Master/save/session/0648409BE5F4CFA1/A7IGJ43L5D1T] 0: ok.
+[00:07:57]: ... File [0000000037.meta]
+[00:07:57]: ... File [0000000035]
+[00:07:57]: ... File [0000000035.meta]
+[00:07:57]: ... File [0000000038.meta]
+[00:07:57]: ... File [0000000036]
+[00:07:57]: ... File [0000000040]
+[00:07:57]: ... File [0000000039]
+[00:07:57]: ... File [0000000038]
+[00:07:57]: ... File [0000000037]
+[00:07:57]: ... File [0000000041]
+[00:07:57]: ... File [0000000039.meta]
+[00:07:57]: ... File [0000000036.meta]
+[00:07:57]: ... File [0000000040.meta]
+[00:07:57]: ... File [0000000041.meta]
+[00:07:57]: ... File [savelocation]
+[00:07:57]: DelDirectory [/data//DoNotStarveTogether/Cluster_1/Master/save/session/0648409BE5F4CFA1/A7G92EQ0TQUP] 0: ok.
+[00:07:57]: DelDirectory [/data//DoNotStarveTogether/Cluster_1/Master/save/session/0648409BE5F4CFA1] 0: ok.
+[00:07:58]: Collecting garbage...
+[00:07:58]: lua_gc took 0.31 seconds
+[00:07:58]: ~ShardLuaProxy()
+[00:07:58]: ~cEventLeaderboardProxy()
+[00:07:58]: ~ItemServerLuaProxy()
+[00:07:58]: ~InventoryLuaProxy()
+[00:07:58]: ~NetworkLuaProxy()
+[00:07:58]: ~SimLuaProxy()
+[00:07:59]: lua_close took 0.45 seconds
+[00:07:59]: ReleaseAll
+[00:07:59]: ReleaseAll Finished
+[00:07:59]: cGame::StartPlaying
+[00:07:59]: AppVersion::GetArchitecture() x32
+[00:07:59]: LOADING LUA
+[00:07:59]: DoLuaFile scripts/main.lua
+[00:07:59]: DoLuaFile loading buffer scripts/main.lua
+[00:07:59]:   taskgrouplist:	default	Together	
+[00:07:59]:   taskgrouplist:	classic	Classic	
+[00:07:59]:   taskgrouplist:	cave_default	Underground	
+[00:07:59]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:07:59]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:07:59]: Running main.lua
+	
+[00:07:59]: loaded modindex	
+[00:07:59]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:07:59]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:07:59]: LOADING LUA SUCCESS
+[00:07:59]: PlayerDeaths could not load morgue	
+[00:07:59]: PlayerHistory could not load player_history	
+[00:07:59]: ServerPreferences could not load server_preferences	
+[00:07:59]: ConsoleScreenSettings could not load consolescreen	
+[00:07:59]: bloom_enabled	true	
+[00:07:59]: OnFilesLoaded()	
+[00:07:59]: OnUpdatePurchaseStateComplete	
+[00:07:59]: Not applying level data overrides.	
+[00:07:59]: Found a worldgen override file with these contents:	
+[00:07:59]: 	K: 	override_enabled	 V: 	true	
+[00:07:59]: 	K: 	overrides	 V: 	table: 0xac1b2a0	
+[00:07:59]: 	K: 	settings_preset	 V: 	SURVIVAL_TOGETHER	
+[00:07:59]: 	K: 	worldgen_preset	 V: 	SURVIVAL_TOGETHER	
+[00:07:59]:   sanity-checking worldgenoverride.lua...	
+[00:07:59]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:07:59]:   contained worldgen preset SURVIVAL_TOGETHER, loading...	
+[00:07:59]:   contained settings preset SURVIVAL_TOGETHER, loading...	
+[00:07:59]: Overwriting savedata with override file.	
+[00:07:59]: WorldSim::SimThread::SimThread()
+[00:07:59]: ABOUT TO INSTALL STACKTRACE
+[00:07:59]: DoLuaFile scripts/stacktrace.lua
+[00:07:59]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:07:59]: INSTALLED STACKTRACE
+[00:07:59]: WorldSim::SimThread::SimThread() complete
+[00:07:59]: THREAD - started 'WorldSim' (3891211072)
+[00:07:59]: WorldSim::SimThread::Main()
+[00:07:59]: DoLuaFile scripts/worldgen_main.lua
+[00:07:59]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:07:59]: Check for write access: TRUE
+[00:07:59]: Check for read access: TRUE
+[00:07:59]: Available disk space for save files: 8769 MB
+[00:07:59]: ModIndex: Load sequence finished successfully.	
+[00:07:59]: Reset() returning
+[00:07:59]: DLC enabled : 	false	
+[00:07:59]: [Shard] Secondary shard 'Caves(641468961)' restarting...
+[00:07:59]: World 641468961 is now disconnected	
+[00:08:00]:   taskgrouplist:	default	Together	
+[00:08:00]:   taskgrouplist:	classic	Classic	
+[00:08:00]:   taskgrouplist:	cave_default	Underground	
+[00:08:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:08:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:08:00]: running worldgen_main.lua
+	
+[00:08:00]: SEED = 	1689937113	
+[00:08:00]: Generating world with these parameters:	
+[00:08:00]: level_type	SURVIVAL	
+[00:08:00]: level_data:	
+[00:08:00]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:08:00]: 	K: 	hideminimap	 V: 	false	
+[00:08:00]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:08:00]: 	K: 	location	 V: 	forest	
+[00:08:00]: 	K: 	max_playlist_position	 V: 	999	
+[00:08:00]: 	K: 	min_playlist_position	 V: 	0	
+[00:08:00]: 	K: 	name	 V: 	Survival	
+[00:08:00]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:08:00]: 	K: 	override_level_string	 V: 	false	
+[00:08:00]: 	K: 	overrides	 V: 	table: 0xe4f75580	
+[00:08:00]: 		K: 	has_ocean	 V: 	true	
+[00:08:00]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:08:00]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:08:00]: 		K: 	no_joining_islands	 V: 	true	
+[00:08:00]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:08:00]: 		K: 	roads	 V: 	default	
+[00:08:00]: 		K: 	season_start	 V: 	default	
+[00:08:00]: 		K: 	start_location	 V: 	default	
+[00:08:00]: 		K: 	task_set	 V: 	default	
+[00:08:00]: 		K: 	world_size	 V: 	default	
+[00:08:00]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:08:00]: 	K: 	playstyle	 V: 	survival	
+[00:08:00]: 	K: 	random_set_pieces	 V: 	table: 0xe4f75000	
+[00:08:00]: 		K: 	1	 V: 	Sculptures_2	
+[00:08:00]: 		K: 	2	 V: 	Sculptures_3	
+[00:08:00]: 		K: 	3	 V: 	Sculptures_4	
+[00:08:00]: 		K: 	4	 V: 	Sculptures_5	
+[00:08:00]: 		K: 	5	 V: 	Chessy_1	
+[00:08:00]: 		K: 	6	 V: 	Chessy_2	
+[00:08:00]: 		K: 	7	 V: 	Chessy_3	
+[00:08:00]: 		K: 	8	 V: 	Chessy_4	
+[00:08:00]: 		K: 	9	 V: 	Chessy_5	
+[00:08:00]: 		K: 	10	 V: 	Chessy_6	
+[00:08:00]: 		K: 	11	 V: 	Maxwell1	
+[00:08:00]: 		K: 	12	 V: 	Maxwell2	
+[00:08:00]: 		K: 	13	 V: 	Maxwell3	
+[00:08:00]: 		K: 	14	 V: 	Maxwell4	
+[00:08:00]: 		K: 	15	 V: 	Maxwell6	
+[00:08:00]: 		K: 	16	 V: 	Maxwell7	
+[00:08:00]: 		K: 	17	 V: 	Warzone_1	
+[00:08:00]: 		K: 	18	 V: 	Warzone_2	
+[00:08:00]: 		K: 	19	 V: 	Warzone_3	
+[00:08:00]: 	K: 	required_prefabs	 V: 	table: 0xe4f74740	
+[00:08:00]: 		K: 	1	 V: 	multiplayer_portal	
+[00:08:00]: 	K: 	required_setpieces	 V: 	table: 0xe4f737d0	
+[00:08:00]: 		K: 	1	 V: 	Sculptures_1	
+[00:08:00]: 		K: 	2	 V: 	Maxwell5	
+[00:08:00]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
+[00:08:00]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
+[00:08:00]: 	K: 	settings_name	 V: 	Survival	
+[00:08:00]: 	K: 	substitutes	 V: 	table: 0xe4f72fb0	
+[00:08:00]: 	K: 	version	 V: 	4	
+[00:08:00]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
+[00:08:00]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:08:00]: 	K: 	worldgen_name	 V: 	Survival	
+[00:08:00]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:08:00]: Prefab Swap Selection: regular grass	
+[00:08:00]: Prefab Swap Selection: regular twigs	
+[00:08:00]: Prefab Swap Selection: regular berries	
+[00:08:00]: Sculptures_1 added to task Squeltch	
+[00:08:00]: Maxwell5 added to task Speak to the king	
+[00:08:00]: Chessy_2 added to task The hunters	
+[00:08:00]: Warzone_2 added to task Dig that rock	
+[00:08:00]: Chessy_5 added to task Make a Beehat	
+[00:08:00]: Sculptures_2 added to task Dig that rock	
+[00:08:00]: New size:	425	default	
+[00:08:00]: Creating story...	
+[00:08:00]: [Story Gen] Generate nodes. Starting at: 'Make a pick'	
+[00:08:00]: [Story Gen] LinkNodesByKeys	
+[00:08:00]: Finding valid start task...	
+[00:08:00]:    ...picked 	Make a pick	
+[00:08:00]: Has start node	Clearing	
+[00:08:00]: Adding Background Nodes	
+[00:08:00]: [Story Gen] Adding Cove Nodes	
+[00:08:00]: [Ocean] Processing ocean fake room content.	
+[00:08:00]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:08:00]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:08:00]: GenerateVoronoiMap [100]:
+[00:08:01]: ...Done.
+[00:08:01]: [Story Gen] Finding nodes on mainland to connect a region to.	
+[00:08:01]: [Story Gen] Generate nodes. Starting at: 'MoonIsland_IslandShards'	
+[00:08:01]: [Story Gen] RestrictNodesByKey	
+[00:08:01]: [Story Gen] Adding Cove Nodes	
+[00:08:01]: [WorldSimActual::WorldGen_AddNewPositions]
+[00:08:01]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:08:01]: GenerateVoronoiMap [50]:
+[00:08:01]: ...Done.
+[00:08:01]: ... story created	
+[00:08:01]: Baking map...	425	
+[00:08:01]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:08:01]: [WorldSimActual::ConvertToTileMap]
+[00:08:01]: [ConvertToTileMap]
+[00:08:01]: [WorldSimActual::ConvertToTileMap] complete
+[00:08:01]: [WorldSimActual::SeparateIslands]
+[00:08:01]: [SeparateIslands]
+[00:08:01]: [WorldSimActual::SeparateIslands] complete
+[00:08:01]: Map Baked!	
+[00:08:01]: [WorldSimActual::ForceConnectivity]
+[00:08:01]: [GenerateLandmasses]
+[00:08:01]: [GenerateLandmasses] islands: 11
+[00:08:01]: [MergeConnectedLandmasses] false
+[00:08:01]: [WorldSimActual::ForceConnectivity] complete
+[00:08:01]: [WorldSimActual::DrawRoads]
+[00:08:01]: [DrawRoads]
+[00:08:01]: [WorldSimActual::DrawRoads] complete
+[00:08:01]: Encoding...	
+[00:08:01]: [WorldSimActual::CreateNodeIdTileMap]
+[00:08:01]: Encoding... DONE	
+[00:08:01]: Checking Tags	
+[00:08:01]: Populating voronoi...	
+[00:08:02]: [ReplaceSingleNonLandTiles] Validating...
+[00:08:02]: [ReplaceSingleNonLandTiles] Replaced 2 tiles.
+[00:08:02]: Not checking for disconnected tiles.	
+[00:08:02]: [Ocean] Placing ocean set pieces.	
+[00:08:02]: [Ocean] Placed 11 of 11 ocean set pieces.	
+[00:08:02]: [Ocean] Convert impassible to water...	
+[00:08:02]: [Ocean]  Square fill...	
+[00:08:04]: [Ocean]  Ground fill...	
+[00:08:04]: [Ocean]  Noise...	
+[00:08:05]: [Ocean]  Blend...	
+[00:08:05]: [Ocean]  Adding shoreline...	
+[00:08:05]: [Ocean] Void Outline...	
+[00:08:05]: [Ocean] Populating the ocean with lots of fun things to do...	
+[00:08:05]: [Ocean] Placing ocean set pieces.	
+[00:08:05]: [Ocean] Placed 9 of 9 ocean set pieces.	
+[00:08:06]: [Ocean] Placing ocean set pieces.	
+[00:08:06]: [Ocean] Placed 1 of 1 ocean set pieces.	
+[00:08:06]: [Ocean] Placing ocean set pieces.	
+[00:08:06]: [Ocean] Placed 2 of 2 ocean set pieces.	
+[00:08:06]: Checking Required Prefab moon_altar_rock_glass has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab sculpture_bishop has at least 1 instances (3 found).	
+[00:08:06]: Checking Required Prefab pigking has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab moon_fissure has at least 2 instances (95 found).	
+[00:08:06]: Checking Required Prefab monkeyqueen has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab terrariumchest has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab gravestone has at least 1 instances (9 found).	
+[00:08:06]: Checking Required Prefab statueglommer has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab waterplant has at least 1 instances (172 found).	
+[00:08:06]: Checking Required Prefab sculpture_rook has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab hermithouse_construction1 has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab moon_altar_rock_seed has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab statueharp_hedgespawner has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab moon_altar_rock_idol has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab crabking_spawner has at least 1 instances (1 found).	
+[00:08:06]: Checking Required Prefab sculpture_knight has at least 1 instances (2 found).	
+[00:08:06]: Checking Required Prefab charlie_stage_post has at least 1 instances (1 found).	
+[00:08:06]: [ReplaceSingleNonLandTiles] Validating...
+[00:08:06]: [ReplaceSingleNonLandTiles] Replaced 1 tiles.
+[00:08:06]: Done forest map gen!	
+[00:08:06]: Checking map...	
+[00:08:06]: Generation complete, injecting world entities.	
+[00:08:06]: Injected world entities.	
+[00:08:06]: WorldSim::SimThread::Main() complete
+[00:08:06]: Serializing world: session/AF3E84DD25BDA32B/0000000002
+[00:08:06]: Klump load on boot started.	
+[00:08:06]: Klump files loaded: 	0	
+[00:08:06]: 	Unload characters	
+[00:08:06]: 	BE assets already loaded	
+[00:08:07]: Begin Session: AF3E84DD25BDA32B
+[00:08:07]: Stomping previously assigned session identifier, two loads issued.
+[00:08:07]: saving to server_temp/server_save	
+[00:08:07]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:08:07]: Loading 19 new character(s)	
+[00:08:07]: Total 19 character(s) loaded	
+[00:08:08]: Loading Nav Grid	
+[00:08:08]: World generated on build 562556 with save version: 5.141, using seed: 1689937113	
+[00:08:13]: Reconstructing topology	
+[00:08:13]: 	...Sorting points	
+[00:08:13]: 	...Sorting edges	
+[00:08:13]: 	...Connecting nodes	
+[00:08:13]: 	...Validating connections	
+[00:08:13]: 	...Housekeeping	
+[00:08:13]: 	...Done!	
+[00:08:13]: [Special Event] Setting up crow_carnival	
+[00:08:13]: 1 uploads added to server. From server_temp
+[00:08:13]: Telling Client our new session identifier: AF3E84DD25BDA32B
+[00:08:14]: [Shard] Secondary Caves(641468961) ready!
+[00:08:14]: World 641468961 is now connected	
+[00:08:14]: Validating portal[1] <-> 641468961[1] (disabled)	
+[00:08:14]: Validating portal[2] <-> 641468961[2] (disabled)	
+[00:08:14]: Validating portal[3] <-> 641468961[3] (disabled)	
+[00:08:14]: Validating portal[4] <-> 641468961[4] (disabled)	
+[00:08:14]: Validating portal[5] <-> 641468961[5] (disabled)	
+[00:08:14]: Validating portal[6] <-> 641468961[6] (disabled)	
+[00:08:14]: Validating portal[7] <-> 641468961[7] (disabled)	
+[00:08:14]: Validating portal[8] <-> 641468961[8] (disabled)	
+[00:08:14]: Validating portal[9] <-> 641468961[9] (disabled)	
+[00:08:14]: Validating portal[10] <-> 641468961[10] (disabled)	
+[00:08:15]: Sim paused
+[00:08:27]: Restarting player migration on master server
+[00:08:27]: [Shard] Read save location file for (KU_K9a7KhGz)
+[00:08:27]: Resuming user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T
+[00:08:30]: Restarting player migration on master server
+[00:08:30]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:08:30]: Resuming user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP
+[00:09:34]: Spawn request: wathgrithr from estarhp
+[00:09:34]: Skin request: () () () () ()
+[00:09:34]: Skill Selection request: 0
+[00:09:34]: Spawning player at: [Fixed] (-22.00, 0.00, -234.00)	
+[00:09:34]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000003
+[00:09:34]: Sim unpaused
+[00:10:10]: Server Paused	
+[00:12:05]: Spawn request: waxwell from 3512835457
+[00:12:05]: Skin request: () () () () ()
+[00:12:05]: Skill Selection request: 0
+[00:12:06]: Spawning player at: [Fixed] (-22.00, 0.00, -234.00)	
+[00:12:06]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000003
+[00:12:33]: Server Unpaused	
+[00:12:52]: Failed to assign item skin ids due to ownership check failure.
+[00:14:56]: Failed to assign item skin ids due to ownership check failure.
+[00:16:00]: [Steam] SendUserDisconnect for '76561199389496337'
+[00:16:00]: Connection lost to 36.162.177.193|53144 <7136289698292002029>
+[00:16:00]: [Shard] (KU_K9a7KhGz) disconnected from [SHDMASTER](1)
+[00:16:01]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000003
+[00:16:46]: Server Autopaused	
+[00:16:48]: New incoming connection 36.162.177.193|52505 <5910239147234812004>
+[00:16:48]: Client connected from 36.162.177.193|52505 <5910239147234812004>
+[00:16:48]: ValidateGameSessionToken GUID<5910239147234812004>
+[00:16:48]: Server Unpaused	
+[00:16:49]: Client authenticated: (KU_K9a7KhGz) 3512835457
+[00:16:49]: [Steam] SendUserConnectAndAuthenticate for '76561199389496337'
+[00:16:49]: [Steam] Authenticated client '76561199389496337'
+[00:16:50]: There is no active event to validate against.
+[00:16:50]: [Shard] Read save location file for (KU_K9a7KhGz)
+[00:17:11]: Resuming user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000003
+[00:17:11]: Spawning player at: [Load] (7.23, 0.00, -176.13)	
+[00:17:59]: Rate limiting RPCs from	120149 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[00:18:49]: Failed to assign item skin ids due to ownership check failure.
+[00:20:00]: Available disk space for save files: 8750 MB
+[00:20:00]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000003
+[00:20:00]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000003
+[00:20:00]: Serializing world: session/AF3E84DD25BDA32B/0000000003
+[00:20:10]: Rate limiting RPCs from	120149 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[00:20:45]: Rate limiting RPCs from	120149 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[00:21:04]: [Steam] SendUserDisconnect for '76561199389496337'
+[00:21:04]: Connection lost to 36.162.177.193|52505 <5910239147234812004>
+[00:21:04]: [Shard] (KU_K9a7KhGz) disconnected from [SHDMASTER](1)
+[00:21:05]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000004
+[00:22:13]: New incoming connection 36.162.177.193|52777 <5910239145047146818>
+[00:22:13]: Client connected from 36.162.177.193|52777 <5910239145047146818>
+[00:22:13]: ValidateGameSessionToken GUID<5910239145047146818>
+[00:22:14]: Client authenticated: (KU_K9a7KhGz) 3512835457
+[00:22:14]: [Steam] SendUserConnectAndAuthenticate for '76561199389496337'
+[00:22:15]: [Steam] Authenticated client '76561199389496337'
+[00:22:16]: There is no active event to validate against.
+[00:22:16]: [Shard] Read save location file for (KU_K9a7KhGz)
+[00:22:37]: Resuming user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000004
+[00:22:37]: Spawning player at: [Load] (29.00, 0.00, -235.81)	
+[00:23:27]: Failed to assign item skin ids due to ownership check failure.
+[00:24:14]: Failed to assign item skin ids due to ownership check failure.
+[00:26:37]: Rate limiting RPCs from	120834 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[00:28:01]: Available disk space for save files: 8743 MB
+[00:28:01]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000004
+[00:28:01]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000004
+[00:28:01]: Serializing world: session/AF3E84DD25BDA32B/0000000004
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_2HEq3klP) from TokenPurpose
+[00:36:01]: Available disk space for save files: 8731 MB
+[00:36:02]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000005
+[00:36:02]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000005
+[00:36:02]: Serializing world: session/AF3E84DD25BDA32B/0000000005
+[00:44:04]: Available disk space for save files: 8690 MB
+[00:44:05]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000006
+[00:44:05]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000006
+[00:44:05]: Serializing world: session/AF3E84DD25BDA32B/0000000006
+[00:51:24]: Could not find anim [death] in bank [ghost]
+[00:51:24]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000007
+[00:52:02]: KU_2HEq3klP	running text command:	rollback	true	
+[00:52:07]: Available disk space for save files: 8676 MB
+[00:52:07]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000007
+[00:52:07]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000007
+[00:52:07]: Serializing world: session/AF3E84DD25BDA32B/0000000007
+[00:52:08]: Received world rollback request: count=1	
+[00:52:08]: Truncating to snapshot #6...
+[00:52:08]:  - session/AF3E84DD25BDA32B/0000000007
+[00:52:08]:  - session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000007
+[00:52:08]:  - session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000007
+[00:52:08]:    3 file(s) removed
+[00:52:09]: Collecting garbage...
+[00:52:09]: lua_gc took 0.39 seconds
+[00:52:09]: ~ShardLuaProxy()
+[00:52:09]: ~cEventLeaderboardProxy()
+[00:52:09]: ~ItemServerLuaProxy()
+[00:52:09]: ~InventoryLuaProxy()
+[00:52:09]: ~NetworkLuaProxy()
+[00:52:09]: ~SimLuaProxy()
+[00:52:10]: lua_close took 0.53 seconds
+[00:52:10]: ReleaseAll
+[00:52:10]: ReleaseAll Finished
+[00:52:10]: cGame::StartPlaying
+[00:52:10]: AppVersion::GetArchitecture() x32
+[00:52:10]: LOADING LUA
+[00:52:10]: DoLuaFile scripts/main.lua
+[00:52:10]: DoLuaFile loading buffer scripts/main.lua
+[00:52:14]:   taskgrouplist:	default	Together	
+[00:52:14]:   taskgrouplist:	classic	Classic	
+[00:52:14]:   taskgrouplist:	cave_default	Underground	
+[00:52:14]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:52:14]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:52:18]: Running main.lua
+	
+[00:52:19]: loaded modindex	
+[00:52:19]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:52:19]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:52:20]: LOADING LUA SUCCESS
+[00:52:22]: PlayerDeaths could not load morgue	
+[00:52:22]: PlayerHistory could not load player_history	
+[00:52:22]: ServerPreferences could not load server_preferences	
+[00:52:22]: ConsoleScreenSettings could not load consolescreen	
+[00:52:22]: bloom_enabled	true	
+[00:52:22]: OnFilesLoaded()	
+[00:52:22]: OnUpdatePurchaseStateComplete	
+[00:52:22]: Loading world: session/AF3E84DD25BDA32B/0000000006	
+[00:52:22]: Save file is at version 5.141	
+[00:52:22]: Klump load on boot started.	
+[00:52:22]: Klump files loaded: 	0	
+[00:52:22]: 	Unload characters	
+[00:52:22]: 	BE assets already loaded	
+[00:52:30]: Begin Session: AF3E84DD25BDA32B
+[00:52:30]: Stomping previously assigned session identifier, two loads issued.
+[00:52:31]: saving to server_temp/server_save	
+[00:52:31]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:52:31]: Loading 19 new character(s)	
+[00:52:34]: Total 19 character(s) loaded	
+[00:52:34]: Loading Nav Grid	
+[00:52:34]: World generated on build 562556 with save version: 5.141, using seed: 1689937113	
+[00:52:35]: setting 	summerlength	15	
+[00:52:35]: setting 	cavemoonphase	half	
+[00:52:35]: setting 	iscavefullmoon	false	
+[00:52:35]: setting 	isnightmaredawn	false	
+[00:52:35]: setting 	elapseddaysinseason	4	
+[00:52:35]: setting 	isfullmoon	false	
+[00:52:35]: setting 	moisture	495.76596069336	
+[00:52:35]: setting 	cavephase	day	
+[00:52:35]: setting 	iscavewaxingmoon	true	
+[00:52:35]: setting 	isnightmarewild	false	
+[00:52:35]: setting 	nightmaretimeinphase	0	
+[00:52:35]: setting 	precipitationrate	0	
+[00:52:35]: setting 	iswet	false	
+[00:52:35]: setting 	isnewmoon	false	
+[00:52:35]: setting 	precipitation	none	
+[00:52:35]: setting 	israining	false	
+[00:52:35]: setting 	isnightmarewarn	false	
+[00:52:35]: setting 	isacidraining	false	
+[00:52:35]: setting 	iswinter	false	
+[00:52:35]: setting 	season	autumn	
+[00:52:35]: setting 	remainingdaysinseason	16	
+[00:52:35]: setting 	winterlength	15	
+[00:52:35]: setting 	iscaveday	true	
+[00:52:35]: setting 	moistureceil	933.59191894531	
+[00:52:35]: setting 	isday	true	
+[00:52:35]: setting 	springlength	20	
+[00:52:35]: setting 	wetness	0	
+[00:52:35]: setting 	iscavedusk	false	
+[00:52:35]: setting 	isalterawake	false	
+[00:52:35]: setting 	isnightmarecalm	false	
+[00:52:35]: setting 	isnight	false	
+[00:52:35]: setting 	isdusk	false	
+[00:52:35]: setting 	isspring	false	
+[00:52:35]: setting 	isautumn	true	
+[00:52:35]: setting 	issnowing	false	
+[00:52:35]: setting 	iswaxingmoon	true	
+[00:52:35]: setting 	phase	day	
+[00:52:35]: setting 	snowlevel	0	
+[00:52:35]: setting 	issnowcovered	false	
+[00:52:35]: setting 	autumnlength	20	
+[00:52:35]: setting 	pop	0.531030689783	
+[00:52:35]: setting 	nightmaretime	0	
+[00:52:35]: setting 	seasonprogress	0.6	
+[00:52:35]: setting 	moonphase	half	
+[00:52:35]: setting 	nightmarephase	none	
+[00:52:35]: setting 	cycles	4	
+[00:52:35]: setting 	timeinphase	0.0042713165283204	
+[00:52:35]: setting 	iscavenight	false	
+[00:52:35]: setting 	iscavenewmoon	false	
+[00:52:35]: setting 	issummer	false	
+[00:52:35]: setting 	temperature	25.16893434458	
+[00:52:35]: setting 	time	0.0021356582641602	
+[00:52:46]: Reconstructing topology	
+[00:52:46]: 	...Sorting points	
+[00:52:46]: 	...Sorting edges	
+[00:52:46]: 	...Connecting nodes	
+[00:52:46]: 	...Validating connections	
+[00:52:46]: 	...Housekeeping	
+[00:52:46]: 	...Done!	
+[00:52:46]: Restoring user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000006	
+[00:52:47]: Restoring user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000006	
+[00:52:47]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000007
+[00:52:47]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000007
+[00:52:47]: 1 uploads added to server. From server_temp
+[00:52:47]: World 641468961 is now connected	
+[00:52:47]: Telling Client our new session identifier: AF3E84DD25BDA32B
+[00:52:47]: Check for write access: TRUE
+[00:52:47]: Check for read access: TRUE
+[00:52:47]: Available disk space for save files: 8672 MB
+[00:52:47]: ModIndex: Load sequence finished successfully.	
+[00:52:48]: Reset() returning
+[00:52:48]: [Shard] Secondary shard 'Caves(641468961)' restarting...
+[00:52:48]: World 641468961 is now disconnected	
+[00:52:48]: Validating portal[6] <-> 641468961[6] (inactive)	
+[00:52:48]: Validating portal[4] <-> 641468961[4] (inactive)	
+[00:52:48]: Validating portal[3] <-> 641468961[3] (inactive)	
+[00:52:48]: Validating portal[7] <-> 641468961[7] (inactive)	
+[00:52:48]: Validating portal[5] <-> 641468961[5] (inactive)	
+[00:52:48]: Validating portal[2] <-> 641468961[2] (inactive)	
+[00:52:48]: Validating portal[9] <-> 641468961[9] (inactive)	
+[00:52:48]: Validating portal[10] <-> 641468961[10] (inactive)	
+[00:52:48]: Validating portal[8] <-> 641468961[8] (inactive)	
+[00:52:48]: Validating portal[1] <-> 641468961[1] (inactive)	
+[00:52:49]: Sim paused
+[00:53:02]: [Shard] Secondary Caves(641468961) ready!
+[00:53:02]: World 641468961 is now connected	
+[00:53:02]: Validating portal[6] <-> 641468961[6] (disabled)	
+[00:53:02]: Validating portal[4] <-> 641468961[4] (disabled)	
+[00:53:02]: Validating portal[3] <-> 641468961[3] (disabled)	
+[00:53:02]: Validating portal[7] <-> 641468961[7] (disabled)	
+[00:53:02]: Validating portal[5] <-> 641468961[5] (disabled)	
+[00:53:02]: Validating portal[2] <-> 641468961[2] (disabled)	
+[00:53:02]: Validating portal[9] <-> 641468961[9] (disabled)	
+[00:53:02]: Validating portal[10] <-> 641468961[10] (disabled)	
+[00:53:02]: Validating portal[8] <-> 641468961[8] (disabled)	
+[00:53:02]: Validating portal[1] <-> 641468961[1] (disabled)	
+[00:53:04]: Restarting player migration on master server
+[00:53:04]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:53:04]: Resuming user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000007
+[00:53:04]: Spawning player at: [Load] (-466.68, 0.00, -426.42)	
+[00:53:04]: Sim unpaused
+[00:53:05]: Restarting player migration on master server
+[00:53:05]: [Shard] Read save location file for (KU_K9a7KhGz)
+[00:53:05]: Resuming user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000007
+[00:53:05]: Spawning player at: [Load] (-470.63, 0.00, -432.26)	
+[00:58:01]: Rate limiting RPCs from	119300 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[01:00:12]: [200] Account Communication Success (6)
+[01:00:12]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:11]: Available disk space for save files: 8668 MB
+[01:01:11]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000007
+[01:01:11]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000007
+[01:01:12]: Serializing world: session/AF3E84DD25BDA32B/0000000007
+[01:01:29]: Failed to assign item skin ids due to ownership check failure.
+[01:01:40]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:01:40]: CURL ERROR: (dst.metrics.klei.com) [28]Resolving timed out after 15811 milliseconds
+[01:01:46]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:02:16]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:03:28]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:03:28]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:03:28]: CURL ERROR: (dst.metrics.klei.com) [28]Connection timed out after 13312 milliseconds
+[01:03:36]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:03:36]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:03:36]: CURL ERROR: (dst.metrics.klei.com) [28]Connection timed out after 8291 milliseconds
+[01:03:36]: CURL ERROR: (dst.metrics.klei.com) [28]Connection timed out after 8209 milliseconds
+[01:03:44]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:08:44]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:08:45]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:08:45]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:09:07]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:09:07]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:09:21]: Available disk space for save files: 8655 MB
+[01:09:22]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000008
+[01:09:22]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000008
+[01:09:22]: Serializing world: session/AF3E84DD25BDA32B/0000000008
+[01:12:07]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:12:07]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:12:33]: Rate limiting RPCs from	119245 - wathgrithr	KU_2HEq3klP	last one being ID	41	
+[01:12:33]: Rate limiting RPCs from	119300 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[01:12:48]: Rate limiting RPCs from	119245 - wathgrithr	KU_2HEq3klP	last one being ID	41	
+[01:14:07]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:14:07]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:14:07]: CURL ERROR: (dst.metrics.klei.com) [28]Connection timed out after 33201 milliseconds
+[01:14:42]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:14:43]: CURL ERROR: (dst.metrics.klei.com) [28]Connection time-out
+[01:16:15]: Rate limiting RPCs from	119245 - wathgrithr	KU_2HEq3klP	last one being ID	41	
+[01:16:18]: Server Paused	
+[01:16:19]: Rate limiting RPCs from	119300 - waxwell	KU_K9a7KhGz	last one being ID	41	
+[01:16:33]: [Steam] SendUserDisconnect for '76561199365741450'
+[01:16:34]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[01:16:35]: Serializing user: session/AF3E84DD25BDA32B/A7G92EQ0TQUP/0000000009
+[01:16:41]: Server Unpaused	
+[01:18:04]: [Steam] SendUserDisconnect for '76561199389496337'
+[01:19:00]: [Shard] (KU_K9a7KhGz) disconnected from [SHDMASTER](1)
+[01:19:06]: Serializing user: session/AF3E84DD25BDA32B/A7IGJ43L5D1T/0000000009

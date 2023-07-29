@@ -1,0 +1,23 @@
+[00:14:47]: [Join Announcement] estarhp
+[00:15:42]: [Join Announcement] 3512835457
+[00:24:16]: [Death Announcement] estarhp was killed by Beefalo. He became a spooky ghost!
+[00:24:21]: [Vote Announcement] rollback passed
+[00:33:18]: [Death Announcement] 3512835457 was killed by Freezing. He became a spooky ghost!
+[00:33:36]: [Vote Announcement] rollback passed
+[00:34:46]: [Death Announcement] 3512835457 was killed by Freezing. He became a spooky ghost!
+[00:34:52]: [Vote Announcement] rollback passed
+[00:54:38]: [Death Announcement] 3512835457 was killed by Beefalo. He became a spooky ghost!
+[00:56:37]: [Death Announcement] estarhp was killed by Crawling Horror. He became a spooky ghost!
+[00:56:44]: [Vote Announcement] rollback passed
+[01:00:23]: [Death Announcement] estarhp was killed by Beefalo. He became a spooky ghost!
+[01:00:46]: [Vote Announcement] rollback passed
+[01:08:57]: [Skin Announcement] 3512835457 legs_shorts_tan_khaki
+[01:14:31]: [Death Announcement] 3512835457 was killed by Darkness. He became a spooky ghost!
+[01:14:44]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[01:14:54]: [Vote Announcement] rollback passed
+[01:20:15]: [Death Announcement] estarhp was killed by Crawling Horror. He became a spooky ghost!
+[01:20:26]: [Death Announcement] 3512835457 was killed by Darkness. He became a spooky ghost!
+[01:21:05]: [Vote Announcement] rollback passed
+[01:25:20]: [Vote Announcement] rollback passed
+[01:26:01]: [Leave Announcement] 3512835457
+[01:26:01]: [Leave Announcement] estarhp

@@ -1,0 +1,388 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 562556
+[00:00:00]: Current time: Thu Jul 20 21:45:26 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: 52405d0eb916
+[00:00:00]: Release(Kernel) Version: 5.10.134-14.1.al8.x86_64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Thu May 25 18:05:52 CST 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 562556 LINUX
+[00:00:00]: Build Date: 8920
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -persistent_storage_root /data -ugc_directory /data/ugc -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: ProfileIndex:3.60
+[00:00:00]: THREAD - started 'GAClient' (4138163008)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: THREAD - started 'StreamInput' (4082088768)
+[00:00:01]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: ConsoleScreenSettings could not load consolescreen	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:04]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (4045138752)
+[00:00:05]: FilesExistAsyncThread started (22134 files)...
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 4902 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Master/save/cached_userid
+[00:00:06]: Received (KU_2HEq3klP) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 11000
+[00:00:06]:   SteamAuthPort: 8768
+[00:00:06]:   SteamMasterServerPort: 27018
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 3
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: true
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]: Online Server Started on port: 11000
+[00:00:06]: Not applying level data overrides.	
+[00:00:06]: Found a worldgen override file with these contents:	
+[00:00:06]: 	K: 	override_enabled	 V: 	true	
+[00:00:06]: 	K: 	overrides	 V: 	table: 0xe7fa9f0	
+[00:00:06]: 	K: 	settings_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:06]: 	K: 	worldgen_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:06]:   sanity-checking worldgenoverride.lua...	
+[00:00:06]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:00:06]:   contained worldgen preset SURVIVAL_TOGETHER, loading...	
+[00:00:06]:   contained settings preset SURVIVAL_TOGETHER, loading...	
+[00:00:06]: Overwriting savedata with override file.	
+[00:00:06]: Collecting garbage...
+[00:00:06]: lua_gc took 0.05 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~cEventLeaderboardProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: FilesExistAsyncThread aborted.
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: lua_close took 0.08 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: AppVersion::GetArchitecture() x32
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]: Running main.lua
+	
+[00:00:06]: loaded modindex	
+[00:00:06]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:06]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:06]: LOADING LUA SUCCESS
+[00:00:06]: PlayerDeaths could not load morgue	
+[00:00:06]: PlayerHistory could not load player_history	
+[00:00:06]: ServerPreferences could not load server_preferences	
+[00:00:06]: ConsoleScreenSettings could not load consolescreen	
+[00:00:06]: bloom_enabled	true	
+[00:00:06]: OnFilesLoaded()	
+[00:00:06]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Loading world: session/0648409BE5F4CFA1/0000000033	
+[00:00:06]: Save file is at version 5.141	
+[00:00:06]: Klump load on boot started.	
+[00:00:06]: Klump files loaded: 	0	
+[00:00:07]: 	Unload FE	
+[00:00:07]: 	Unload FE done	
+[00:00:09]: 	LOAD BE	
+[00:00:19]: 	LOAD BE: done	
+[00:00:19]: Begin Session: 0648409BE5F4CFA1
+[00:00:19]: saving to server_temp/server_save	
+[00:00:19]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:19]: Loading 19 new character(s)	
+[00:00:20]: Total 19 character(s) loaded	
+[00:00:21]: Loading Nav Grid	
+[00:00:21]: World generated on build 562556 with save version: 5.141, using seed: 1689844859	
+[00:00:21]: setting 	summerlength	15	
+[00:00:21]: setting 	cavemoonphase	quarter	
+[00:00:21]: setting 	iscavefullmoon	false	
+[00:00:21]: setting 	isnightmaredawn	false	
+[00:00:21]: setting 	elapseddaysinseason	1	
+[00:00:21]: setting 	isfullmoon	false	
+[00:00:21]: setting 	moisture	5183.2568359375	
+[00:00:21]: setting 	cavephase	dusk	
+[00:00:21]: setting 	iscavewaxingmoon	true	
+[00:00:21]: setting 	isnightmarewild	false	
+[00:00:21]: setting 	nightmaretimeinphase	0	
+[00:00:21]: setting 	precipitationrate	0	
+[00:00:21]: setting 	iswet	false	
+[00:00:21]: setting 	isnewmoon	false	
+[00:00:21]: setting 	precipitation	none	
+[00:00:21]: setting 	israining	false	
+[00:00:21]: setting 	isnightmarewarn	false	
+[00:00:21]: setting 	isacidraining	false	
+[00:00:21]: setting 	iswinter	true	
+[00:00:21]: setting 	season	winter	
+[00:00:21]: setting 	remainingdaysinseason	14	
+[00:00:21]: setting 	winterlength	15	
+[00:00:21]: setting 	iscaveday	false	
+[00:00:21]: setting 	moistureceil	7562.3544921875	
+[00:00:21]: setting 	isday	false	
+[00:00:21]: setting 	springlength	20	
+[00:00:21]: setting 	wetness	0	
+[00:00:21]: setting 	iscavedusk	true	
+[00:00:21]: setting 	isalterawake	false	
+[00:00:21]: setting 	isnightmarecalm	false	
+[00:00:21]: setting 	isnight	false	
+[00:00:21]: setting 	isdusk	true	
+[00:00:21]: setting 	isspring	false	
+[00:00:21]: setting 	isautumn	false	
+[00:00:21]: setting 	issnowing	false	
+[00:00:21]: setting 	iswaxingmoon	true	
+[00:00:21]: setting 	phase	dusk	
+[00:00:21]: setting 	snowlevel	0	
+[00:00:21]: setting 	issnowcovered	false	
+[00:00:21]: setting 	autumnlength	20	
+[00:00:21]: setting 	pop	0.67932397230768	
+[00:00:21]: setting 	nightmaretime	0	
+[00:00:21]: setting 	seasonprogress	0.066666666666667	
+[00:00:21]: setting 	moonphase	quarter	
+[00:00:21]: setting 	nightmarephase	none	
+[00:00:21]: setting 	cycles	21	
+[00:00:21]: setting 	timeinphase	0.65762430826823	
+[00:00:21]: setting 	iscavenight	false	
+[00:00:21]: setting 	iscavenewmoon	false	
+[00:00:21]: setting 	issummer	false	
+[00:00:21]: setting 	temperature	-1.2771944256763	
+[00:00:21]: setting 	time	0.62160911560059	
+[00:00:25]: Reconstructing topology	
+[00:00:25]: 	...Sorting points	
+[00:00:25]: 	...Sorting edges	
+[00:00:25]: 	...Connecting nodes	
+[00:00:25]: 	...Validating connections	
+[00:00:25]: 	...Housekeeping	
+[00:00:25]: 	...Done!	
+[00:00:25]: 1 uploads added to server. From server_temp
+[00:00:25]: About to start a shard with these settings:
+[00:00:25]:   ShardName: [SHDMASTER]
+[00:00:25]:   ShardID: 1
+[00:00:25]:   ShardRole: MASTER
+[00:00:25]:   MasterHost: (null)
+[00:00:25]:   MasterBind: 127.0.0.1
+[00:00:25]:   MasterPort: 10998
+[00:00:25]: [Shard] Starting master server
+[00:00:25]: [Shard] Shard server started on port: 10998
+[00:00:25]: Telling Client our new session identifier: 0648409BE5F4CFA1
+[00:00:26]: Check for write access: TRUE
+[00:00:26]: Check for read access: TRUE
+[00:00:26]: Available disk space for save files: 4902 MB
+[00:00:26]: ModIndex: Load sequence finished successfully.	
+[00:00:26]: Reset() returning
+[00:00:26]: Validating portal[8] <-> 641468961[8] (inactive)	
+[00:00:26]: Validating portal[1] <-> 641468961[1] (inactive)	
+[00:00:26]: Validating portal[2] <-> 641468961[2] (inactive)	
+[00:00:26]: Validating portal[3] <-> 641468961[3] (inactive)	
+[00:00:26]: Validating portal[4] <-> 641468961[4] (inactive)	
+[00:00:26]: Validating portal[5] <-> 641468961[5] (inactive)	
+[00:00:26]: Validating portal[6] <-> 641468961[6] (inactive)	
+[00:00:26]: Validating portal[9] <-> 641468961[9] (inactive)	
+[00:00:26]: Validating portal[7] <-> 641468961[7] (inactive)	
+[00:00:26]: Sim paused
+[00:00:27]: Server registered via geo DNS in ap-southeast-1
+[00:00:27]: [Shard] Secondary shard Caves(641468961) connected: [LAN] 127.0.0.1
+[00:00:28]: [Shard] Secondary Caves(641468961) ready!
+[00:00:28]: World 641468961 is now connected	
+[00:00:28]: Validating portal[8] <-> 641468961[8] (disabled)	
+[00:00:28]: Validating portal[1] <-> 641468961[1] (disabled)	
+[00:00:28]: Validating portal[2] <-> 641468961[2] (disabled)	
+[00:00:28]: Validating portal[3] <-> 641468961[3] (disabled)	
+[00:00:28]: Validating portal[4] <-> 641468961[4] (disabled)	
+[00:00:28]: Validating portal[5] <-> 641468961[5] (disabled)	
+[00:00:28]: Validating portal[6] <-> 641468961[6] (disabled)	
+[00:00:28]: Validating portal[9] <-> 641468961[9] (disabled)	
+[00:00:28]: Validating portal[7] <-> 641468961[7] (active)	
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_2HEq3klP) from TokenPurpose
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_2HEq3klP) from TokenPurpose
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_2HEq3klP) from TokenPurpose
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_2HEq3klP) from TokenPurpose
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_2HEq3klP) from TokenPurpose
+[03:00:06]: [200] Account Communication Success (6)
+[03:00:06]: Received (KU_2HEq3klP) from TokenPurpose
+[03:30:06]: [200] Account Communication Success (6)
+[03:30:06]: Received (KU_2HEq3klP) from TokenPurpose
+[04:00:06]: [200] Account Communication Success (6)
+[04:00:06]: Received (KU_2HEq3klP) from TokenPurpose
+[04:30:06]: [200] Account Communication Success (6)
+[04:30:06]: Received (KU_2HEq3klP) from TokenPurpose
+[05:00:06]: [200] Account Communication Success (6)
+[05:00:06]: Received (KU_2HEq3klP) from TokenPurpose
+[05:30:07]: [200] Account Communication Success (6)
+[05:30:07]: Received (KU_2HEq3klP) from TokenPurpose
+[06:00:07]: [200] Account Communication Success (6)
+[06:00:07]: Received (KU_2HEq3klP) from TokenPurpose
+[06:30:21]: [200] Account Communication Success (6)
+[06:30:21]: Received (KU_2HEq3klP) from TokenPurpose
+[06:36:44]: CURL ERROR: (lobby-v2.klei.com) [28]SSL connection timeout
+[06:36:46]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[06:46:49]: World 641468961 is now disconnected	
+[06:46:49]: Validating portal[8] <-> 641468961[8] (inactive)	
+[06:46:49]: Validating portal[1] <-> 641468961[1] (inactive)	
+[06:46:49]: Validating portal[2] <-> 641468961[2] (inactive)	
+[06:46:49]: Validating portal[3] <-> 641468961[3] (inactive)	
+[06:46:49]: Validating portal[4] <-> 641468961[4] (inactive)	
+[06:46:49]: Validating portal[5] <-> 641468961[5] (inactive)	
+[06:46:49]: Validating portal[6] <-> 641468961[6] (inactive)	
+[06:46:49]: Validating portal[9] <-> 641468961[9] (inactive)	
+[06:46:49]: Validating portal[7] <-> 641468961[7] (inactive)	
+[06:46:49]: [Shard] A shard has disconnected: 'Caves(641468961)'
+[06:46:56]: CURL ERROR: (lobby-v2.klei.com) [28]SSL connection timeout
+[06:46:56]: [Http] Curl failed[0] with HTTP_0, retrying (1 times). Response: __
+[06:49:22]: [Shard] Secondary shard Caves(641468961) connected: [LAN] 127.0.0.1
+[06:49:23]: [Shard] Secondary Caves(641468961) ready!
+[06:49:23]: World 641468961 is now connected	
+[06:49:23]: Validating portal[8] <-> 641468961[8] (disabled)	
+[06:49:23]: Validating portal[1] <-> 641468961[1] (disabled)	
+[06:49:23]: Validating portal[2] <-> 641468961[2] (disabled)	
+[06:49:23]: Validating portal[3] <-> 641468961[3] (disabled)	
+[06:49:23]: Validating portal[4] <-> 641468961[4] (disabled)	
+[06:49:23]: Validating portal[5] <-> 641468961[5] (disabled)	
+[06:49:23]: Validating portal[6] <-> 641468961[6] (disabled)	
+[06:49:23]: Validating portal[9] <-> 641468961[9] (disabled)	
+[06:49:23]: Validating portal[7] <-> 641468961[7] (active)	
+[07:00:08]: [200] Account Communication Success (6)
+[07:00:08]: Received (KU_2HEq3klP) from TokenPurpose
+[07:30:07]: [200] Account Communication Success (6)
+[07:30:07]: Received (KU_2HEq3klP) from TokenPurpose
+[08:00:07]: [200] Account Communication Success (6)
+[08:00:07]: Received (KU_2HEq3klP) from TokenPurpose
+[08:30:07]: [200] Account Communication Success (6)
+[08:30:07]: Received (KU_2HEq3klP) from TokenPurpose
+[09:00:15]: [200] Account Communication Success (6)
+[09:00:15]: Received (KU_2HEq3klP) from TokenPurpose
+[09:30:11]: [200] Account Communication Success (6)
+[09:30:11]: Received (KU_2HEq3klP) from TokenPurpose
+[10:00:15]: [200] Account Communication Success (6)
+[10:00:15]: Received (KU_2HEq3klP) from TokenPurpose
+[10:15:25]: CURL ERROR: (lobby-v2.klei.com) [28]SSL connection timeout
+[10:15:25]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[10:24:23]: World 641468961 is now disconnected	
+[10:24:23]: Validating portal[8] <-> 641468961[8] (inactive)	
+[10:24:23]: Validating portal[1] <-> 641468961[1] (inactive)	
+[10:24:23]: Validating portal[2] <-> 641468961[2] (inactive)	
+[10:24:34]: Validating portal[3] <-> 641468961[3] (inactive)	
+[10:24:35]: Validating portal[4] <-> 641468961[4] (inactive)	
+[10:24:35]: Validating portal[5] <-> 641468961[5] (inactive)	
+[10:24:35]: Validating portal[6] <-> 641468961[6] (inactive)	
+[10:24:35]: Validating portal[9] <-> 641468961[9] (inactive)	
+[10:24:35]: Validating portal[7] <-> 641468961[7] (inactive)	
+[10:24:35]: [Shard] A shard has disconnected: 'Caves(641468961)'
+[10:29:45]: CURL ERROR: (lobby-v2.klei.com) [28]SSL connection timeout
+[10:29:45]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[10:30:08]: [200] Account Communication Success (6)
+[10:30:08]: Received (KU_2HEq3klP) from TokenPurpose
+[10:35:08]: [Shard] Secondary shard Caves(641468961) connected: [LAN] 127.0.0.1
+[10:35:09]: [Shard] Secondary Caves(641468961) ready!
+[10:35:09]: World 641468961 is now connected	
+[10:35:09]: Validating portal[8] <-> 641468961[8] (disabled)	
+[10:35:09]: Validating portal[1] <-> 641468961[1] (disabled)	
+[10:35:09]: Validating portal[2] <-> 641468961[2] (disabled)	
+[10:35:09]: Validating portal[3] <-> 641468961[3] (disabled)	
+[10:35:09]: Validating portal[4] <-> 641468961[4] (disabled)	
+[10:35:09]: Validating portal[5] <-> 641468961[5] (disabled)	
+[10:35:09]: Validating portal[6] <-> 641468961[6] (disabled)	
+[10:35:09]: Validating portal[9] <-> 641468961[9] (disabled)	
+[10:35:09]: Validating portal[7] <-> 641468961[7] (active)	
+[10:39:21]: Available disk space for save files: 9921 MB
+[10:39:22]: Serializing world: session/0648409BE5F4CFA1/0000000034
+[10:39:22]: Truncating to snapshot #34...
+[10:39:22]:  - session/0648409BE5F4CFA1/0000000028
+[10:39:22]:  - session/0648409BE5F4CFA1/A7ILUGHR7MEL/0000000025
+[10:39:22]:  - session/0648409BE5F4CFA1/A7IGJ43L5D1T/0000000018
+[10:39:22]:  - session/0648409BE5F4CFA1/A7G92EQ0TQUP/0000000025
+[10:39:22]:    4 file(s) removed
+[10:39:22]: Removing server from lobby
+[10:39:22]: [Shard] Stopping shard mode
+[10:39:22]: [Steam] SendUserDisconnect for ''
+[10:39:22]: Collecting garbage...
+[10:39:23]: lua_gc took 0.33 seconds
+[10:39:23]: ~ShardLuaProxy()
+[10:39:23]: ~cEventLeaderboardProxy()
+[10:39:23]: ~ItemServerLuaProxy()
+[10:39:23]: ~InventoryLuaProxy()
+[10:39:23]: ~NetworkLuaProxy()
+[10:39:23]: ~SimLuaProxy()
+[10:39:23]: lua_close took 0.41 seconds
+[10:39:24]: CurlRequestManager::ClientThread::Main() complete
+[10:39:24]: HttpClient2 discarded 0 callbacks.
+[10:39:24]: Shutting down

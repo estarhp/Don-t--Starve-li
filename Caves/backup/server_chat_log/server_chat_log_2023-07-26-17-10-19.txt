@@ -1,0 +1,7 @@
+[00:01:13]: [Join Announcement] estarhp
+[00:03:06]: [Join Announcement] 3512835457
+[00:04:30]: [Join Announcement] 3301624889
+[00:26:19]: [Death Announcement] 3512835457 was killed by Freezing. He became a spooky ghost!
+[00:26:24]: [Vote Announcement] rollback passed
+[00:31:45]: [Death Announcement] 3512835457 was killed by Hound. He became a spooky ghost!
+[00:32:13]: [Vote Announcement] rollback passed
