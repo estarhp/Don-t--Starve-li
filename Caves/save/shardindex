@@ -6,7 +6,7 @@ KLEI     1 return {
     encode_user_path=true,
     game_mode="survival",
     max_players=3,
-    name="cluster of estarhp",
+    name="cluster1 of estarhp",
     online_mode=true,
     password="123456",
     playstyle="survival",
