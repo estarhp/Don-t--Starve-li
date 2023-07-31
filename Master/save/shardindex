@@ -1,5 +1,6 @@
 KLEI     1 return {
   enabled_mods={
+    ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
     ["workshop-2287303119"]={
       configuration_options={
         [""]=0,

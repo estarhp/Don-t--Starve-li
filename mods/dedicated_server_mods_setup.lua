@@ -11,4 +11,5 @@
 	--ServerModCollectionSetup("379114180")
 
 ServerModSetup("2287303119");
+ServerModSetup("1207269058");
 ServerModSetup("362175979");

@@ -1,6 +1,0 @@
-[00:01:01]: [Join Announcement] estarhp
-[00:04:07]: [Join Announcement] 3301624889
-[00:05:14]: [Leave Announcement] 3301624889
-[00:08:21]: [Join Announcement] 3301624889
-[00:16:14]: [Leave Announcement] 3301624889
-[00:19:41]: [Leave Announcement] estarhp
