@@ -14,7 +14,7 @@ KLEI     1 return {
     pvp=false,
     server_language="en" 
   },
-  session_id="D67B381B24FC9E3B",
+  session_id="83D2EB7825950434",
   version=5,
   world={
     options={
@@ -29,7 +29,11 @@ KLEI     1 return {
       numrandom_set_pieces=0,
       override_level_string=false,
       overrides={
+        has_ocean=true,
+        keep_disconnected_tiles=true,
         layout_mode="RestrictNodesByKey",
+        no_joining_islands=true,
+        no_wormholes_to_disconnected_tiles=true,
         roads="never",
         season_start="default",
         start_location="caves",
