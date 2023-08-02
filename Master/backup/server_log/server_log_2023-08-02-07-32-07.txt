@@ -1,0 +1,374 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 567776
+[00:00:00]: Current time: Wed Aug  2 07:10:07 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: 4beba9429c90
+[00:00:00]: Release(Kernel) Version: 5.10.134-14.1.al8.x86_64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Thu May 25 18:05:52 CST 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 567776 LINUX
+[00:00:00]: Build Date: 8979
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -skip_update_server_mods -persistent_storage_root /data -ugc_directory /data/ugc -cluster Cluster_1 -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: ProfileIndex:3.63
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4138470208)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x32
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: THREAD - started 'StreamInput' (4082088768)
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: modoverrides.lua enabling workshop-2287303119	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:01]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:01]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:01]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:01]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:01]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:01]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:01]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:01]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:01]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:01]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:01]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:00:01]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:01]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:01]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:01]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:01]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:01]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:01]: ShowMe version:	0.58.7	
+[00:00:01]: show_food_units	-1	-1	-1	
+[00:00:01]: show_uses	-1	-1	-1	
+[00:00:01]: Detected language for ShowMe: 	Auto		
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering Server mod namespace "workshop-1207269058"
+[00:00:02]: Registering Server mod namespace "showmeshint"
+[00:00:02]: Registering Server mod namespace "showme"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: ConsoleScreenSettings could not load consolescreen	
+[00:00:02]: bloom_enabled	true	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:03]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:03]: 	Load FE: done	
+[00:00:03]: THREAD - started 'FilesExistAsyncThread' (4047338304)
+[00:00:03]: FilesExistAsyncThread started (22392 files)...
+[00:00:03]: Check for write access: TRUE
+[00:00:03]: Check for read access: TRUE
+[00:00:03]: Available disk space for save files: 26995 MB
+[00:00:03]: ModIndex: Load sequence finished successfully.	
+[00:00:03]: Reset() returning
+[00:00:04]: [200] Account Communication Success (6)
+[00:00:04]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Master/save/cached_userid
+[00:00:04]: Received (KU_2HEq3klP) from TokenPurpose
+[00:00:04]: Starting Dedicated Server Game	
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: About to start a server with the following settings:
+[00:00:04]:   Dedicated: true
+[00:00:04]:   Online: true
+[00:00:04]:   Passworded: true
+[00:00:04]:   ServerPort: 11000
+[00:00:04]:   SteamAuthPort: 8768
+[00:00:04]:   SteamMasterServerPort: 27018
+[00:00:04]:   ClanID: false
+[00:00:04]:   ClanOnly: false
+[00:00:04]:   ClanAdmin: false
+[00:00:04]:   LanOnly: false
+[00:00:04]:   FriendsOnly: false
+[00:00:04]:   EnableAutosaver: true
+[00:00:04]:   EncodeUserPath: true
+[00:00:04]:   PVP: false
+[00:00:04]:   MaxPlayers: 3
+[00:00:04]:   GameMode: survival
+[00:00:04]:   OverridenDNS: 
+[00:00:04]:   PauseWhenEmpty: true
+[00:00:04]:   IdleTimeout: 1800s
+[00:00:04]:   VoteEnabled: true
+[00:00:04]:   InternetBroadcasting: true
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:04]: Online Server Started on port: 11000
+[00:00:04]: SUCCESS: Loaded modoverrides.lua	
+[00:00:04]: Not applying level data overrides.	
+[00:00:04]: Found a worldgen override file with these contents:	
+[00:00:04]: 	K: 	override_enabled	 V: 	true	
+[00:00:04]: 	K: 	overrides	 V: 	table: 0x103affb0	
+[00:00:04]: 	K: 	settings_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:04]: 	K: 	worldgen_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:04]:   sanity-checking worldgenoverride.lua...	
+[00:00:04]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:00:04]:   contained worldgen preset SURVIVAL_TOGETHER, loading...	
+[00:00:04]:   contained settings preset SURVIVAL_TOGETHER, loading...	
+[00:00:04]: Overwriting savedata with override file.	
+[00:00:04]: Collecting garbage...
+[00:00:04]: lua_gc took 0.05 seconds
+[00:00:04]: ~ShardLuaProxy()
+[00:00:04]: ~cEventLeaderboardProxy()
+[00:00:04]: ~ItemServerLuaProxy()
+[00:00:04]: ~InventoryLuaProxy()
+[00:00:04]: ~NetworkLuaProxy()
+[00:00:04]: ~SimLuaProxy()
+[00:00:04]: FilesExistAsyncThread aborted.
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:04]: lua_close took 0.08 seconds
+[00:00:04]: ReleaseAll
+[00:00:04]: ReleaseAll Finished
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: AppVersion::GetArchitecture() x32
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]:   taskgrouplist:	default	Together	
+[00:00:05]:   taskgrouplist:	classic	Classic	
+[00:00:05]:   taskgrouplist:	cave_default	Underground	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:05]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:05]: Running main.lua
+	
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: modoverrides.lua enabling workshop-1207269058	
+[00:00:05]: modoverrides.lua enabling workshop-2287303119	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:05]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:05]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:00:05]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:05]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:05]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:05]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:05]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:05]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:05]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:05]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:05]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:05]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:00:05]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:05]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:05]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:05]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:05]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:05]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:05]: ShowMe version:	0.58.7	
+[00:00:05]: show_food_units	-1	-1	-1	
+[00:00:05]: show_uses	-1	-1	-1	
+[00:00:05]: Detected language for ShowMe: 	Auto		
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:05]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering Server mod namespace "workshop-1207269058"
+[00:00:05]: Registering Server mod namespace "showmeshint"
+[00:00:05]: Registering Server mod namespace "showme"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: ConsoleScreenSettings could not load consolescreen	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Loading world: session/83D2EB7825950434/0000000203	
+[00:00:05]: Save file is at version 5.142	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:05]: 	Unload FE	
+[00:00:05]: 	Unload FE done	
+[00:00:06]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:06]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:07]: 	LOAD BE	
+[00:00:17]: 	LOAD BE: done	
+[00:00:17]: Begin Session: 83D2EB7825950434
+[00:00:17]: saving to server_temp/server_save	
+[00:00:17]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:17]: Loading 19 new character(s)	
+[00:00:18]: Total 19 character(s) loaded	
+[00:00:19]: Loading Nav Grid	
+[00:00:19]: World generated on build 562556 with save version: 5.141, using seed: 1690302177	
+[00:00:19]: setting 	summerlength	15	
+[00:00:19]: setting 	cavemoonphase	quarter	
+[00:00:19]: setting 	iscavefullmoon	false	
+[00:00:19]: setting 	isnightmaredawn	false	
+[00:00:19]: setting 	elapseddaysinseason	6	
+[00:00:19]: setting 	isfullmoon	false	
+[00:00:19]: setting 	moisture	11898.270507812	
+[00:00:19]: setting 	cavephase	dusk	
+[00:00:19]: setting 	iscavewaxingmoon	true	
+[00:00:19]: setting 	isnightmarewild	false	
+[00:00:19]: setting 	nightmaretimeinphase	0	
+[00:00:19]: setting 	precipitationrate	0.10135965794325	
+[00:00:19]: setting 	iswet	false	
+[00:00:19]: setting 	isnewmoon	false	
+[00:00:19]: setting 	precipitation	rain	
+[00:00:19]: setting 	israining	true	
+[00:00:19]: setting 	isnightmarewarn	false	
+[00:00:19]: setting 	isacidraining	false	
+[00:00:19]: setting 	iswinter	false	
+[00:00:19]: setting 	season	spring	
+[00:00:19]: setting 	remainingdaysinseason	14	
+[00:00:19]: setting 	winterlength	15	
+[00:00:19]: setting 	iscaveday	false	
+[00:00:19]: setting 	moistureceil	12323.98828125	
+[00:00:19]: setting 	isday	false	
+[00:00:19]: setting 	springlength	20	
+[00:00:19]: setting 	wetness	29.621492385864	
+[00:00:19]: setting 	iscavedusk	true	
+[00:00:19]: setting 	isalterawake	false	
+[00:00:19]: setting 	isnightmarecalm	false	
+[00:00:19]: setting 	isnight	false	
+[00:00:19]: setting 	isdusk	true	
+[00:00:19]: setting 	isspring	true	
+[00:00:19]: setting 	isautumn	false	
+[00:00:19]: setting 	issnowing	false	
+[00:00:19]: setting 	iswaxingmoon	true	
+[00:00:19]: setting 	phase	dusk	
+[00:00:19]: setting 	snowlevel	0	
+[00:00:19]: setting 	issnowcovered	false	
+[00:00:19]: setting 	autumnlength	20	
+[00:00:19]: setting 	pop	1	
+[00:00:19]: setting 	nightmaretime	0	
+[00:00:19]: setting 	seasonprogress	0.3	
+[00:00:19]: setting 	moonphase	quarter	
+[00:00:19]: setting 	nightmarephase	none	
+[00:00:19]: setting 	cycles	181	
+[00:00:19]: setting 	timeinphase	0.37541567484538	
+[00:00:19]: setting 	iscavenight	false	
+[00:00:19]: setting 	iscavenewmoon	false	
+[00:00:19]: setting 	issummer	false	
+[00:00:19]: setting 	temperature	18.127659604356	
+[00:00:19]: setting 	time	0.50020783742269	
+[00:00:25]: Reconstructing topology	
+[00:00:25]: 	...Sorting points	
+[00:00:25]: 	...Sorting edges	
+[00:00:25]: 	...Connecting nodes	
+[00:00:25]: 	...Validating connections	
+[00:00:26]: 	...Housekeeping	
+[00:00:26]: 	...Done!	
+[00:00:26]: 1 uploads added to server. From server_temp
+[00:00:26]: About to start a shard with these settings:
+[00:00:26]:   ShardName: [SHDMASTER]
+[00:00:26]:   ShardID: 1
+[00:00:26]:   ShardRole: MASTER
+[00:00:26]:   MasterHost: (null)
+[00:00:26]:   MasterBind: 127.0.0.1
+[00:00:26]:   MasterPort: 10998
+[00:00:26]: [Shard] Starting master server
+[00:00:26]: [Shard] Shard server started on port: 10998
+[00:00:26]: Telling Client our new session identifier: 83D2EB7825950434
+[00:00:26]: Check for write access: TRUE
+[00:00:26]: Check for read access: TRUE
+[00:00:26]: Available disk space for save files: 26995 MB
+[00:00:26]: ModIndex: Load sequence finished successfully.	
+[00:00:26]: Reset() returning
+[00:00:27]: Validating portal[3] <-> 641468961[3] (inactive)	
+[00:00:27]: Validating portal[9] <-> 641468961[9] (inactive)	
+[00:00:27]: Validating portal[6] <-> 641468961[6] (inactive)	
+[00:00:27]: Validating portal[1] <-> 641468961[1] (inactive)	
+[00:00:27]: Validating portal[7] <-> 641468961[7] (inactive)	
+[00:00:27]: Validating portal[4] <-> 641468961[4] (inactive)	
+[00:00:27]: Validating portal[8] <-> 641468961[8] (inactive)	
+[00:00:27]: Validating portal[2] <-> 641468961[2] (inactive)	
+[00:00:27]: Validating portal[5] <-> 641468961[5] (inactive)	
+[00:00:27]: Server registered via geo DNS in ap-east-1
+[00:00:27]: Sim paused
+[00:00:29]: [Shard] Secondary shard Caves(641468961) connected: [LAN] 127.0.0.1
+[00:00:57]: Available disk space for save files: 26995 MB
+[00:00:58]: Serializing world: session/83D2EB7825950434/0000000204
+[00:00:58]: Truncating to snapshot #204...
+[00:00:58]:  - session/83D2EB7825950434/0000000198
+[00:00:58]:  - session/83D2EB7825950434/A7ILUGHR7MEL/0000000198
+[00:00:58]:  - session/83D2EB7825950434/A7G92EQ0TQUP/0000000198
+[00:00:58]:    3 file(s) removed
+[00:00:58]: Removing server from lobby
+[00:00:58]: [Shard] Stopping shard mode
+[00:00:58]: Collecting garbage...
+[00:00:58]: lua_gc took 0.47 seconds
+[00:00:58]: ~ShardLuaProxy()
+[00:00:58]: ~cEventLeaderboardProxy()
+[00:00:58]: ~ItemServerLuaProxy()
+[00:00:58]: ~InventoryLuaProxy()
+[00:00:58]: ~NetworkLuaProxy()
+[00:00:58]: ~SimLuaProxy()
+[00:00:59]: lua_close took 0.62 seconds
+[00:00:59]: CurlRequestManager::ClientThread::Main() complete
+[00:00:59]: HttpClient2 discarded 0 callbacks.
+[00:00:59]: Shutting down
