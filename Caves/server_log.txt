@@ -1,27 +1,27 @@
 [00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Caves/ 
 [00:00:00]: Starting Up
-[00:00:00]: Version: 566991
-[00:00:00]: Current time: Mon Jul 31 13:14:40 2023
+[00:00:00]: Version: 567776
+[00:00:00]: Current time: Wed Aug  2 07:10:07 2023
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: 4beba9429c90
 [00:00:00]: Release(Kernel) Version: 5.10.134-14.1.al8.x86_64
 [00:00:00]: Kernel Build Timestamp: #1 SMP Thu May 25 18:05:52 CST 2023
 [00:00:00]: Machine Arch: x86_64
-[00:00:00]: Don't Starve Together: 566991 LINUX
-[00:00:00]: Build Date: 8966
+[00:00:00]: Don't Starve Together: 567776 LINUX
+[00:00:00]: Build Date: 8979
 [00:00:00]: Mode: 32-bit
 [00:00:00]: Parsing command line
 [00:00:00]: Command Line Arguments: -skip_update_server_mods -persistent_storage_root /data -ugc_directory /data/ugc -cluster Cluster_1 -shard Caves 
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: ProfileIndex:3.54
+[00:00:00]: ProfileIndex:3.72
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
-[00:00:00]: THREAD - started 'GAClient' (4138380096)
-[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4138851136)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
@@ -47,7 +47,7 @@
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:01]: THREAD - started 'StreamInput' (4082088768)
+[00:00:00]: THREAD - started 'StreamInput' (4082088768)
 [00:00:01]:   taskgrouplist:	default	Together	
 [00:00:01]:   taskgrouplist:	classic	Classic	
 [00:00:01]:   taskgrouplist:	cave_default	Underground	
@@ -119,11 +119,11 @@
 [00:00:03]: 	Load FE: done	
 [00:00:03]: Check for write access: TRUE
 [00:00:03]: Check for read access: TRUE
-[00:00:03]: Available disk space for save files: 27001 MB
+[00:00:03]: Available disk space for save files: 26995 MB
 [00:00:03]: ModIndex: Load sequence finished successfully.	
 [00:00:03]: Reset() returning
-[00:00:03]: THREAD - started 'FilesExistAsyncThread' (4047338304)
-[00:00:03]: FilesExistAsyncThread started (22384 files)...
+[00:00:03]: THREAD - started 'FilesExistAsyncThread' (4047670080)
+[00:00:03]: FilesExistAsyncThread started (22392 files)...
 [00:00:04]: [200] Account Communication Success (6)
 [00:00:04]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Caves/save/cached_userid
 [00:00:04]: Received (KU_2HEq3klP) from TokenPurpose
@@ -158,7 +158,7 @@
 [00:00:04]: Not applying level data overrides.	
 [00:00:04]: Found a worldgen override file with these contents:	
 [00:00:04]: 	K: 	override_enabled	 V: 	true	
-[00:00:04]: 	K: 	overrides	 V: 	table: 0x10355380	
+[00:00:04]: 	K: 	overrides	 V: 	table: 0x106a28b0	
 [00:00:04]: 	K: 	settings_preset	 V: 	DST_CAVE	
 [00:00:04]: 	K: 	worldgen_preset	 V: 	DST_CAVE	
 [00:00:04]:   sanity-checking worldgenoverride.lua...	
@@ -167,23 +167,23 @@
 [00:00:04]:   contained settings preset DST_CAVE, loading...	
 [00:00:04]: Overwriting savedata with override file.	
 [00:00:04]: Collecting garbage...
-[00:00:05]: lua_gc took 0.07 seconds
-[00:00:05]: ~ShardLuaProxy()
-[00:00:05]: ~cEventLeaderboardProxy()
-[00:00:05]: ~ItemServerLuaProxy()
-[00:00:05]: ~InventoryLuaProxy()
-[00:00:05]: ~NetworkLuaProxy()
-[00:00:05]: ~SimLuaProxy()
-[00:00:05]: FilesExistAsyncThread aborted.
-[00:00:05]: ... FilesExistAsyncThread complete
-[00:00:05]: lua_close took 0.09 seconds
-[00:00:05]: ReleaseAll
-[00:00:05]: ReleaseAll Finished
-[00:00:05]: cGame::StartPlaying
-[00:00:05]: AppVersion::GetArchitecture() x32
-[00:00:05]: LOADING LUA
-[00:00:05]: DoLuaFile scripts/main.lua
-[00:00:05]: DoLuaFile loading buffer scripts/main.lua
+[00:00:04]: lua_gc took 0.05 seconds
+[00:00:04]: ~ShardLuaProxy()
+[00:00:04]: ~cEventLeaderboardProxy()
+[00:00:04]: ~ItemServerLuaProxy()
+[00:00:04]: ~InventoryLuaProxy()
+[00:00:04]: ~NetworkLuaProxy()
+[00:00:04]: ~SimLuaProxy()
+[00:00:04]: FilesExistAsyncThread aborted.
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:04]: lua_close took 0.08 seconds
+[00:00:04]: ReleaseAll
+[00:00:04]: ReleaseAll Finished
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: AppVersion::GetArchitecture() x32
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
 [00:00:05]:   taskgrouplist:	default	Together	
 [00:00:05]:   taskgrouplist:	classic	Classic	
 [00:00:05]:   taskgrouplist:	cave_default	Underground	
@@ -241,140 +241,141 @@
 [00:00:05]: bloom_enabled	true	
 [00:00:05]: OnFilesLoaded()	
 [00:00:05]: OnUpdatePurchaseStateComplete	
-[00:00:05]: Loading world: session/D67B381B24FC9E3B/0000000116	
-[00:00:05]: Save file is at version 5.141	
+[00:00:05]: Loading world: session/D67B381B24FC9E3B/0000000203	
+[00:00:05]: Save file is at version 5.142	
 [00:00:05]: Klump load on boot started.	
 [00:00:05]: Klump files loaded: 	0	
-[00:00:06]: 	Unload FE	
-[00:00:06]: 	Unload FE done	
-[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
-[00:00:07]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
-[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
-[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
-[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
-[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
-[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:08]: 	LOAD BE	
+[00:00:05]: 	Unload FE	
+[00:00:05]: 	Unload FE done	
+[00:00:06]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:06]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:06]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:07]: 	LOAD BE	
 [00:00:17]: 	LOAD BE: done	
 [00:00:17]: Begin Session: D67B381B24FC9E3B
 [00:00:17]: saving to server_temp/server_save	
-[00:00:18]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:00:18]: Loading 19 new character(s)	
-[00:00:19]: Total 19 character(s) loaded	
-[00:00:22]: Loading Nav Grid	
-[00:00:22]: World generated on build 562556 with save version: 5.141, using seed: 1690302176	
-[00:00:22]: setting 	summerlength	15	
-[00:00:22]: setting 	cavemoonphase	quarter	
-[00:00:22]: setting 	iscavefullmoon	false	
-[00:00:22]: setting 	isnightmaredawn	false	
-[00:00:22]: setting 	elapseddaysinseason	7	
-[00:00:22]: setting 	isfullmoon	false	
-[00:00:22]: setting 	moisture	2918.23046875	
-[00:00:22]: setting 	cavephase	dusk	
-[00:00:22]: setting 	iscavewaxingmoon	false	
-[00:00:22]: setting 	isnightmarewild	false	
-[00:00:22]: setting 	nightmaretimeinphase	0.16369784023787	
-[00:00:22]: setting 	precipitationrate	0	
-[00:00:22]: setting 	iswet	true	
-[00:00:22]: setting 	isnewmoon	false	
-[00:00:22]: setting 	precipitation	none	
-[00:00:22]: setting 	israining	false	
-[00:00:22]: setting 	isnightmarewarn	false	
-[00:00:22]: setting 	isacidraining	false	
-[00:00:22]: setting 	iswinter	true	
-[00:00:22]: setting 	season	winter	
-[00:00:22]: setting 	remainingdaysinseason	8	
-[00:00:22]: setting 	winterlength	15	
-[00:00:22]: setting 	iscaveday	false	
-[00:00:22]: setting 	moistureceil	3970.6911621094	
-[00:00:22]: setting 	isday	false	
-[00:00:22]: setting 	springlength	20	
-[00:00:22]: setting 	wetness	19.162956237793	
-[00:00:22]: setting 	iscavedusk	true	
-[00:00:22]: setting 	isalterawake	false	
-[00:00:22]: setting 	isnightmarecalm	true	
-[00:00:22]: setting 	isnight	true	
-[00:00:22]: setting 	isdusk	false	
-[00:00:22]: setting 	isspring	false	
-[00:00:22]: setting 	isautumn	false	
-[00:00:22]: setting 	issnowing	false	
-[00:00:22]: setting 	iswaxingmoon	true	
-[00:00:22]: setting 	phase	night	
-[00:00:22]: setting 	snowlevel	0	
-[00:00:22]: setting 	issnowcovered	false	
-[00:00:22]: setting 	autumnlength	20	
-[00:00:22]: setting 	pop	0.69158702923581	
-[00:00:22]: setting 	nightmaretime	58.931222485633	
-[00:00:22]: setting 	seasonprogress	0.46666666666667	
-[00:00:22]: setting 	moonphase	new	
-[00:00:22]: setting 	nightmarephase	calm	
-[00:00:22]: setting 	cycles	97	
-[00:00:22]: setting 	timeinphase	0.012214558919271	
-[00:00:22]: setting 	iscavenight	false	
-[00:00:22]: setting 	iscavenewmoon	false	
-[00:00:22]: setting 	issummer	false	
-[00:00:22]: setting 	temperature	-15.596504996961	
-[00:00:22]: setting 	time	0.31631704966227	
-[00:00:22]: [Shard] Secondary shard is waiting for LUA...
-[00:00:25]: SWITCHING 	false	
-[00:00:25]: Reconstructing topology	
-[00:00:25]: 	...Sorting points	
-[00:00:25]: 	...Sorting edges	
-[00:00:25]: 	...Connecting nodes	
-[00:00:25]: 	...Validating connections	
-[00:00:25]: 	...Housekeeping	
-[00:00:25]: 	...Done!	
-[00:00:25]: 1 uploads added to server. From server_temp
-[00:00:25]: About to start a shard with these settings:
-[00:00:25]:   ShardName: Caves
-[00:00:25]:   ShardID: 641468961
-[00:00:25]:   ShardRole: SECONDARY
-[00:00:25]:   MasterHost: 127.0.0.1
-[00:00:25]:   MasterBind: (null)
-[00:00:25]:   MasterPort: 10998
-[00:00:25]: [Shard] Connecting to master...
-[00:00:25]: Telling Client our new session identifier: D67B381B24FC9E3B
-[00:00:25]: Check for write access: TRUE
-[00:00:25]: Check for read access: TRUE
-[00:00:25]: Available disk space for save files: 27001 MB
-[00:00:25]: ModIndex: Load sequence finished successfully.	
-[00:00:26]: Reset() returning
-[00:00:26]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:00:26]: Validating portal[5] <-> 1[5] (inactive)	
-[00:00:26]: Validating portal[9] <-> 1[9] (inactive)	
-[00:00:26]: Validating portal[3] <-> 1[3] (inactive)	
-[00:00:26]: Validating portal[2] <-> 1[2] (inactive)	
-[00:00:26]: Validating portal[7] <-> 1[7] (inactive)	
-[00:00:26]: Validating portal[4] <-> 1[4] (inactive)	
-[00:00:26]: Validating portal[1] <-> 1[1] (inactive)	
-[00:00:26]: Validating portal[6] <-> 1[6] (inactive)	
-[00:00:26]: Validating portal[10] <-> 1[10] (inactive)	
-[00:00:26]: Validating portal[8] <-> 1[8] (inactive)	
-[00:00:31]: About to start a shard with these settings:
-[00:00:31]:   ShardName: Caves
-[00:00:31]:   ShardID: 641468961
-[00:00:31]:   ShardRole: SECONDARY
-[00:00:31]:   MasterHost: 127.0.0.1
-[00:00:31]:   MasterBind: (null)
-[00:00:31]:   MasterPort: 10998
-[00:00:31]: [Shard] Connecting to master...
-[00:00:31]: [Shard] Sending secondary shard information to master...
-[00:00:31]: Received MasterInfoPacket row 84ba218c2dcd31b4519cb9456189cec4 region ap-east-1
-[00:00:31]: Obtaining secondary shard IP from ap-east-1 lobby
-[00:00:32]: [Shard] secondary shard is now ready!
-[00:00:32]: World 1 is now connected	
-[00:00:32]: [SyncWorldSettings] Sending ResyncWorldSettings.	
-[00:00:32]: Validating portal[5] <-> 1[5] (active)	
-[00:00:32]: Validating portal[9] <-> 1[9] (active)	
-[00:00:32]: Validating portal[3] <-> 1[3] (active)	
-[00:00:32]: Validating portal[2] <-> 1[2] (active)	
-[00:00:32]: Validating portal[7] <-> 1[7] (active)	
-[00:00:32]: Validating portal[4] <-> 1[4] (active)	
-[00:00:32]: Validating portal[1] <-> 1[1] (active)	
-[00:00:32]: Validating portal[6] <-> 1[6] (active)	
-[00:00:32]: Validating portal[10] <-> 1[10] (active)	
-[00:00:32]: Validating portal[8] <-> 1[8] (active)	
-[00:00:33]: [Shard] secondary shard LUA is now ready!
-[00:00:33]: Sim paused
-[00:01:38]: Sim unpaused
+[00:00:17]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:17]: Loading 19 new character(s)	
+[00:00:18]: Total 19 character(s) loaded	
+[00:00:21]: Loading Nav Grid	
+[00:00:21]: World generated on build 562556 with save version: 5.141, using seed: 1690302176	
+[00:00:21]: setting 	summerlength	15	
+[00:00:21]: setting 	cavemoonphase	new	
+[00:00:21]: setting 	iscavefullmoon	false	
+[00:00:21]: setting 	isnightmaredawn	true	
+[00:00:21]: setting 	elapseddaysinseason	6	
+[00:00:21]: setting 	isfullmoon	false	
+[00:00:21]: setting 	moisture	482.19506835938	
+[00:00:21]: setting 	cavephase	dusk	
+[00:00:21]: setting 	iscavewaxingmoon	true	
+[00:00:21]: setting 	isnightmarewild	false	
+[00:00:21]: setting 	nightmaretimeinphase	0.69792548712285	
+[00:00:21]: setting 	precipitationrate	0.317757412876	
+[00:00:21]: setting 	iswet	true	
+[00:00:21]: setting 	isnewmoon	false	
+[00:00:21]: setting 	precipitation	rain	
+[00:00:21]: setting 	israining	true	
+[00:00:21]: setting 	isnightmarewarn	false	
+[00:00:21]: setting 	isacidraining	false	
+[00:00:21]: setting 	iswinter	false	
+[00:00:21]: setting 	season	spring	
+[00:00:21]: setting 	remainingdaysinseason	14	
+[00:00:21]: setting 	winterlength	15	
+[00:00:21]: setting 	iscaveday	false	
+[00:00:21]: setting 	moistureceil	2822.7983398438	
+[00:00:21]: setting 	isday	false	
+[00:00:21]: setting 	springlength	20	
+[00:00:21]: setting 	wetness	100	
+[00:00:21]: setting 	iscavedusk	true	
+[00:00:21]: setting 	isalterawake	false	
+[00:00:21]: setting 	isnightmarecalm	false	
+[00:00:21]: setting 	isnight	true	
+[00:00:21]: setting 	isdusk	false	
+[00:00:21]: setting 	isspring	true	
+[00:00:21]: setting 	isautumn	false	
+[00:00:21]: setting 	issnowing	false	
+[00:00:21]: setting 	iswaxingmoon	true	
+[00:00:21]: setting 	phase	night	
+[00:00:21]: setting 	snowlevel	0	
+[00:00:21]: setting 	issnowcovered	false	
+[00:00:21]: setting 	autumnlength	20	
+[00:00:21]: setting 	pop	1	
+[00:00:21]: setting 	nightmaretime	641.87552922737	
+[00:00:21]: setting 	seasonprogress	0.3	
+[00:00:21]: setting 	moonphase	new	
+[00:00:21]: setting 	nightmarephase	dawn	
+[00:00:21]: setting 	cycles	181	
+[00:00:21]: setting 	timeinphase	0.70515371958415	
+[00:00:21]: setting 	iscavenight	false	
+[00:00:21]: setting 	iscavenewmoon	false	
+[00:00:21]: setting 	issummer	false	
+[00:00:21]: setting 	temperature	11.978643007716	
+[00:00:21]: setting 	time	0.66507685979207	
+[00:00:21]: [Shard] Secondary shard is waiting for LUA...
+[00:00:24]: SWITCHING 	false	
+[00:00:24]: Reconstructing topology	
+[00:00:24]: 	...Sorting points	
+[00:00:24]: 	...Sorting edges	
+[00:00:24]: 	...Connecting nodes	
+[00:00:24]: 	...Validating connections	
+[00:00:24]: 	...Housekeeping	
+[00:00:24]: 	...Done!	
+[00:00:24]: 1 uploads added to server. From server_temp
+[00:00:24]: About to start a shard with these settings:
+[00:00:24]:   ShardName: Caves
+[00:00:24]:   ShardID: 641468961
+[00:00:24]:   ShardRole: SECONDARY
+[00:00:24]:   MasterHost: 127.0.0.1
+[00:00:24]:   MasterBind: (null)
+[00:00:24]:   MasterPort: 10998
+[00:00:24]: [Shard] Connecting to master...
+[00:00:24]: Telling Client our new session identifier: D67B381B24FC9E3B
+[00:00:24]: Check for write access: TRUE
+[00:00:24]: Check for read access: TRUE
+[00:00:24]: Available disk space for save files: 26995 MB
+[00:00:24]: ModIndex: Load sequence finished successfully.	
+[00:00:24]: Reset() returning
+[00:00:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:25]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:25]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:25]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:25]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:25]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:25]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:25]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:25]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:25]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:25]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:29]: About to start a shard with these settings:
+[00:00:29]:   ShardName: Caves
+[00:00:29]:   ShardID: 641468961
+[00:00:29]:   ShardRole: SECONDARY
+[00:00:29]:   MasterHost: 127.0.0.1
+[00:00:29]:   MasterBind: (null)
+[00:00:29]:   MasterPort: 10998
+[00:00:29]: [Shard] Connecting to master...
+[00:00:29]: [Shard] Sending secondary shard information to master...
+[00:00:29]: Received MasterInfoPacket row b569a1cff0542d1e8dc30dcb5e1b0b08 region ap-east-1
+[00:00:57]: Available disk space for save files: 26995 MB
+[00:00:57]: Serializing world: session/D67B381B24FC9E3B/0000000204
+[00:00:57]: Truncating to snapshot #204...
+[00:00:57]:  - session/D67B381B24FC9E3B/0000000198
+[00:00:57]:    1 file(s) removed
+[00:00:57]: [Shard] Stopping shard mode
+[00:00:58]: Collecting garbage...
+[00:00:58]: lua_gc took 0.28 seconds
+[00:00:58]: ~ShardLuaProxy()
+[00:00:58]: ~cEventLeaderboardProxy()
+[00:00:58]: ~ItemServerLuaProxy()
+[00:00:58]: ~InventoryLuaProxy()
+[00:00:58]: ~NetworkLuaProxy()
+[00:00:58]: ~SimLuaProxy()
+[00:00:58]: lua_close took 0.35 seconds
+[00:00:58]: CurlRequestManager::ClientThread::Main() complete
+[00:00:58]: HttpClient2 discarded 0 callbacks.
+[00:00:58]: Shutting down
