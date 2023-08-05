@@ -1,0 +1,86 @@
+[00:01:29]: [Join Announcement] estarhp
+[00:02:10]: [Join Announcement] 3301624889
+[00:04:45]: [Death Announcement] estarhp was killed by Deerclops. She became a spooky ghost!
+[00:04:59]: [Vote Announcement] rollback passed
+[00:09:25]: [Vote Announcement] rollback passed
+[00:10:23]: [Vote Announcement] rollback passed
+[00:11:26]: [Vote Announcement] rollback passed
+[00:12:09]: [Leave Announcement] 3301624889
+[00:12:35]: [Vote Announcement] rollback passed
+[00:13:44]: [Vote Announcement] rollback passed
+[00:16:28]: [Join Announcement] 3301624889
+[00:22:05]: [Leave Announcement] estarhp
+[00:22:07]: [Leave Announcement] 3301624889
+[02:05:52]: [Join Announcement] estarhp
+[02:06:46]: [Join Announcement] 3301624889
+[02:33:10]: [Death Announcement] estarhp was killed by Darkness. She became a spooky ghost!
+[02:33:13]: [Vote Announcement] rollback passed
+[03:35:55]: [Vote Announcement] rollback passed
+[04:15:05]: [Vote Announcement] rollback passed
+[04:55:50]: [Leave Announcement] 3301624889
+[04:55:54]: [Leave Announcement] estarhp
+[14:40:48]: [Join Announcement] estarhp
+[14:41:38]: [Join Announcement] 3301624889
+[15:41:48]: [Death Announcement] estarhp was killed by Red Hound. She became a spooky ghost!
+[15:41:52]: [Vote Announcement] rollback passed
+[17:09:36]: [Death Announcement] 3301624889 was killed by Spider Queen. He became a spooky ghost!
+[17:10:04]: [Vote Announcement] rollback passed
+[17:24:33]: [Vote Announcement] rollback passed
+[18:34:56]: [Death Announcement] 3301624889 was killed by Dragonfly. He became a spooky ghost!
+[18:35:04]: [Vote Announcement] rollback passed
+[20:53:16]: [Announcement] You feel an evil presence watching you...
+[20:53:26]: [Announcement] The Eye of Terror turns its gaze toward estarhp
+[21:47:38]: [Leave Announcement] 3301624889
+[21:55:14]: [Leave Announcement] estarhp
+[23:21:05]: [Join Announcement] estarhp
+[23:21:34]: [Join Announcement] 3301624889
+[23:37:53]: [Join Announcement] 3512835457
+[23:43:00]: [Death Announcement] estarhp was killed by Freezing. She became a spooky ghost!
+[23:43:04]: [Vote Announcement] rollback passed
+[23:45:35]: [Death Announcement] estarhp was killed by Varglet. She became a spooky ghost!
+[23:46:32]: [Resurrect Announcement] estarhp was resurrected by 3301624889.
+[00:02:15]: [Vote Announcement] rollback passed
+[00:04:57]: [Death Announcement] 3301624889 was killed by No-Eyed Deer. He became a spooky ghost!
+[00:05:02]: [Vote Announcement] rollback passed
+[00:05:36]: [Vote Announcement] rollback passed
+[00:15:53]: [Vote Announcement] rollback passed
+[00:33:39]: [Death Announcement] 3512835457 was killed by Krampus. He became a spooky ghost!
+[00:33:46]: [Vote Announcement] rollback passed
+[00:48:02]: [Death Announcement] 3301624889 was killed by Klaus. He became a spooky ghost!
+[00:48:21]: [Vote Announcement] rollback passed
+[00:57:25]: [Death Announcement] estarhp was killed by Klaus. She became a spooky ghost!
+[00:57:36]: [Vote Announcement] rollback passed
+[00:58:19]: [Death Announcement] estarhp was killed by Klaus. She became a spooky ghost!
+[00:58:29]: [Vote Announcement] rollback passed
+[01:00:17]: [Vote Announcement] rollback passed
+[01:41:50]: [Leave Announcement] 3512835457
+[01:42:07]: [Leave Announcement] 3301624889
+[01:42:10]: [Leave Announcement] estarhp
+[15:23:35]: [Join Announcement] estarhp
+[15:24:10]: [Join Announcement] 3301624889
+[15:41:28]: [Join Announcement] 3512835457
+[16:15:34]: [Death Announcement] 3301624889 was killed by Terrorbeak. He became a spooky ghost!
+[16:16:13]: [Vote Announcement] rollback passed
+[16:42:56]: [Vote Announcement] rollback passed
+[16:43:16]: [Death Announcement] 3301624889 was killed by Depths Worm. He became a spooky ghost!
+[16:43:45]: [Leave Announcement] 3512835457
+[16:46:33]: [Death Announcement] 3301624889 was killed by Depths Worm. He became a spooky ghost!
+[16:46:38]: [Vote Announcement] rollback passed
+[16:46:58]: [Death Announcement] estarhp was killed by Depths Worm. She became a spooky ghost!
+[16:48:46]: [Leave Announcement] estarhp
+[16:49:19]: [Join Announcement] estarhp
+[16:52:32]: [Death Announcement] estarhp was killed by Terrorbeak. She became a spooky ghost!
+[16:52:35]: [Vote Announcement] rollback passed
+[16:55:05]: [Death Announcement] estarhp was killed by Depths Worm. She became a spooky ghost!
+[16:55:08]: [Vote Announcement] rollback passed
+[16:55:29]: [Death Announcement] 3301624889 was killed by Depths Worm. He became a spooky ghost!
+[17:29:11]: [Death Announcement] estarhp was killed by Splumonkey. She became a spooky ghost!
+[17:29:13]: [Vote Announcement] rollback passed
+[17:29:34]: [Death Announcement] 3301624889 was killed by Splumonkey. He became a spooky ghost!
+[17:32:26]: [Vote Announcement] rollback passed
+[17:37:51]: [Death Announcement] 3301624889 was killed by Splumonkey. He became a spooky ghost!
+[17:38:10]: [Vote Announcement] rollback passed
+[17:40:07]: [Death Announcement] 3301624889 was killed by Splumonkey. He became a spooky ghost!
+[17:40:19]: [Vote Announcement] rollback passed
+[17:42:29]: [Leave Announcement] estarhp
+[17:42:30]: [Leave Announcement] 3301624889

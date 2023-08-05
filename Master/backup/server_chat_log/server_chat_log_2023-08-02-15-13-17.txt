@@ -1,0 +1,16 @@
+[00:02:02]: [Join Announcement] estarhp
+[00:03:33]: [Join Announcement] 3301624889
+[01:17:20]: [Announcement] You feel an evil presence watching you...
+[01:17:30]: [Announcement] The Eye of Terror turns its gaze toward 3301624889
+[01:25:00]: [Announcement] You feel an evil presence watching you...
+[01:25:10]: [Announcement] The Eye of Terror turns its gaze toward 3301624889
+[01:40:56]: [Death Announcement] 3301624889 was killed by Spider. He became a spooky ghost!
+[01:41:20]: [Vote Announcement] rollback passed
+[01:42:04]: [Leave Announcement] 3301624889
+[01:42:07]: [Leave Announcement] estarhp
+[05:33:15]: [Join Announcement] estarhp
+[05:35:21]: [Join Announcement] 3301624889
+[05:43:53]: [Announcement] You feel an evil presence watching you...
+[05:44:03]: [Announcement] The Eye of Terror turns its gaze toward 3301624889
+[05:48:38]: [Leave Announcement] 3301624889
+[05:50:58]: [Leave Announcement] estarhp
