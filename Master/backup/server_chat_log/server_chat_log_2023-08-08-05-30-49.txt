@@ -1,0 +1,11 @@
+[00:09:33]: [Join Announcement] estarhp
+[00:10:03]: [Leave Announcement] estarhp
+[11:16:53]: [Join Announcement] estarhp
+[11:17:11]: [Join Announcement] 3301624889
+[11:25:31]: [Leave Announcement] 3301624889
+[11:26:18]: [Join Announcement] 3301624889
+[13:25:47]: [Join Announcement] estarhp
+[13:51:41]: [Death Announcement] estarhp was killed by Nightmarebeak. She became a spooky ghost!
+[13:51:43]: [Vote Announcement] rollback passed
+[15:53:24]: [Leave Announcement] estarhp
+[15:54:13]: [Leave Announcement] 3301624889
