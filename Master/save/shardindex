@@ -27,7 +27,7 @@ KLEI     1 return {
     description="cluster of estarhp",
     encode_user_path=true,
     game_mode="survival",
-    max_players=3,
+    max_players=4,
     name="cluster1 of estarhp",
     online_mode=true,
     password="123456",

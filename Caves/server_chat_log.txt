@@ -1,7 +1,8 @@
-[17:04:12]: [Join Announcement] estarhp
-[17:55:32]: [Vote Announcement] rollback passed
-[19:00:27]: [Leave Announcement] estarhp
-[19:44:56]: [Join Announcement] estarhp
-[19:45:12]: [Join Announcement] 3512835457
-[20:02:33]: [Join Announcement] 3301624889
-[20:42:03]: [Leave Announcement] estarhp
+[00:01:59]: [Join Announcement] estarhp
+[00:02:22]: [Join Announcement] 3301624889
+[00:03:37]: [Join Announcement] 3512835457
+[00:17:16]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[00:17:31]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[00:23:21]: [Death Announcement] estarhp was killed by Red Hound. He became a spooky ghost!
+[00:23:53]: [Vote Announcement] rollback passed
+[00:24:40]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
