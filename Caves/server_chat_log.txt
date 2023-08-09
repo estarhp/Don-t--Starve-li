@@ -1,21 +1,7 @@
-[07:34:54]: [Join Announcement] estarhp
-[07:40:42]: [Join Announcement] 3301624889
-[08:27:59]: [Join Announcement] 3512835457
-[08:53:58]: [Death Announcement] 3512835457 was killed by Klaus. He became a spooky ghost!
-[08:54:10]: [Vote Announcement] rollback passed
-[08:57:17]: [Death Announcement] 3301624889 was killed by No-Eyed Deer. He became a spooky ghost!
-[08:57:23]: [Vote Announcement] rollback passed
-[08:59:30]: [Death Announcement] 3512835457 was killed by Klaus. He became a spooky ghost!
-[09:00:09]: [Vote Announcement] rollback passed
-[09:01:08]: [Death Announcement] 3301624889 was killed by Klaus. He became a spooky ghost!
-[09:01:15]: [Vote Announcement] rollback passed
-[09:05:42]: [Death Announcement] 3512835457 was killed by Klaus. He became a spooky ghost!
-[09:05:48]: [Vote Announcement] rollback passed
-[09:09:06]: [Death Announcement] estarhp was killed by Klaus. She became a spooky ghost!
-[09:19:04]: [Death Announcement] estarhp was killed by Krampus. She became a spooky ghost!
-[09:19:15]: [Vote Announcement] rollback passed
-[09:45:24]: [Death Announcement] 3512835457 was killed by Tallbird. He became a spooky ghost!
-[09:45:36]: [Vote Announcement] rollback passed
-[10:05:11]: [Leave Announcement] estarhp
-[10:05:22]: [Leave Announcement] 3512835457
-[10:05:27]: [Leave Announcement] 3301624889
+[17:04:12]: [Join Announcement] estarhp
+[17:55:32]: [Vote Announcement] rollback passed
+[19:00:27]: [Leave Announcement] estarhp
+[19:44:56]: [Join Announcement] estarhp
+[19:45:12]: [Join Announcement] 3512835457
+[20:02:33]: [Join Announcement] 3301624889
+[20:42:03]: [Leave Announcement] estarhp
