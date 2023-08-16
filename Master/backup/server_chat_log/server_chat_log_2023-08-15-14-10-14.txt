@@ -1,0 +1,27 @@
+[00:01:53]: [Join Announcement] 3301624889
+[00:07:43]: [Join Announcement] 3512835457
+[00:10:50]: [Leave Announcement] 3512835457
+[00:14:04]: [Leave Announcement] 3301624889
+[00:43:16]: [Join Announcement] estarhp
+[00:43:51]: [Join Announcement] 3512835457
+[00:44:29]: [Join Announcement] 3301624889
+[01:14:01]: [Leave Announcement] estarhp
+[01:14:02]: [Leave Announcement] 3301624889
+[01:14:10]: [Leave Announcement] 3512835457
+[00:23:14]: [Join Announcement] estarhp
+[00:34:17]: [Join Announcement] 3512835457
+[00:36:01]: [Join Announcement] 3301624889
+[00:39:30]: [Death Announcement] estarhp was killed by Shadow Bishop. He became a spooky ghost!
+[00:41:13]: [Death Announcement] 3512835457 was killed by Shadow Bishop. He became a spooky ghost!
+[00:41:26]: [Vote Announcement] rollback passed
+[00:50:17]: [Leave Announcement] 3512835457
+[01:23:58]: [Join Announcement] 3512835457
+[02:06:57]: [Death Announcement] 3512835457 was killed by Dragonfly. He became a spooky ghost!
+[02:07:09]: [Vote Announcement] rollback passed
+[02:23:25]: [Leave Announcement] estarhp
+[02:35:59]: [Death Announcement] 3512835457 was killed by Dragonfly. He became a spooky ghost!
+[02:36:16]: [Vote Announcement] rollback passed
+[02:48:37]: [Death Announcement] 3512835457 was killed by Starvation. He became a spooky ghost!
+[02:50:24]: [Resurrect Announcement] 3512835457 was resurrected by 3301624889.
+[02:50:39]: [Leave Announcement] 3301624889
+[02:51:56]: [Leave Announcement] 3512835457

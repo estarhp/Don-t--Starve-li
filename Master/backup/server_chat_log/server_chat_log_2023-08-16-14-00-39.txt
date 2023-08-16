@@ -1,0 +1,45 @@
+[00:01:05]: [Join Announcement] estarhp
+[00:01:23]: [Join Announcement] 3512835457
+[00:02:11]: [Join Announcement] 3301624889
+[00:18:18]: [Vote Announcement] rollback passed
+[00:45:23]: [Leave Announcement] estarhp
+[00:48:34]: [Join Announcement] estarhp
+[01:00:48]: [Death Announcement] 3512835457 was killed by Shadow Rook. He became a spooky ghost!
+[01:02:54]: [Resurrect Announcement] 3512835457 was resurrected by estarhp.
+[01:48:00]: [Leave Announcement] estarhp
+[01:50:10]: [Join Announcement] 3512835457
+[01:51:07]: [Join Announcement] estarhp
+[01:52:23]: [Leave Announcement] estarhp
+[01:52:26]: [Leave Announcement] 3301624889
+[01:53:11]: [Leave Announcement] 3512835457
+[01:54:41]: [Join Announcement] 3512835457
+[01:55:44]: [Join Announcement] estarhp
+[01:57:01]: [Join Announcement] 3301624889
+[01:58:08]: [Leave Announcement] 3512835457
+[01:58:58]: [Join Announcement] 3512835457
+[02:12:25]: [Death Announcement] 3512835457 was killed by Crawling Horror. He became a spooky ghost!
+[02:12:31]: [Vote Announcement] rollback passed
+[02:12:55]: [Death Announcement] estarhp was killed by Crawling Horror. He became a spooky ghost!
+[02:20:47]: [Death Announcement] estarhp was killed by Damaged Bishop. He became a spooky ghost!
+[02:21:03]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[02:46:52]: [Vote Announcement] rollback passed
+[02:52:34]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[02:53:05]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[02:54:09]: [Vote Announcement] rollback passed
+[03:08:37]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[03:08:43]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[03:09:25]: [Death Announcement] 3301624889 was killed by Ancient Fuelweaver. He became a spooky ghost!
+[03:09:27]: [Death Announcement] 3512835457 was killed by Ancient Fuelweaver. He became a spooky ghost!
+[03:09:32]: [Resurrect Announcement] 3512835457 was resurrected by Life Giving Amulet.
+[03:09:34]: [Resurrect Announcement] 3301624889 was resurrected by Life Giving Amulet.
+[03:09:50]: [Death Announcement] estarhp was killed by Ancient Fuelweaver. He became a spooky ghost!
+[03:10:12]: [Vote Announcement] rollback passed
+[03:17:44]: [Death Announcement] 3512835457 was killed by Ancient Fuelweaver. He became a spooky ghost!
+[03:17:51]: [Death Announcement] 3301624889 was killed by Ancient Fuelweaver. He became a spooky ghost!
+[03:17:51]: [Resurrect Announcement] 3512835457 was resurrected by Life Giving Amulet.
+[03:17:53]: [Death Announcement] estarhp was killed by Crawling Horror. He became a spooky ghost!
+[03:18:15]: [Vote Announcement] rollback passed
+[03:18:39]: [Death Announcement] 3512835457 was killed by Ancient Fuelweaver. He became a spooky ghost!
+[03:19:44]: [Leave Announcement] 3512835457
+[03:19:48]: [Leave Announcement] 3301624889
+[03:20:29]: [Leave Announcement] estarhp
