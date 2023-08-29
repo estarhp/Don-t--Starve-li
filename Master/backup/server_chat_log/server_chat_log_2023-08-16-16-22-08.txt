@@ -1,0 +1,12 @@
+[00:02:14]: [Join Announcement] estarhp
+[00:06:06]: [Join Announcement] 3512835457
+[00:09:47]: [Join Announcement] 3301624889
+[00:28:30]: [Death Announcement] estarhp was killed by Darkness. He became a spooky ghost!
+[00:29:12]: [Resurrect Announcement] estarhp was resurrected by 3512835457.
+[01:09:11]: [Death Announcement] 3512835457 was killed by Darkness. He became a spooky ghost!
+[01:10:01]: [Resurrect Announcement] 3512835457 was resurrected by 3301624889.
+[01:14:44]: [Leave Announcement] 3512835457
+[01:30:47]: [Leave Announcement] estarhp
+[01:32:35]: [Join Announcement] estarhp
+[01:33:33]: [Leave Announcement] estarhp
+[01:38:53]: [Leave Announcement] 3301624889

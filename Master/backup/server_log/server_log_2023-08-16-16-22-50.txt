@@ -1,0 +1,154 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 569068
+[00:00:00]: Current time: Wed Aug 16 16:22:07 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: 52405d0eb916
+[00:00:00]: Release(Kernel) Version: 5.10.134-15.al8.x86_64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Thu Jul 20 00:44:04 CST 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 569068 LINUX
+[00:00:00]: Build Date: 8998
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -persistent_storage_root /data -ugc_directory /data/ugc -only_update_server_mods 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: ProfileIndex:3.56
+[00:00:00]: THREAD - started 'GAClient' (4138076992)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (4082088768)
+[00:00:01]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Success)
+[00:00:01]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x32
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:06]: [Workshop] Item query page 0, size: 3, total size: 3
+[00:00:06]: [Workshop] Item query queued IDs: 2287303119 1207269058 362175979
+[00:00:06]: [Workshop] Item query sent
+[00:00:06]: [Workshop] ItemQuery got this many results: 3, matching: 3
+[00:00:06]: [Workshop] ModQuery got 3 results
+[00:00:06]: [Workshop] ModQuery queued to download IDs: 362175979
+[00:00:06]: [Workshop] ModQuery already have IDs: {0.58.7,2287303119} {2.16,1207269058}
+[00:00:06]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:06]: [Workshop] ItemQuery downloading 1 pending mods marked to download
+[00:00:06]: [Workshop] DownloadPublishedFile [10] 362175979
+[00:00:10]: [Workshop] OnDownloadPublishedFile [37] 362175979
+[00:00:10]: [Workshop] ODPF failed entirely: 37
+[00:00:37]: DownloadServerMods timed out with no response from Workshop...
+[00:00:37]: FinishDownloadingServerMods Complete! Process trying to quit nicely..
+[00:00:37]: SUCCESS: Loaded modoverrides.lua	
+[00:00:37]: modoverrides.lua enabling workshop-1207269058	
+[00:00:37]: modoverrides.lua enabling workshop-2287303119	
+[00:00:37]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:00:37]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:37]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:00:37]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.58.7	
+[00:00:37]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:37]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:00:37]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:37]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:00:37]: Overriding mod workshop-2287303119's option  with value 0	
+[00:00:37]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:00:37]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:00:37]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:00:37]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:00:37]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:00:37]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:00:37]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:00:37]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:00:37]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:00:37]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:00:37]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:00:37]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:00:37]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:00:37]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:00:37]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:37]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:00:37]: ShowMe version:	0.58.7	
+[00:00:37]: show_food_units	-1	-1	-1	
+[00:00:37]: show_uses	-1	-1	-1	
+[00:00:37]: Detected language for ShowMe: 	Auto		
+[00:00:37]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:37]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:37]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:37]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:39]: LOADING LUA SUCCESS
+[00:00:39]: Registering Server mod namespace "workshop-1207269058"
+[00:00:39]: Registering Server mod namespace "showmeshint"
+[00:00:39]: Registering Server mod namespace "showme"
+[00:00:39]: PlayerDeaths could not load morgue	
+[00:00:39]: PlayerHistory could not load player_history	
+[00:00:39]: ServerPreferences could not load server_preferences	
+[00:00:39]: ConsoleScreenSettings could not load consolescreen	
+[00:00:39]: bloom_enabled	true	
+[00:00:39]: OnFilesLoaded()	
+[00:00:39]: OnUpdatePurchaseStateComplete	
+[00:00:39]: Klump load on boot started.	
+[00:00:39]: Klump files loaded: 	0	
+[00:00:39]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:00:39]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:00:39]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:39]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:39]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:39]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:39]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:39]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:40]: 	Load FE	
+[00:00:40]: 	Load FE: done	
+[00:00:40]: Check for write access: TRUE
+[00:00:40]: Check for read access: TRUE
+[00:00:40]: Available disk space for save files: 2178 MB
+[00:00:40]: THREAD - started 'FilesExistAsyncThread' (4034272064)
+[00:00:40]: FilesExistAsyncThread started (22392 files)...
+[00:00:40]: ModIndex: Load sequence finished successfully.	
+[00:00:40]: Reset() returning
+[00:00:40]: Collecting garbage...
+[00:00:41]: lua_gc took 0.07 seconds
+[00:00:41]: ~ShardLuaProxy()
+[00:00:41]: ~cEventLeaderboardProxy()
+[00:00:41]: ~ItemServerLuaProxy()
+[00:00:41]: ~InventoryLuaProxy()
+[00:00:41]: ~NetworkLuaProxy()
+[00:00:41]: ~SimLuaProxy()
+[00:00:41]: FilesExistAsyncThread aborted.
+[00:00:41]: ... FilesExistAsyncThread complete
+[00:00:41]: lua_close took 0.09 seconds
+[00:00:41]: CurlRequestManager::ClientThread::Main() complete
+[00:00:41]: HttpClient2 discarded 0 callbacks.
+[00:00:41]: Shutting down

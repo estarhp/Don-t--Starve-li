@@ -1,0 +1,6 @@
+[00:01:46]: [Join Announcement] estarhp
+[00:03:36]: [Join Announcement] 3512835457
+[00:06:14]: [Death Announcement] 3512835457 was killed by Hound. He became a spooky ghost!
+[00:06:51]: [Vote Announcement] rollback passed
+[00:10:17]: [Death Announcement] 3512835457 was killed by Anenemy. He became a spooky ghost!
+[00:10:27]: [Vote Announcement] rollback passed
