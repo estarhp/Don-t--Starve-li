@@ -1,0 +1,25 @@
+[00:00:43]: [Join Announcement] estarhp
+[00:04:07]: [Join Announcement] [CN]NyanCat
+[00:08:30]: [Join Announcement] 小小林耶
+[00:12:57]: [Leave Announcement] 小小林耶
+[00:19:39]: [Skin Announcement] [CN]NyanCat feet_sneakers_blue_catcoon
+[00:21:50]: [Join Announcement] 小小林耶
+[00:22:41]: [Leave Announcement] [CN]NyanCat
+[00:23:15]: [Say] (KU_8EfLH6wV) 小小林耶: 我还是红色
+[00:28:08]: [Say] (KU_2HEq3klP) estarhp: mei niu mao le ge
+[00:28:36]: [Say] (KU_8EfLH6wV) 小小林耶: ?
+[00:28:52]: [Say] (KU_2HEq3klP) estarhp: 没牛毛了哥
+[00:29:14]: [Say] (KU_8EfLH6wV) 小小林耶: 没事
+[00:29:42]: [Say] (KU_8EfLH6wV) 小小林耶: 我网不好
+[00:30:33]: [Say] (KU_2HEq3klP) estarhp: 真网卡？
+[00:30:46]: [Say] (KU_8EfLH6wV) 小小林耶: 嗯
+[00:33:00]: [Say] (KU_8EfLH6wV) 小小林耶: 我网是红的
+[00:33:16]: [Say] (KU_2HEq3klP) estarhp: 我有公网服务器
+[00:33:44]: [Say] (KU_2HEq3klP) estarhp: 我去开？
+[00:36:04]: [Say] (KU_8EfLH6wV) 小小林耶: 不用
+[00:36:32]: [Say] (KU_2HEq3klP) estarhp: 是真的你网卡，还是连接不好
+[00:37:00]: [Say] (KU_8EfLH6wV) 小小林耶: 不知道，
+[00:37:15]: [Say] (KU_8EfLH6wV) 小小林耶: 可能都有
+[00:37:20]: [Say] (KU_2HEq3klP) estarhp: 我去开一下公网吧
+[00:37:38]: [Say] (KU_8EfLH6wV) 小小林耶: 行
+[00:37:56]: [Leave Announcement] estarhp

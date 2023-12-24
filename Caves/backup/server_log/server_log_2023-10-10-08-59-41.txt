@@ -1,0 +1,1772 @@
+[00:00:00]: PersistRootStorage is now /data//DoNotStarveTogether/Cluster_1/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 570654
+[00:00:00]: Current time: Thu Sep 28 08:00:46 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: 52405d0eb916
+[00:00:00]: Release(Kernel) Version: 5.10.134-15.al8.x86_64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Thu Jul 20 00:44:04 CST 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 570654 LINUX
+[00:00:00]: Build Date: 9017
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -persistent_storage_root /data -ugc_directory /data/ugc -shard Caves 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: ProfileIndex:3.54
+[00:00:00]: THREAD - started 'GAClient' (4138400576)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(11001, 27019)
+[00:00:02]: [Steam] SteamGameServer_Init success
+[00:00:02]: [Connect] PendingConnection::Reset(true)
+[00:00:02]: Platform: 1
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:03]: THREAD - started 'StreamInput' (4082088768)
+[00:00:03]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:03]: OnLoadPermissionList: /data//DoNotStarveTogether/Cluster_1/adminlist.txt (Success)
+[00:00:03]: OnLoadUserIdList: /data//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:03]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:03]: Token retrieved from: /data//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:03]: cGame::InitializeOnMainThread
+[00:00:03]: Renderer initialize: Okay
+[00:00:03]: AnimManager initialize: Okay
+[00:00:03]: Buffers initialize: Okay
+[00:00:03]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:03]: GameSpecific initialize: Okay
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: AppVersion::GetArchitecture() x32
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:19]:   taskgrouplist:	default	Together	
+[00:00:19]:   taskgrouplist:	classic	Classic	
+[00:00:19]:   taskgrouplist:	cave_default	Underground	
+[00:00:19]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:19]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:22]: Running main.lua
+	
+[00:00:23]: loaded modindex	
+[00:00:23]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:23]: [Workshop] Item query page 0, size: 5, total size: 5
+[00:00:23]: [Workshop] Item query queued IDs: 2287303119 1207269058 362175979 378160973 466732225
+[00:00:23]: [Workshop] Item query sent
+[00:00:24]: [Workshop] ItemQuery got this many results: 5, matching: 5
+[00:00:24]: [Workshop] ModQuery got 5 results
+[00:00:24]: [Workshop] ModQuery queued to download IDs: 2287303119 362175979 466732225
+[00:00:24]: [Workshop] ModQuery already have IDs: {2.16,1207269058} {1.7.4,378160973}
+[00:00:24]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:24]: [Workshop] ItemQuery downloading 3 pending mods marked to download
+[00:00:24]: [Workshop] DownloadPublishedFile [4] 2287303119
+[00:00:24]: [Workshop] DownloadPublishedFile [10] 362175979
+[00:00:24]: [Workshop] DownloadPublishedFile [10] 466732225
+[00:00:29]: [Workshop] OnDownloadPublishedFile [1] 2287303119
+[00:00:33]: [Workshop] OnDownloadPublishedFile [37] 362175979
+[00:00:33]: [Workshop] ODPF failed entirely: 37
+[00:00:34]: [Workshop] OnDownloadPublishedFile [37] 466732225
+[00:00:34]: [Workshop] ODPF failed entirely: 37
+[00:01:00]: DownloadServerMods timed out with no response from Workshop...
+[00:01:02]: SUCCESS: Loaded modoverrides.lua	
+[00:01:02]: modoverrides.lua enabling workshop-1207269058	
+[00:01:02]: modoverrides.lua enabling workshop-378160973	
+[00:01:02]: modoverrides.lua enabling workshop-2287303119	
+[00:01:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:01:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:01:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:01:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:01:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-2287303119_CLIENT	
+[00:01:02]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.5	
+[00:01:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:01:02]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:01:02]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:01:02]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:01:02]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:01:02]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:01:02]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:01:02]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:01:02]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:01:02]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:01:02]: Overriding mod workshop-2287303119's option  with value 0	
+[00:01:02]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:01:02]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:01:02]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:01:02]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:01:02]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:01:02]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:01:02]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:01:02]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:01:02]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:01:02]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:01:02]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:01:02]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:01:02]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:01:02]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:01:02]: ShowMe version:	0.59.5	
+[00:01:02]: show_food_units	-1	-1	-1	
+[00:01:02]: show_uses	-1	-1	-1	
+[00:01:02]: Detected language for ShowMe: 	Auto		
+[00:01:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:01:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:01:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:01:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:01:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:01:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:01:08]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:13]: LOADING LUA SUCCESS
+[00:01:13]: Registering Server mod namespace "workshop-1207269058"
+[00:01:13]: Registering Server mod namespace "showmeshint"
+[00:01:13]: Registering Server mod namespace "workshop-378160973"
+[00:01:13]: Registering Server mod namespace "showme"
+[00:01:13]: PlayerDeaths could not load morgue	
+[00:01:13]: PlayerHistory could not load player_history	
+[00:01:13]: ServerPreferences could not load server_preferences	
+[00:01:13]: ConsoleScreenSettings could not load consolescreen	
+[00:01:13]: bloom_enabled	true	
+[00:01:13]: OnFilesLoaded()	
+[00:01:13]: OnUpdatePurchaseStateComplete	
+[00:01:13]: Klump load on boot started.	
+[00:01:13]: Klump files loaded: 	0	
+[00:01:14]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:01:14]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:01:14]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:01:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:01:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:01:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:01:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:01:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:01:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:01:15]: 	Load FE	
+[00:01:16]: 	Load FE: done	
+[00:01:16]: THREAD - started 'FilesExistAsyncThread' (4021644096)
+[00:01:16]: FilesExistAsyncThread started (22442 files)...
+[00:01:16]: Check for write access: TRUE
+[00:01:16]: Check for read access: TRUE
+[00:01:16]: Available disk space for save files: 2042 MB
+[00:01:16]: ModIndex: Load sequence finished successfully.	
+[00:01:16]: Reset() returning
+[00:01:17]: [200] Account Communication Success (6)
+[00:01:17]: Cached userid (null) saved to /data//DoNotStarveTogether/Cluster_1/Caves/save/cached_userid
+[00:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:17]: Starting Dedicated Server Game	
+[00:01:17]: Network tick rate: U=15(2), D=0
+[00:01:17]: About to start a server with the following settings:
+[00:01:17]:   Dedicated: true
+[00:01:17]:   Online: true
+[00:01:17]:   Passworded: true
+[00:01:17]:   ServerPort: 11001
+[00:01:17]:   SteamAuthPort: 8769
+[00:01:17]:   SteamMasterServerPort: 27019
+[00:01:17]:   ClanID: false
+[00:01:17]:   ClanOnly: false
+[00:01:17]:   ClanAdmin: false
+[00:01:17]:   LanOnly: false
+[00:01:17]:   FriendsOnly: false
+[00:01:17]:   EnableAutosaver: true
+[00:01:17]:   EncodeUserPath: true
+[00:01:17]:   PVP: false
+[00:01:17]:   MaxPlayers: 4
+[00:01:17]:   GameMode: survival
+[00:01:17]:   OverridenDNS: 
+[00:01:17]:   PauseWhenEmpty: true
+[00:01:17]:   IdleTimeout: 1800s
+[00:01:17]:   VoteEnabled: true
+[00:01:17]:   InternetBroadcasting: true
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:01:17]: Online Server Started on port: 11001
+[00:01:17]: SUCCESS: Loaded modoverrides.lua	
+[00:01:17]: Found a level data override file with these contents:	
+[00:01:17]: 	K: 	background_node_range	 V: 	table: 0x10afde10	
+[00:01:17]: 		K: 	1	 V: 	0	
+[00:01:17]: 		K: 	2	 V: 	1	
+[00:01:17]: 	K: 	desc	 V: 	探查洞穴…… 一起！	
+[00:01:17]: 	K: 	hideminimap	 V: 	false	
+[00:01:17]: 	K: 	id	 V: 	DST_CAVE	
+[00:01:17]: 	K: 	location	 V: 	cave	
+[00:01:17]: 	K: 	max_playlist_position	 V: 	999	
+[00:01:17]: 	K: 	min_playlist_position	 V: 	0	
+[00:01:17]: 	K: 	name	 V: 	洞穴	
+[00:01:17]: 	K: 	numrandom_set_pieces	 V: 	0	
+[00:01:17]: 	K: 	override_level_string	 V: 	false	
+[00:01:17]: 	K: 	overrides	 V: 	table: 0x10afcbc0	
+[00:01:17]: 		K: 	atriumgate	 V: 	default	
+[00:01:17]: 		K: 	banana	 V: 	default	
+[00:01:17]: 		K: 	basicresource_regrowth	 V: 	none	
+[00:01:17]: 		K: 	bats	 V: 	default	
+[00:01:17]: 		K: 	bats_setting	 V: 	default	
+[00:01:17]: 		K: 	beefaloheat	 V: 	default	
+[00:01:17]: 		K: 	berrybush	 V: 	default	
+[00:01:17]: 		K: 	boons	 V: 	default	
+[00:01:17]: 		K: 	branching	 V: 	default	
+[00:01:17]: 		K: 	brightmarecreatures	 V: 	default	
+[00:01:17]: 		K: 	bunnymen	 V: 	default	
+[00:01:17]: 		K: 	bunnymen_setting	 V: 	default	
+[00:01:17]: 		K: 	cave_ponds	 V: 	default	
+[00:01:17]: 		K: 	cave_spiders	 V: 	default	
+[00:01:17]: 		K: 	cavelight	 V: 	default	
+[00:01:17]: 		K: 	chess	 V: 	default	
+[00:01:17]: 		K: 	crow_carnival	 V: 	default	
+[00:01:17]: 		K: 	darkness	 V: 	default	
+[00:01:17]: 		K: 	day	 V: 	default	
+[00:01:17]: 		K: 	daywalker	 V: 	default	
+[00:01:17]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:01:17]: 		K: 	dustmoths	 V: 	default	
+[00:01:17]: 		K: 	earthquakes	 V: 	default	
+[00:01:17]: 		K: 	extrastartingitems	 V: 	default	
+[00:01:17]: 		K: 	fern	 V: 	default	
+[00:01:17]: 		K: 	fissure	 V: 	default	
+[00:01:17]: 		K: 	flint	 V: 	default	
+[00:01:17]: 		K: 	flower_cave	 V: 	default	
+[00:01:17]: 		K: 	flower_cave_regrowth	 V: 	default	
+[00:01:17]: 		K: 	fruitfly	 V: 	default	
+[00:01:17]: 		K: 	ghostenabled	 V: 	always	
+[00:01:17]: 		K: 	ghostsanitydrain	 V: 	always	
+[00:01:17]: 		K: 	grass	 V: 	default	
+[00:01:17]: 		K: 	grassgekkos	 V: 	default	
+[00:01:17]: 		K: 	hallowed_nights	 V: 	default	
+[00:01:17]: 		K: 	healthpenalty	 V: 	always	
+[00:01:17]: 		K: 	hunger	 V: 	default	
+[00:01:17]: 		K: 	krampus	 V: 	default	
+[00:01:17]: 		K: 	layout_mode	 V: 	RestrictNodesByKey	
+[00:01:17]: 		K: 	lessdamagetaken	 V: 	none	
+[00:01:17]: 		K: 	lichen	 V: 	default	
+[00:01:17]: 		K: 	liefs	 V: 	default	
+[00:01:17]: 		K: 	lightflier_flower_regrowth	 V: 	default	
+[00:01:17]: 		K: 	lightfliers	 V: 	default	
+[00:01:17]: 		K: 	loop	 V: 	default	
+[00:01:17]: 		K: 	marshbush	 V: 	default	
+[00:01:17]: 		K: 	merms	 V: 	default	
+[00:01:17]: 		K: 	molebats	 V: 	default	
+[00:01:17]: 		K: 	moles_setting	 V: 	default	
+[00:01:17]: 		K: 	monkey	 V: 	default	
+[00:01:17]: 		K: 	monkey_setting	 V: 	default	
+[00:01:17]: 		K: 	mushgnome	 V: 	default	
+[00:01:17]: 		K: 	mushroom	 V: 	default	
+[00:01:17]: 		K: 	mushtree	 V: 	default	
+[00:01:17]: 		K: 	mushtree_moon_regrowth	 V: 	default	
+[00:01:17]: 		K: 	mushtree_regrowth	 V: 	default	
+[00:01:17]: 		K: 	nightmarecreatures	 V: 	default	
+[00:01:17]: 		K: 	pigs_setting	 V: 	default	
+[00:01:17]: 		K: 	portalresurection	 V: 	none	
+[00:01:17]: 		K: 	prefabswaps_start	 V: 	default	
+[00:01:17]: 		K: 	reeds	 V: 	default	
+[00:01:17]: 		K: 	regrowth	 V: 	default	
+[00:01:17]: 		K: 	resettime	 V: 	default	
+[00:01:17]: 		K: 	rifts_enabled_cave	 V: 	default	
+[00:01:17]: 		K: 	rifts_frequency_cave	 V: 	default	
+[00:01:17]: 		K: 	roads	 V: 	never	
+[00:01:17]: 		K: 	rock	 V: 	default	
+[00:01:17]: 		K: 	rocky	 V: 	default	
+[00:01:17]: 		K: 	rocky_setting	 V: 	default	
+[00:01:17]: 		K: 	sapling	 V: 	default	
+[00:01:17]: 		K: 	season_start	 V: 	default	
+[00:01:17]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:01:17]: 		K: 	shadowcreatures	 V: 	default	
+[00:01:17]: 		K: 	slurper	 V: 	default	
+[00:01:17]: 		K: 	slurtles	 V: 	default	
+[00:01:17]: 		K: 	slurtles_setting	 V: 	default	
+[00:01:17]: 		K: 	snurtles	 V: 	default	
+[00:01:17]: 		K: 	spawnmode	 V: 	fixed	
+[00:01:17]: 		K: 	spawnprotection	 V: 	default	
+[00:01:17]: 		K: 	specialevent	 V: 	default	
+[00:01:17]: 		K: 	spider_dropper	 V: 	default	
+[00:01:17]: 		K: 	spider_hider	 V: 	default	
+[00:01:17]: 		K: 	spider_spitter	 V: 	default	
+[00:01:17]: 		K: 	spider_warriors	 V: 	default	
+[00:01:17]: 		K: 	spiderqueen	 V: 	default	
+[00:01:17]: 		K: 	spiders	 V: 	default	
+[00:01:17]: 		K: 	spiders_setting	 V: 	default	
+[00:01:17]: 		K: 	start_location	 V: 	caves	
+[00:01:17]: 		K: 	task_set	 V: 	cave_default	
+[00:01:17]: 		K: 	temperaturedamage	 V: 	default	
+[00:01:17]: 		K: 	tentacles	 V: 	default	
+[00:01:17]: 		K: 	toadstool	 V: 	default	
+[00:01:17]: 		K: 	touchstone	 V: 	default	
+[00:01:17]: 		K: 	trees	 V: 	default	
+[00:01:17]: 		K: 	weather	 V: 	default	
+[00:01:17]: 		K: 	winters_feast	 V: 	default	
+[00:01:17]: 		K: 	world_size	 V: 	default	
+[00:01:17]: 		K: 	wormattacks	 V: 	default	
+[00:01:17]: 		K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[00:01:17]: 		K: 	wormlights	 V: 	default	
+[00:01:17]: 		K: 	worms	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_bunnyman	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_carrat	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_gobbler	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_pig	 V: 	default	
+[00:01:17]: 		K: 	year_of_the_varg	 V: 	default	
+[00:01:17]: 	K: 	required_prefabs	 V: 	table: 0x10afc6f0	
+[00:01:17]: 		K: 	1	 V: 	multiplayer_portal	
+[00:01:17]: 	K: 	settings_desc	 V: 	探查洞穴…… 一起！	
+[00:01:17]: 	K: 	settings_id	 V: 	DST_CAVE	
+[00:01:17]: 	K: 	settings_name	 V: 	洞穴	
+[00:01:17]: 	K: 	substitutes	 V: 	table: 0x10afac70	
+[00:01:17]: 	K: 	version	 V: 	4	
+[00:01:17]: 	K: 	worldgen_desc	 V: 	探查洞穴…… 一起！	
+[00:01:17]: 	K: 	worldgen_id	 V: 	DST_CAVE	
+[00:01:17]: 	K: 	worldgen_name	 V: 	洞穴	
+[00:01:17]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:01:17]: Overwriting savedata with level data file.	
+[00:01:17]: Found a worldgen override file with these contents:	
+[00:01:17]: 	K: 	override_enabled	 V: 	true	
+[00:01:17]: 	K: 	overrides	 V: 	table: 0xd0ec980	
+[00:01:17]: 	K: 	settings_preset	 V: 	DST_CAVE	
+[00:01:17]: 	K: 	worldgen_preset	 V: 	DST_CAVE	
+[00:01:17]:   sanity-checking worldgenoverride.lua...	
+[00:01:17]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:01:17]:   contained worldgen preset DST_CAVE, loading...	
+[00:01:17]:   contained settings preset DST_CAVE, loading...	
+[00:01:17]: Overwriting savedata with override file.	
+[00:01:17]: Collecting garbage...
+[00:01:17]: lua_gc took 0.06 seconds
+[00:01:17]: ~ShardLuaProxy()
+[00:01:17]: ~cEventLeaderboardProxy()
+[00:01:17]: ~ItemServerLuaProxy()
+[00:01:17]: ~InventoryLuaProxy()
+[00:01:17]: ~NetworkLuaProxy()
+[00:01:17]: ~SimLuaProxy()
+[00:01:17]: FilesExistAsyncThread aborted.
+[00:01:17]: ... FilesExistAsyncThread complete
+[00:01:17]: lua_close took 0.12 seconds
+[00:01:17]: ReleaseAll
+[00:01:17]: ReleaseAll Finished
+[00:01:17]: cGame::StartPlaying
+[00:01:17]: AppVersion::GetArchitecture() x32
+[00:01:17]: LOADING LUA
+[00:01:17]: DoLuaFile scripts/main.lua
+[00:01:17]: DoLuaFile loading buffer scripts/main.lua
+[00:01:17]:   taskgrouplist:	default	Together	
+[00:01:17]:   taskgrouplist:	classic	Classic	
+[00:01:17]:   taskgrouplist:	cave_default	Underground	
+[00:01:17]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:01:17]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:01:17]: Running main.lua
+	
+[00:01:17]: loaded modindex	
+[00:01:17]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:01:17]: SUCCESS: Loaded modoverrides.lua	
+[00:01:17]: modoverrides.lua enabling workshop-1207269058	
+[00:01:17]: modoverrides.lua enabling workshop-378160973	
+[00:01:17]: modoverrides.lua enabling workshop-2287303119	
+[00:01:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:01:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:01:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:01:17]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:01:17]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:01:17]: Could not load mod_config_data/modconfiguration_workshop-2287303119	
+[00:01:17]: Loading mod: workshop-2287303119 (Show Me (中文)) Version:0.59.5	
+[00:01:17]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:01:17]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:01:17]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:01:17]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:01:17]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:01:17]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:01:17]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:01:17]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:01:17]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:01:17]: applying configuration_options from modoverrides.lua to mod workshop-2287303119	
+[00:01:17]: Overriding mod workshop-2287303119's option  with value 0	
+[00:01:17]: Overriding mod workshop-2287303119's option show_uses with value -1	
+[00:01:17]: Overriding mod workshop-2287303119's option T_crop with value true	
+[00:01:17]: Overriding mod workshop-2287303119's option chestR with value -1	
+[00:01:17]: Overriding mod workshop-2287303119's option food_style with value 0	
+[00:01:17]: Overriding mod workshop-2287303119's option display_hp with value 1	
+[00:01:17]: Overriding mod workshop-2287303119's option show_food_units with value -1	
+[00:01:17]: Overriding mod workshop-2287303119's option item_info_mod with value 0	
+[00:01:17]: Overriding mod workshop-2287303119's option lang with value Auto	
+[00:01:17]: Overriding mod workshop-2287303119's option show_buddle_item with value 1	
+[00:01:17]: Overriding mod workshop-2287303119's option chestB with value -1	
+[00:01:17]: Overriding mod workshop-2287303119's option food_order with value 0	
+[00:01:17]: Overriding mod workshop-2287303119's option chestG with value -1	
+[00:01:17]: Overriding mod workshop-2287303119's option food_estimation with value -1	
+[00:01:17]: Mod: workshop-2287303119 (Show Me (中文))	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-2287303119 (Show Me (中文))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-2287303119 (Show Me (中文))	Loading modmain.lua	
+[00:01:17]: ShowMe version:	0.59.5	
+[00:01:17]: show_food_units	-1	-1	-1	
+[00:01:17]: show_uses	-1	-1	-1	
+[00:01:17]: Detected language for ShowMe: 	Auto		
+[00:01:17]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:01:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:01:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:01:17]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2287303119	
+[00:01:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:01:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:01:18]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:18]: LOADING LUA SUCCESS
+[00:01:18]: Registering Server mod namespace "workshop-1207269058"
+[00:01:18]: Registering Server mod namespace "showmeshint"
+[00:01:18]: Registering Server mod namespace "workshop-378160973"
+[00:01:18]: Registering Server mod namespace "showme"
+[00:01:18]: PlayerDeaths could not load morgue	
+[00:01:18]: PlayerHistory could not load player_history	
+[00:01:18]: ServerPreferences could not load server_preferences	
+[00:01:18]: ConsoleScreenSettings could not load consolescreen	
+[00:01:18]: bloom_enabled	true	
+[00:01:18]: OnFilesLoaded()	
+[00:01:18]: OnUpdatePurchaseStateComplete	
+[00:01:18]: Loading world: session/83259BFB6C01A2CA/0000000034	
+[00:01:18]: Save file is at version 5.142	
+[00:01:18]: Klump load on boot started.	
+[00:01:18]: Klump files loaded: 	0	
+[00:01:18]: 	Unload FE	
+[00:01:18]: 	Unload FE done	
+[00:01:22]: Mod: workshop-2287303119 (Show Me (中文))	Registering prefabs	
+[00:01:22]: Mod: workshop-2287303119 (Show Me (中文))	  Registering default mod prefab	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:01:22]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:01:22]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:01:22]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:01:22]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:01:22]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:01:22]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:01:22]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:01:22]: 	LOAD BE	
+[00:01:33]: 	LOAD BE: done	
+[00:01:33]: Begin Session: 83259BFB6C01A2CA
+[00:01:33]: saving to server_temp/server_save	
+[00:01:34]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:34]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:01:34]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:01:34]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:01:34]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:01:34]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:01:34]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:01:34]: Loading 19 new character(s)	
+[00:01:35]: Total 19 character(s) loaded	
+[00:01:38]: Loading Nav Grid	
+[00:01:38]: World generated on build 570654 with save version: 5.142, using seed: 1693314092	
+[00:01:38]: setting 	summerlength	15	
+[00:01:38]: setting 	cavemoonphase	threequarter	
+[00:01:38]: setting 	iscavefullmoon	false	
+[00:01:38]: setting 	isnightmaredawn	false	
+[00:01:38]: setting 	elapseddaysinseason	7	
+[00:01:38]: setting 	isfullmoon	false	
+[00:01:38]: setting 	moisture	1343.2299804688	
+[00:01:38]: setting 	cavephase	day	
+[00:01:38]: setting 	iscavewaxingmoon	true	
+[00:01:38]: setting 	isnightmarewild	true	
+[00:01:38]: setting 	nightmaretimeinphase	0.77560696818439	
+[00:01:38]: setting 	precipitationrate	0	
+[00:01:38]: setting 	iswet	true	
+[00:01:38]: setting 	isnewmoon	false	
+[00:01:38]: setting 	precipitation	none	
+[00:01:38]: setting 	israining	false	
+[00:01:38]: setting 	isnightmarewarn	false	
+[00:01:38]: setting 	isacidraining	false	
+[00:01:38]: setting 	iswinter	true	
+[00:01:38]: setting 	season	winter	
+[00:01:38]: setting 	remainingdaysinseason	8	
+[00:01:38]: setting 	winterlength	15	
+[00:01:38]: setting 	iscaveday	true	
+[00:01:38]: setting 	moistureceil	2780.904296875	
+[00:01:38]: setting 	isday	false	
+[00:01:38]: setting 	springlength	20	
+[00:01:38]: setting 	wetness	55.910758972168	
+[00:01:38]: setting 	iscavedusk	false	
+[00:01:38]: setting 	isalterawake	false	
+[00:01:38]: setting 	isnightmarecalm	false	
+[00:01:38]: setting 	isnight	true	
+[00:01:38]: setting 	isdusk	false	
+[00:01:38]: setting 	isspring	false	
+[00:01:38]: setting 	isautumn	false	
+[00:01:38]: setting 	issnowing	false	
+[00:01:38]: setting 	iswaxingmoon	true	
+[00:01:38]: setting 	phase	night	
+[00:01:38]: setting 	snowlevel	0	
+[00:01:38]: setting 	issnowcovered	false	
+[00:01:38]: setting 	autumnlength	20	
+[00:01:38]: setting 	pop	0.16883450866369	
+[00:01:38]: setting 	nightmaretime	566.34104522766	
+[00:01:38]: setting 	seasonprogress	0.46666666666667	
+[00:01:38]: setting 	moonphase	new	
+[00:01:38]: setting 	nightmarephase	wild	
+[00:01:38]: setting 	cycles	27	
+[00:01:38]: setting 	timeinphase	0.75345687866211	
+[00:01:38]: setting 	iscavenight	false	
+[00:01:38]: setting 	iscavenewmoon	false	
+[00:01:38]: setting 	issummer	false	
+[00:01:38]: setting 	temperature	-10.51943820422	
+[00:01:38]: setting 	time	0.23545527458191	
+[00:01:38]: [Shard] Secondary shard is waiting for LUA...
+[00:01:41]: SWITCHING 	false	
+[00:01:41]: Reconstructing topology	
+[00:01:41]: 	...Sorting points	
+[00:01:41]: 	...Sorting edges	
+[00:01:41]: 	...Connecting nodes	
+[00:01:41]: 	...Validating connections	
+[00:01:41]: 	...Housekeeping	
+[00:01:41]: 	...Done!	
+[00:01:41]: Truncating to snapshot #34...
+[00:01:41]:  - session/83259BFB6C01A2CA/A7G92EQ0TQUP/0000000035
+[00:01:41]:    1 file(s) removed
+[00:01:41]: 1 uploads added to server. From server_temp
+[00:01:41]: About to start a shard with these settings:
+[00:01:41]:   ShardName: Caves
+[00:01:41]:   ShardID: 641468961
+[00:01:41]:   ShardRole: SECONDARY
+[00:01:41]:   MasterHost: 127.0.0.1
+[00:01:41]:   MasterBind: (null)
+[00:01:41]:   MasterPort: 10998
+[00:01:41]: [Shard] Connecting to master...
+[00:01:41]: Telling Client our new session identifier: 83259BFB6C01A2CA
+[00:01:41]: Check for write access: TRUE
+[00:01:41]: Check for read access: TRUE
+[00:01:41]: Available disk space for save files: 2042 MB
+[00:01:41]: ModIndex: Load sequence finished successfully.	
+[00:01:41]: Reset() returning
+[00:01:41]: [Shard] Sending secondary shard information to master...
+[00:01:41]: Validating portal[1] <-> 1[1] (inactive)	
+[00:01:41]: Validating portal[9] <-> 1[9] (inactive)	
+[00:01:41]: Validating portal[3] <-> 1[3] (inactive)	
+[00:01:41]: Validating portal[10] <-> 1[10] (inactive)	
+[00:01:41]: Validating portal[4] <-> 1[4] (inactive)	
+[00:01:41]: Validating portal[7] <-> 1[7] (inactive)	
+[00:01:41]: Validating portal[6] <-> 1[6] (inactive)	
+[00:01:41]: Validating portal[2] <-> 1[2] (inactive)	
+[00:01:41]: Validating portal[8] <-> 1[8] (inactive)	
+[00:01:41]: Validating portal[5] <-> 1[5] (inactive)	
+[00:01:41]: Received MasterInfoPacket row fa3f91ba1833bceb8bef222beb7a057b region ap-southeast-1
+[00:01:41]: Obtaining secondary shard IP from ap-southeast-1 lobby
+[00:01:42]: [Shard] secondary shard is now ready!
+[00:01:42]: World 1 is now connected	
+[00:01:42]: [SyncWorldSettings] Sending ResyncWorldSettings.	
+[00:01:42]: Validating portal[1] <-> 1[1] (active)	
+[00:01:42]: Validating portal[9] <-> 1[9] (active)	
+[00:01:42]: Validating portal[3] <-> 1[3] (active)	
+[00:01:42]: Validating portal[10] <-> 1[10] (active)	
+[00:01:42]: Validating portal[4] <-> 1[4] (active)	
+[00:01:42]: Validating portal[7] <-> 1[7] (active)	
+[00:01:42]: Validating portal[6] <-> 1[6] (active)	
+[00:01:42]: Validating portal[2] <-> 1[2] (active)	
+[00:01:42]: Validating portal[8] <-> 1[8] (active)	
+[00:01:42]: Validating portal[5] <-> 1[5] (active)	
+[00:01:43]: [Shard] secondary shard LUA is now ready!
+[00:01:43]: Sim paused
+[00:31:17]: [200] Account Communication Success (6)
+[00:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:17]: [200] Account Communication Success (6)
+[01:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:17]: [200] Account Communication Success (6)
+[01:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:17]: [200] Account Communication Success (6)
+[02:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:17]: [200] Account Communication Success (6)
+[02:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:17]: [200] Account Communication Success (6)
+[03:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:17]: [200] Account Communication Success (6)
+[03:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:17]: [200] Account Communication Success (6)
+[04:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:17]: [200] Account Communication Success (6)
+[04:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:17]: [200] Account Communication Success (6)
+[05:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:17]: [200] Account Communication Success (6)
+[05:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:17]: [200] Account Communication Success (6)
+[06:01:17]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:17]: [200] Account Communication Success (6)
+[06:31:17]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:18]: [200] Account Communication Success (6)
+[07:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:18]: [200] Account Communication Success (6)
+[07:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:18]: [200] Account Communication Success (6)
+[08:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:18]: [200] Account Communication Success (6)
+[08:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:18]: [200] Account Communication Success (6)
+[09:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:18]: [200] Account Communication Success (6)
+[09:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:18]: [200] Account Communication Success (6)
+[10:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:18]: [200] Account Communication Success (6)
+[10:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:19]: [200] Account Communication Success (6)
+[11:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:18]: [200] Account Communication Success (6)
+[11:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:18]: [200] Account Communication Success (6)
+[12:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:18]: [200] Account Communication Success (6)
+[12:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:18]: [200] Account Communication Success (6)
+[13:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:18]: [200] Account Communication Success (6)
+[13:31:18]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:18]: [200] Account Communication Success (6)
+[14:01:18]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:19]: [200] Account Communication Success (6)
+[14:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:19]: [200] Account Communication Success (6)
+[15:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:19]: [200] Account Communication Success (6)
+[15:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:19]: [200] Account Communication Success (6)
+[16:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:19]: [200] Account Communication Success (6)
+[16:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:19]: [200] Account Communication Success (6)
+[17:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:19]: [200] Account Communication Success (6)
+[17:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:19]: [200] Account Communication Success (6)
+[18:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:19]: [200] Account Communication Success (6)
+[18:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:19]: [200] Account Communication Success (6)
+[19:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:19]: [200] Account Communication Success (6)
+[19:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:19]: [200] Account Communication Success (6)
+[20:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:19]: [200] Account Communication Success (6)
+[20:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:19]: [200] Account Communication Success (6)
+[21:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:19]: [200] Account Communication Success (6)
+[21:31:19]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:19]: [200] Account Communication Success (6)
+[22:01:19]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:20]: [200] Account Communication Success (6)
+[22:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:20]: [200] Account Communication Success (6)
+[23:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:20]: [200] Account Communication Success (6)
+[23:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:20]: [200] Account Communication Success (6)
+[00:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:20]: [200] Account Communication Success (6)
+[00:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:20]: [200] Account Communication Success (6)
+[01:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:20]: [200] Account Communication Success (6)
+[01:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:20]: [200] Account Communication Success (6)
+[02:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:20]: [200] Account Communication Success (6)
+[02:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:20]: [200] Account Communication Success (6)
+[03:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:20]: [200] Account Communication Success (6)
+[03:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:20]: [200] Account Communication Success (6)
+[04:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:20]: [200] Account Communication Success (6)
+[04:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:20]: [200] Account Communication Success (6)
+[05:01:20]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:20]: [200] Account Communication Success (6)
+[05:31:20]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:21]: [200] Account Communication Success (6)
+[06:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:21]: [200] Account Communication Success (6)
+[06:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:21]: [200] Account Communication Success (6)
+[07:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:21]: [200] Account Communication Success (6)
+[07:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:21]: [200] Account Communication Success (6)
+[08:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:21]: [200] Account Communication Success (6)
+[08:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:21]: [200] Account Communication Success (6)
+[09:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:21]: [200] Account Communication Success (6)
+[09:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:21]: [200] Account Communication Success (6)
+[10:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:21]: [200] Account Communication Success (6)
+[10:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:21]: [200] Account Communication Success (6)
+[11:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:21]: [200] Account Communication Success (6)
+[11:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:21]: [200] Account Communication Success (6)
+[12:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:21]: [200] Account Communication Success (6)
+[12:31:21]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:21]: [200] Account Communication Success (6)
+[13:01:21]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:22]: [200] Account Communication Success (6)
+[13:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:22]: [200] Account Communication Success (6)
+[14:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:22]: [200] Account Communication Success (6)
+[14:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:22]: [200] Account Communication Success (6)
+[15:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:22]: [200] Account Communication Success (6)
+[15:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:22]: [200] Account Communication Success (6)
+[16:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:22]: [200] Account Communication Success (6)
+[16:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:22]: [200] Account Communication Success (6)
+[17:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:22]: [200] Account Communication Success (6)
+[17:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:22]: [200] Account Communication Success (6)
+[18:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:22]: [200] Account Communication Success (6)
+[18:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:22]: [200] Account Communication Success (6)
+[19:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:22]: [200] Account Communication Success (6)
+[19:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:22]: [200] Account Communication Success (6)
+[20:01:22]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:22]: [200] Account Communication Success (6)
+[20:31:22]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:23]: [200] Account Communication Success (6)
+[21:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:23]: [200] Account Communication Success (6)
+[21:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:23]: [200] Account Communication Success (6)
+[22:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:23]: [200] Account Communication Success (6)
+[22:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:23]: [200] Account Communication Success (6)
+[23:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:23]: [200] Account Communication Success (6)
+[23:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:23]: [200] Account Communication Success (6)
+[00:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:23]: [200] Account Communication Success (6)
+[00:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:23]: [200] Account Communication Success (6)
+[01:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:23]: [200] Account Communication Success (6)
+[01:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:23]: [200] Account Communication Success (6)
+[02:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:23]: [200] Account Communication Success (6)
+[02:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:23]: [200] Account Communication Success (6)
+[03:01:23]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:23]: [200] Account Communication Success (6)
+[03:31:23]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:24]: [200] Account Communication Success (6)
+[04:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:24]: [200] Account Communication Success (6)
+[04:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:24]: [200] Account Communication Success (6)
+[05:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:24]: [200] Account Communication Success (6)
+[05:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:24]: [200] Account Communication Success (6)
+[06:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:24]: [200] Account Communication Success (6)
+[06:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:24]: [200] Account Communication Success (6)
+[07:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:24]: [200] Account Communication Success (6)
+[07:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:24]: [200] Account Communication Success (6)
+[08:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:24]: [200] Account Communication Success (6)
+[08:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:24]: [200] Account Communication Success (6)
+[09:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:24]: [200] Account Communication Success (6)
+[09:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:24]: [200] Account Communication Success (6)
+[10:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:24]: [200] Account Communication Success (6)
+[10:31:24]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:24]: [200] Account Communication Success (6)
+[11:01:24]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:25]: [200] Account Communication Success (6)
+[11:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:25]: [200] Account Communication Success (6)
+[12:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:25]: [200] Account Communication Success (6)
+[12:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:25]: [200] Account Communication Success (6)
+[13:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[13:08:59]: Received MasterInfoPacket row fd8076f02e65ed7c1eccfa9fe5bc3673 region ap-east-1
+[13:08:59]: Obtaining secondary shard IP from ap-east-1 lobby
+[13:31:25]: [200] Account Communication Success (6)
+[13:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:25]: [200] Account Communication Success (6)
+[14:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[14:29:09]: Received MasterInfoPacket row 2778c6991b0bf037b807719f62984943 region ap-southeast-1
+[14:29:09]: Obtaining secondary shard IP from ap-southeast-1 lobby
+[14:31:25]: [200] Account Communication Success (6)
+[14:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:25]: [200] Account Communication Success (6)
+[15:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:25]: [200] Account Communication Success (6)
+[15:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:25]: [200] Account Communication Success (6)
+[16:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:25]: [200] Account Communication Success (6)
+[16:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:25]: [200] Account Communication Success (6)
+[17:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:25]: [200] Account Communication Success (6)
+[17:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:25]: [200] Account Communication Success (6)
+[18:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:25]: [200] Account Communication Success (6)
+[18:31:25]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:25]: [200] Account Communication Success (6)
+[19:01:25]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:26]: [200] Account Communication Success (6)
+[19:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:26]: [200] Account Communication Success (6)
+[20:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:26]: [200] Account Communication Success (6)
+[20:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:26]: [200] Account Communication Success (6)
+[21:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:26]: [200] Account Communication Success (6)
+[21:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:26]: [200] Account Communication Success (6)
+[22:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:26]: [200] Account Communication Success (6)
+[22:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:26]: [200] Account Communication Success (6)
+[23:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:26]: [200] Account Communication Success (6)
+[23:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:26]: [200] Account Communication Success (6)
+[00:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:26]: [200] Account Communication Success (6)
+[00:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:26]: [200] Account Communication Success (6)
+[01:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:26]: [200] Account Communication Success (6)
+[01:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:26]: [200] Account Communication Success (6)
+[02:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:26]: [200] Account Communication Success (6)
+[02:31:26]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:26]: [200] Account Communication Success (6)
+[03:01:26]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:27]: [200] Account Communication Success (6)
+[03:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:27]: [200] Account Communication Success (6)
+[04:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:27]: [200] Account Communication Success (6)
+[04:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:27]: [200] Account Communication Success (6)
+[05:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:27]: [200] Account Communication Success (6)
+[05:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:27]: [200] Account Communication Success (6)
+[06:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:27]: [200] Account Communication Success (6)
+[06:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:27]: [200] Account Communication Success (6)
+[07:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:27]: [200] Account Communication Success (6)
+[07:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:27]: [200] Account Communication Success (6)
+[08:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:27]: [200] Account Communication Success (6)
+[08:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:27]: [200] Account Communication Success (6)
+[09:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:27]: [200] Account Communication Success (6)
+[09:31:27]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:27]: [200] Account Communication Success (6)
+[10:01:27]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:28]: [200] Account Communication Success (6)
+[10:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:28]: [200] Account Communication Success (6)
+[11:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:28]: [200] Account Communication Success (6)
+[11:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:28]: [200] Account Communication Success (6)
+[12:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:28]: [200] Account Communication Success (6)
+[12:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:28]: [200] Account Communication Success (6)
+[13:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:28]: [200] Account Communication Success (6)
+[13:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:28]: [200] Account Communication Success (6)
+[14:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:28]: [200] Account Communication Success (6)
+[14:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:28]: [200] Account Communication Success (6)
+[15:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:28]: [200] Account Communication Success (6)
+[15:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:28]: [200] Account Communication Success (6)
+[16:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:28]: [200] Account Communication Success (6)
+[16:31:28]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:28]: [200] Account Communication Success (6)
+[17:01:28]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:29]: [200] Account Communication Success (6)
+[17:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:29]: [200] Account Communication Success (6)
+[18:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:29]: [200] Account Communication Success (6)
+[18:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:29]: [200] Account Communication Success (6)
+[19:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:29]: [200] Account Communication Success (6)
+[19:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:29]: [200] Account Communication Success (6)
+[20:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:29]: [200] Account Communication Success (6)
+[20:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:29]: [200] Account Communication Success (6)
+[21:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:29]: [200] Account Communication Success (6)
+[21:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:29]: [200] Account Communication Success (6)
+[22:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:29]: [200] Account Communication Success (6)
+[22:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:29]: [200] Account Communication Success (6)
+[23:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:29]: [200] Account Communication Success (6)
+[23:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:29]: [200] Account Communication Success (6)
+[00:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:29]: [200] Account Communication Success (6)
+[00:31:29]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:29]: [200] Account Communication Success (6)
+[01:01:29]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:30]: [200] Account Communication Success (6)
+[01:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:30]: [200] Account Communication Success (6)
+[02:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:30]: [200] Account Communication Success (6)
+[02:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:30]: [200] Account Communication Success (6)
+[03:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:30]: [200] Account Communication Success (6)
+[03:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:30]: [200] Account Communication Success (6)
+[04:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:30]: [200] Account Communication Success (6)
+[04:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:30]: [200] Account Communication Success (6)
+[05:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:30]: [200] Account Communication Success (6)
+[05:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:30]: [200] Account Communication Success (6)
+[06:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:30]: [200] Account Communication Success (6)
+[06:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:30]: [200] Account Communication Success (6)
+[07:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:30]: [200] Account Communication Success (6)
+[07:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:30]: [200] Account Communication Success (6)
+[08:01:30]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:30]: [200] Account Communication Success (6)
+[08:31:30]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:31]: [200] Account Communication Success (6)
+[09:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:31]: [200] Account Communication Success (6)
+[09:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:31]: [200] Account Communication Success (6)
+[10:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:31]: [200] Account Communication Success (6)
+[10:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:31]: [200] Account Communication Success (6)
+[11:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:31]: [200] Account Communication Success (6)
+[11:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:31]: [200] Account Communication Success (6)
+[12:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:31]: [200] Account Communication Success (6)
+[12:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:31]: [200] Account Communication Success (6)
+[13:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:31]: [200] Account Communication Success (6)
+[13:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:31]: [200] Account Communication Success (6)
+[14:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:31]: [200] Account Communication Success (6)
+[14:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:31]: [200] Account Communication Success (6)
+[15:01:31]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:31]: [200] Account Communication Success (6)
+[15:31:31]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:32]: [200] Account Communication Success (6)
+[16:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:32]: [200] Account Communication Success (6)
+[16:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:32]: [200] Account Communication Success (6)
+[17:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:32]: [200] Account Communication Success (6)
+[17:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:32]: [200] Account Communication Success (6)
+[18:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:32]: [200] Account Communication Success (6)
+[18:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:32]: [200] Account Communication Success (6)
+[19:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:32]: [200] Account Communication Success (6)
+[19:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:33]: [200] Account Communication Success (6)
+[20:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:32]: [200] Account Communication Success (6)
+[20:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:32]: [200] Account Communication Success (6)
+[21:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:33]: [200] Account Communication Success (6)
+[21:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:32]: [200] Account Communication Success (6)
+[22:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:32]: [200] Account Communication Success (6)
+[22:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:32]: [200] Account Communication Success (6)
+[23:01:32]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:32]: [200] Account Communication Success (6)
+[23:31:32]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:33]: [200] Account Communication Success (6)
+[00:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:33]: [200] Account Communication Success (6)
+[00:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:33]: [200] Account Communication Success (6)
+[01:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:33]: [200] Account Communication Success (6)
+[01:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:33]: [200] Account Communication Success (6)
+[02:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:33]: [200] Account Communication Success (6)
+[02:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:33]: [200] Account Communication Success (6)
+[03:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:33]: [200] Account Communication Success (6)
+[03:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:33]: [200] Account Communication Success (6)
+[04:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:33]: [200] Account Communication Success (6)
+[04:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:33]: [200] Account Communication Success (6)
+[05:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:33]: [200] Account Communication Success (6)
+[05:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:33]: [200] Account Communication Success (6)
+[06:01:33]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:33]: [200] Account Communication Success (6)
+[06:31:33]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:34]: [200] Account Communication Success (6)
+[07:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:34]: [200] Account Communication Success (6)
+[07:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:34]: [200] Account Communication Success (6)
+[08:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:34]: [200] Account Communication Success (6)
+[08:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:34]: [200] Account Communication Success (6)
+[09:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:34]: [200] Account Communication Success (6)
+[09:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:34]: [200] Account Communication Success (6)
+[10:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:34]: [200] Account Communication Success (6)
+[10:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:34]: [200] Account Communication Success (6)
+[11:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:34]: [200] Account Communication Success (6)
+[11:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:34]: [200] Account Communication Success (6)
+[12:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:34]: [200] Account Communication Success (6)
+[12:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:34]: [200] Account Communication Success (6)
+[13:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:34]: [200] Account Communication Success (6)
+[13:31:34]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:34]: [200] Account Communication Success (6)
+[14:01:34]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:35]: [200] Account Communication Success (6)
+[14:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:35]: [200] Account Communication Success (6)
+[15:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:35]: [200] Account Communication Success (6)
+[15:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:35]: [200] Account Communication Success (6)
+[16:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:35]: [200] Account Communication Success (6)
+[16:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:35]: [200] Account Communication Success (6)
+[17:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:35]: [200] Account Communication Success (6)
+[17:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:35]: [200] Account Communication Success (6)
+[18:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:35]: [200] Account Communication Success (6)
+[18:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:35]: [200] Account Communication Success (6)
+[19:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:35]: [200] Account Communication Success (6)
+[19:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:35]: [200] Account Communication Success (6)
+[20:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:35]: [200] Account Communication Success (6)
+[20:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:35]: [200] Account Communication Success (6)
+[21:01:35]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:35]: [200] Account Communication Success (6)
+[21:31:35]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:36]: [200] Account Communication Success (6)
+[22:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:36]: [200] Account Communication Success (6)
+[22:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:36]: [200] Account Communication Success (6)
+[23:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:36]: [200] Account Communication Success (6)
+[23:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:36]: [200] Account Communication Success (6)
+[00:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:36]: [200] Account Communication Success (6)
+[00:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:36]: [200] Account Communication Success (6)
+[01:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:36]: [200] Account Communication Success (6)
+[01:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:36]: [200] Account Communication Success (6)
+[02:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:36]: [200] Account Communication Success (6)
+[02:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:36]: [200] Account Communication Success (6)
+[03:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:36]: [200] Account Communication Success (6)
+[03:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:36]: [200] Account Communication Success (6)
+[04:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:36]: [200] Account Communication Success (6)
+[04:31:36]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:36]: [200] Account Communication Success (6)
+[05:01:36]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:37]: [200] Account Communication Success (6)
+[05:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:37]: [200] Account Communication Success (6)
+[06:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:37]: [200] Account Communication Success (6)
+[06:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:37]: [200] Account Communication Success (6)
+[07:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:37]: [200] Account Communication Success (6)
+[07:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:37]: [200] Account Communication Success (6)
+[08:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:37]: [200] Account Communication Success (6)
+[08:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:37]: [200] Account Communication Success (6)
+[09:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:37]: [200] Account Communication Success (6)
+[09:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:37]: [200] Account Communication Success (6)
+[10:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:37]: [200] Account Communication Success (6)
+[10:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:37]: [200] Account Communication Success (6)
+[11:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:37]: [200] Account Communication Success (6)
+[11:31:37]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:37]: [200] Account Communication Success (6)
+[12:01:37]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:38]: [200] Account Communication Success (6)
+[12:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:38]: [200] Account Communication Success (6)
+[13:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:38]: [200] Account Communication Success (6)
+[13:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:38]: [200] Account Communication Success (6)
+[14:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:38]: [200] Account Communication Success (6)
+[14:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:38]: [200] Account Communication Success (6)
+[15:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:38]: [200] Account Communication Success (6)
+[15:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:38]: [200] Account Communication Success (6)
+[16:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:38]: [200] Account Communication Success (6)
+[16:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:38]: [200] Account Communication Success (6)
+[17:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:38]: [200] Account Communication Success (6)
+[17:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:38]: [200] Account Communication Success (6)
+[18:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:38]: [200] Account Communication Success (6)
+[18:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:38]: [200] Account Communication Success (6)
+[19:01:38]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:38]: [200] Account Communication Success (6)
+[19:31:38]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:39]: [200] Account Communication Success (6)
+[20:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:39]: [200] Account Communication Success (6)
+[20:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:39]: [200] Account Communication Success (6)
+[21:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:39]: [200] Account Communication Success (6)
+[21:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:39]: [200] Account Communication Success (6)
+[22:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:39]: [200] Account Communication Success (6)
+[22:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:39]: [200] Account Communication Success (6)
+[23:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:39]: [200] Account Communication Success (6)
+[23:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:39]: [200] Account Communication Success (6)
+[00:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:39]: [200] Account Communication Success (6)
+[00:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:39]: [200] Account Communication Success (6)
+[01:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:39]: [200] Account Communication Success (6)
+[01:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:39]: [200] Account Communication Success (6)
+[02:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:39]: [200] Account Communication Success (6)
+[02:31:39]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:39]: [200] Account Communication Success (6)
+[03:01:39]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:40]: [200] Account Communication Success (6)
+[03:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:40]: [200] Account Communication Success (6)
+[04:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:40]: [200] Account Communication Success (6)
+[04:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:40]: [200] Account Communication Success (6)
+[05:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:40]: [200] Account Communication Success (6)
+[05:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:40]: [200] Account Communication Success (6)
+[06:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:40]: [200] Account Communication Success (6)
+[06:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:40]: [200] Account Communication Success (6)
+[07:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:40]: [200] Account Communication Success (6)
+[07:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:40]: [200] Account Communication Success (6)
+[08:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:40]: [200] Account Communication Success (6)
+[08:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:40]: [200] Account Communication Success (6)
+[09:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:40]: [200] Account Communication Success (6)
+[09:31:40]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:40]: [200] Account Communication Success (6)
+[10:01:40]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:41]: [200] Account Communication Success (6)
+[10:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:41]: [200] Account Communication Success (6)
+[11:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:41]: [200] Account Communication Success (6)
+[11:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:41]: [200] Account Communication Success (6)
+[12:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:41]: [200] Account Communication Success (6)
+[12:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:41]: [200] Account Communication Success (6)
+[13:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:41]: [200] Account Communication Success (6)
+[13:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:41]: [200] Account Communication Success (6)
+[14:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:41]: [200] Account Communication Success (6)
+[14:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:41]: [200] Account Communication Success (6)
+[15:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:41]: [200] Account Communication Success (6)
+[15:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:41]: [200] Account Communication Success (6)
+[16:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:41]: [200] Account Communication Success (6)
+[16:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:41]: [200] Account Communication Success (6)
+[17:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:41]: [200] Account Communication Success (6)
+[17:31:41]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:41]: [200] Account Communication Success (6)
+[18:01:41]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:42]: [200] Account Communication Success (6)
+[18:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:42]: [200] Account Communication Success (6)
+[19:01:42]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:42]: [200] Account Communication Success (6)
+[19:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:42]: [200] Account Communication Success (6)
+[20:01:42]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:42]: [200] Account Communication Success (6)
+[20:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:42]: [200] Account Communication Success (6)
+[21:01:42]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:42]: [200] Account Communication Success (6)
+[21:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:42]: [200] Account Communication Success (6)
+[22:01:42]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:42]: [200] Account Communication Success (6)
+[22:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:42]: [200] Account Communication Success (6)
+[23:01:42]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:42]: [200] Account Communication Success (6)
+[23:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:42]: [200] Account Communication Success (6)
+[00:01:42]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:42]: [200] Account Communication Success (6)
+[00:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:43]: [200] Account Communication Success (6)
+[01:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:42]: [200] Account Communication Success (6)
+[01:31:42]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:43]: [200] Account Communication Success (6)
+[02:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:43]: [200] Account Communication Success (6)
+[02:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:43]: [200] Account Communication Success (6)
+[03:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:43]: [200] Account Communication Success (6)
+[03:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:43]: [200] Account Communication Success (6)
+[04:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:44]: [200] Account Communication Success (6)
+[04:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:43]: [200] Account Communication Success (6)
+[05:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:43]: [200] Account Communication Success (6)
+[05:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:43]: [200] Account Communication Success (6)
+[06:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:43]: [200] Account Communication Success (6)
+[06:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:43]: [200] Account Communication Success (6)
+[07:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:43]: [200] Account Communication Success (6)
+[07:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:43]: [200] Account Communication Success (6)
+[08:01:43]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:43]: [200] Account Communication Success (6)
+[08:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:44]: [200] Account Communication Success (6)
+[09:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:43]: [200] Account Communication Success (6)
+[09:31:43]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:44]: [200] Account Communication Success (6)
+[10:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:44]: [200] Account Communication Success (6)
+[10:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:44]: [200] Account Communication Success (6)
+[11:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:44]: [200] Account Communication Success (6)
+[11:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:44]: [200] Account Communication Success (6)
+[12:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:44]: [200] Account Communication Success (6)
+[12:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:44]: [200] Account Communication Success (6)
+[13:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:44]: [200] Account Communication Success (6)
+[13:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:44]: [200] Account Communication Success (6)
+[14:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:44]: [200] Account Communication Success (6)
+[14:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:44]: [200] Account Communication Success (6)
+[15:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:44]: [200] Account Communication Success (6)
+[15:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:44]: [200] Account Communication Success (6)
+[16:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:44]: [200] Account Communication Success (6)
+[16:31:44]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:44]: [200] Account Communication Success (6)
+[17:01:44]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:45]: [200] Account Communication Success (6)
+[17:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:45]: [200] Account Communication Success (6)
+[18:01:45]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:45]: [200] Account Communication Success (6)
+[18:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:45]: [200] Account Communication Success (6)
+[19:01:45]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:45]: [200] Account Communication Success (6)
+[19:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:45]: [200] Account Communication Success (6)
+[20:01:45]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:45]: [200] Account Communication Success (6)
+[20:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:45]: [200] Account Communication Success (6)
+[21:01:45]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:45]: [200] Account Communication Success (6)
+[21:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:45]: [200] Account Communication Success (6)
+[22:01:45]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:45]: [200] Account Communication Success (6)
+[22:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:45]: [200] Account Communication Success (6)
+[23:01:45]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:45]: [200] Account Communication Success (6)
+[23:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:46]: [200] Account Communication Success (6)
+[00:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:45]: [200] Account Communication Success (6)
+[00:31:45]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:46]: [200] Account Communication Success (6)
+[01:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:46]: [200] Account Communication Success (6)
+[01:31:46]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:46]: [200] Account Communication Success (6)
+[02:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:46]: [200] Account Communication Success (6)
+[02:31:46]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:46]: [200] Account Communication Success (6)
+[03:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:46]: [200] Account Communication Success (6)
+[03:31:46]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:46]: [200] Account Communication Success (6)
+[04:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:46]: [200] Account Communication Success (6)
+[04:31:46]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:46]: [200] Account Communication Success (6)
+[05:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:46]: [200] Account Communication Success (6)
+[05:31:46]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:46]: [200] Account Communication Success (6)
+[06:01:46]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:46]: [200] Account Communication Success (6)
+[06:31:46]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:47]: [200] Account Communication Success (6)
+[07:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:47]: [200] Account Communication Success (6)
+[07:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:47]: [200] Account Communication Success (6)
+[08:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:47]: [200] Account Communication Success (6)
+[08:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:47]: [200] Account Communication Success (6)
+[09:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:47]: [200] Account Communication Success (6)
+[09:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[10:01:47]: [200] Account Communication Success (6)
+[10:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:47]: [200] Account Communication Success (6)
+[10:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:47]: [200] Account Communication Success (6)
+[11:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:47]: [200] Account Communication Success (6)
+[11:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:47]: [200] Account Communication Success (6)
+[12:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:47]: [200] Account Communication Success (6)
+[12:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:47]: [200] Account Communication Success (6)
+[13:01:47]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:47]: [200] Account Communication Success (6)
+[13:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:48]: [200] Account Communication Success (6)
+[14:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:47]: [200] Account Communication Success (6)
+[14:31:47]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:48]: [200] Account Communication Success (6)
+[15:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:48]: [200] Account Communication Success (6)
+[15:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:48]: [200] Account Communication Success (6)
+[16:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:48]: [200] Account Communication Success (6)
+[16:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:48]: [200] Account Communication Success (6)
+[17:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:48]: [200] Account Communication Success (6)
+[17:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:48]: [200] Account Communication Success (6)
+[18:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:48]: [200] Account Communication Success (6)
+[18:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:48]: [200] Account Communication Success (6)
+[19:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:48]: [200] Account Communication Success (6)
+[19:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:48]: [200] Account Communication Success (6)
+[20:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:48]: [200] Account Communication Success (6)
+[20:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:48]: [200] Account Communication Success (6)
+[21:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:48]: [200] Account Communication Success (6)
+[21:31:48]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:48]: [200] Account Communication Success (6)
+[22:01:48]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:49]: [200] Account Communication Success (6)
+[22:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:49]: [200] Account Communication Success (6)
+[23:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:49]: [200] Account Communication Success (6)
+[23:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:49]: [200] Account Communication Success (6)
+[00:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:49]: [200] Account Communication Success (6)
+[00:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:49]: [200] Account Communication Success (6)
+[01:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:49]: [200] Account Communication Success (6)
+[01:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:49]: [200] Account Communication Success (6)
+[02:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:49]: [200] Account Communication Success (6)
+[02:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:49]: [200] Account Communication Success (6)
+[03:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:49]: [200] Account Communication Success (6)
+[03:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:49]: [200] Account Communication Success (6)
+[04:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:49]: [200] Account Communication Success (6)
+[04:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:50]: [200] Account Communication Success (6)
+[05:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:49]: [200] Account Communication Success (6)
+[05:31:49]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:49]: [200] Account Communication Success (6)
+[06:01:49]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:50]: [200] Account Communication Success (6)
+[06:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:50]: [200] Account Communication Success (6)
+[07:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:50]: [200] Account Communication Success (6)
+[07:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:50]: [200] Account Communication Success (6)
+[08:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[08:22:53]: Received MasterInfoPacket row 0f7a492755292c5bec6028f98fb3301f region ap-east-1
+[08:22:53]: Obtaining secondary shard IP from ap-east-1 lobby
+[08:31:50]: [200] Account Communication Success (6)
+[08:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:50]: [200] Account Communication Success (6)
+[09:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:50]: [200] Account Communication Success (6)
+[09:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[09:48:03]: Received MasterInfoPacket row aedd1a6c3a9c2b4c391eb72a6a218a1f region ap-southeast-1
+[09:48:03]: Obtaining secondary shard IP from ap-southeast-1 lobby
+[10:01:50]: [200] Account Communication Success (6)
+[10:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:50]: [200] Account Communication Success (6)
+[10:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:50]: [200] Account Communication Success (6)
+[11:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[11:31:50]: [200] Account Communication Success (6)
+[11:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:50]: [200] Account Communication Success (6)
+[12:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:50]: [200] Account Communication Success (6)
+[12:31:50]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:50]: [200] Account Communication Success (6)
+[13:01:50]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:51]: [200] Account Communication Success (6)
+[13:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:51]: [200] Account Communication Success (6)
+[14:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:51]: [200] Account Communication Success (6)
+[14:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:51]: [200] Account Communication Success (6)
+[15:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:51]: [200] Account Communication Success (6)
+[15:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:51]: [200] Account Communication Success (6)
+[16:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:51]: [200] Account Communication Success (6)
+[16:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:51]: [200] Account Communication Success (6)
+[17:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:51]: [200] Account Communication Success (6)
+[17:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:51]: [200] Account Communication Success (6)
+[18:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:51]: [200] Account Communication Success (6)
+[18:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:51]: [200] Account Communication Success (6)
+[19:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:51]: [200] Account Communication Success (6)
+[19:31:51]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:51]: [200] Account Communication Success (6)
+[20:01:51]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:52]: [200] Account Communication Success (6)
+[20:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:52]: [200] Account Communication Success (6)
+[21:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:52]: [200] Account Communication Success (6)
+[21:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:52]: [200] Account Communication Success (6)
+[22:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:52]: [200] Account Communication Success (6)
+[22:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:52]: [200] Account Communication Success (6)
+[23:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:52]: [200] Account Communication Success (6)
+[23:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:52]: [200] Account Communication Success (6)
+[00:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:52]: [200] Account Communication Success (6)
+[00:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[01:01:52]: [200] Account Communication Success (6)
+[01:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:52]: [200] Account Communication Success (6)
+[01:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[02:01:52]: [200] Account Communication Success (6)
+[02:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[02:31:52]: [200] Account Communication Success (6)
+[02:31:52]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:52]: [200] Account Communication Success (6)
+[03:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[03:31:53]: [200] Account Communication Success (6)
+[03:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[04:01:52]: [200] Account Communication Success (6)
+[04:01:52]: Received (KU_2HEq3klP) from TokenPurpose
+[04:31:53]: [200] Account Communication Success (6)
+[04:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[05:01:53]: [200] Account Communication Success (6)
+[05:01:53]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:53]: [200] Account Communication Success (6)
+[05:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[06:01:53]: [200] Account Communication Success (6)
+[06:01:53]: Received (KU_2HEq3klP) from TokenPurpose
+[06:31:53]: [200] Account Communication Success (6)
+[06:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:53]: [200] Account Communication Success (6)
+[07:01:53]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:53]: [200] Account Communication Success (6)
+[07:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[08:01:53]: [200] Account Communication Success (6)
+[08:01:53]: Received (KU_2HEq3klP) from TokenPurpose
+[08:31:53]: [200] Account Communication Success (6)
+[08:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[09:01:53]: [200] Account Communication Success (6)
+[09:01:53]: Received (KU_2HEq3klP) from TokenPurpose
+[09:31:53]: [200] Account Communication Success (6)
+[09:31:53]: Received (KU_2HEq3klP) from TokenPurpose
+[09:48:19]: Received MasterInfoPacket row e03272ea4f3078dbdaeb8f72af0f8166 region ap-east-1
+[09:48:19]: Obtaining secondary shard IP from ap-east-1 lobby
+[10:01:54]: [200] Account Communication Success (6)
+[10:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[10:31:54]: [200] Account Communication Success (6)
+[10:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[11:01:54]: [200] Account Communication Success (6)
+[11:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[11:08:29]: Received MasterInfoPacket row f17316543d32a1480a4fbf4987268184 region ap-southeast-1
+[11:08:29]: Obtaining secondary shard IP from ap-southeast-1 lobby
+[11:31:54]: [200] Account Communication Success (6)
+[11:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[12:01:54]: [200] Account Communication Success (6)
+[12:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[12:31:54]: [200] Account Communication Success (6)
+[12:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[13:01:54]: [200] Account Communication Success (6)
+[13:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[13:31:54]: [200] Account Communication Success (6)
+[13:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:54]: [200] Account Communication Success (6)
+[14:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[14:31:54]: [200] Account Communication Success (6)
+[14:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[15:01:54]: [200] Account Communication Success (6)
+[15:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:54]: [200] Account Communication Success (6)
+[15:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[16:01:54]: [200] Account Communication Success (6)
+[16:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[16:31:54]: [200] Account Communication Success (6)
+[16:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[17:01:54]: [200] Account Communication Success (6)
+[17:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[17:31:54]: [200] Account Communication Success (6)
+[17:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[18:01:54]: [200] Account Communication Success (6)
+[18:01:54]: Received (KU_2HEq3klP) from TokenPurpose
+[18:31:54]: [200] Account Communication Success (6)
+[18:31:54]: Received (KU_2HEq3klP) from TokenPurpose
+[19:01:55]: [200] Account Communication Success (6)
+[19:01:55]: Received (KU_2HEq3klP) from TokenPurpose
+[19:31:55]: [200] Account Communication Success (6)
+[19:31:55]: Received (KU_2HEq3klP) from TokenPurpose
+[20:01:55]: [200] Account Communication Success (6)
+[20:01:55]: Received (KU_2HEq3klP) from TokenPurpose
+[20:31:55]: [200] Account Communication Success (6)
+[20:31:55]: Received (KU_2HEq3klP) from TokenPurpose
+[21:01:55]: [200] Account Communication Success (6)
+[21:01:55]: Received (KU_2HEq3klP) from TokenPurpose
+[21:31:55]: [200] Account Communication Success (6)
+[21:31:55]: Received (KU_2HEq3klP) from TokenPurpose
+[22:01:55]: [200] Account Communication Success (6)
+[22:01:55]: Received (KU_2HEq3klP) from TokenPurpose
+[22:31:55]: [200] Account Communication Success (6)
+[22:31:55]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:55]: [200] Account Communication Success (6)
+[23:01:55]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:55]: [200] Account Communication Success (6)
+[23:31:55]: Received (KU_2HEq3klP) from TokenPurpose
+[00:01:55]: [200] Account Communication Success (6)
+[00:01:55]: Received (KU_2HEq3klP) from TokenPurpose
+[00:31:55]: [200] Account Communication Success (6)
+[00:31:55]: Received (KU_2HEq3klP) from TokenPurpose
+[00:58:54]: Available disk space for save files: 1909 MB
+[00:58:55]: Serializing world: session/83259BFB6C01A2CA/0000000035
+[00:58:55]: Truncating to snapshot #35...
+[00:58:55]:  - session/83259BFB6C01A2CA/0000000029
+[00:58:55]:    1 file(s) removed

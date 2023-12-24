@@ -1,0 +1,17 @@
+[00:23:51]: [Join Announcement] estarhp
+[00:25:09]: [Leave Announcement] estarhp
+[00:37:08]: [Join Announcement] estarhp
+[00:37:28]: [Vote Announcement] regenerate passed
+[01:07:29]: [Join Announcement] lienxithy
+[01:07:35]: [Leave Announcement] estarhp
+[01:08:34]: [Join Announcement] estarhp
+[01:14:58]: [Death Announcement] lienxithy was killed by Spider. She became a spooky ghost!
+[01:15:48]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[01:17:05]: [Death Announcement] lienxithy was killed by Fire. She became a spooky ghost!
+[01:17:27]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[01:31:04]: [Leave Announcement] lienxithy
+[01:31:09]: [Leave Announcement] estarhp
+[16:23:08]: [Join Announcement] estarhp
+[16:25:30]: [Vote Announcement] regenerate passed
+[16:26:07]: [Vote Announcement] regenerate passed
+[16:29:55]: [Leave Announcement] estarhp

@@ -1,0 +1,30 @@
+[00:02:06]: [Join Announcement] estarhp
+[00:02:30]: [Join Announcement] lienxithy
+[00:03:12]: [Leave Announcement] lienxithy
+[00:04:23]: [Join Announcement] lienxithy
+[00:59:25]: [Leave Announcement] lienxithy
+[01:02:18]: [Join Announcement] lienxithy
+[01:21:18]: [Leave Announcement] estarhp
+[01:23:09]: [Death Announcement] lienxithy was killed by Terrorbeak. She became a spooky ghost!
+[01:23:47]: [Leave Announcement] lienxithy
+[06:36:57]: [Join Announcement] estarhp
+[06:37:27]: [Leave Announcement] estarhp
+[06:38:11]: [Join Announcement] estarhp
+[06:39:20]: [Leave Announcement] estarhp
+[06:40:08]: [Join Announcement] estarhp
+[06:41:50]: [Death Announcement] estarhp was killed by Guard Pig. She became a spooky ghost!
+[06:44:59]: [Join Announcement] lienxithy
+[07:25:11]: [Death Announcement] lienxithy was killed by Starvation. She became a spooky ghost!
+[07:28:06]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[07:41:05]: [Skin Announcement] lienxithy feet_warly_ice
+[08:12:00]: [Death Announcement] lienxithy was killed by Prickly Stagehand. She became a spooky ghost!
+[08:14:38]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[08:20:34]: [Death Announcement] lienxithy was killed by Darkness. She became a spooky ghost!
+[08:22:34]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[09:32:22]: [Vote Announcement] rollback passed
+[09:38:26]: [Death Announcement] lienxithy was killed by Crawling Horror. She became a spooky ghost!
+[09:39:00]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[09:43:17]: [Leave Announcement] lienxithy
+[09:43:22]: [Leave Announcement] estarhp
+[09:44:10]: [Join Announcement] estarhp
+[09:44:41]: [Leave Announcement] estarhp

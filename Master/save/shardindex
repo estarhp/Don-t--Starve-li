@@ -20,7 +20,19 @@ KLEI     1 return {
       },
       enabled=true 
     },
-    ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true } 
+    ["workshop-378160973"]={
+      configuration_options={
+        ENABLEPINGS=true,
+        FIREOPTIONS=2,
+        OVERRIDEMODE=false,
+        SHAREMINIMAPPROGRESS=true,
+        SHOWFIREICONS=true,
+        SHOWPLAYERICONS=true,
+        SHOWPLAYERSOPTIONS=2 
+      },
+      enabled=true 
+    },
+    ["workshop-466732225"]={ configuration_options={  }, enabled=true } 
   },
   server={
     clan={ admin=false, id="", only=false },
@@ -36,7 +48,7 @@ KLEI     1 return {
     pvp=false,
     server_language="en" 
   },
-  session_id="83D2EB7825950434",
+  session_id="7310D089907748FA",
   version=5,
   world={
     options={
