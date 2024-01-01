@@ -1,0 +1,10 @@
+[22:23:45]: [Join Announcement] estarhp
+[22:29:43]: [Join Announcement] lienxithy
+[22:50:26]: [Death Announcement] lienxithy was killed by Hound. She became a spooky ghost!
+[22:52:48]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[23:29:23]: [Death Announcement] lienxithy was killed by Darkness. She became a spooky ghost!
+[23:30:54]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[23:41:36]: [Vote Announcement] rollback passed
+[23:50:31]: [Leave Announcement] lienxithy
+[23:52:18]: [Leave Announcement] estarhp
+[05:30:09]: [Join Announcement] estarhp
