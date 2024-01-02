@@ -1,1 +1,9 @@
-[00:02:17]: [Join Announcement] estarhp
+[00:01:28]: [Join Announcement] estarhp
+[00:04:30]: [Join Announcement] 3301624889
+[00:06:43]: [Vote Announcement] rollback passed
+[00:19:34]: [Leave Announcement] 3301624889
+[00:21:44]: [Join Announcement] 3301624889
+[01:21:44]: [Death Announcement] 3301624889 was killed by Starvation. He became a spooky ghost!
+[01:21:46]: [Resurrect Announcement] 3301624889 was resurrected by estarhp.
+[01:31:26]: [Leave Announcement] 3301624889
+[01:31:59]: [Leave Announcement] estarhp
