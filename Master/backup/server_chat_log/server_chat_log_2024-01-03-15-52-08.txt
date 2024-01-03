@@ -1,0 +1,7 @@
+[00:01:35]: [Join Announcement] estarhp
+[00:01:50]: [Join Announcement] lienxithy
+[00:02:14]: [Death Announcement] lienxithy was killed by Shenanigans. She became a spooky ghost!
+[00:03:51]: [Join Announcement] 3301624889
+[00:04:45]: [Vote Announcement] rollback passed
+[00:06:21]: [Death Announcement] lienxithy was killed by Shenanigans. She became a spooky ghost!
+[00:07:11]: [Leave Announcement] estarhp
