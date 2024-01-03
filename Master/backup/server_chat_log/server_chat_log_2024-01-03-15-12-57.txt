@@ -1,0 +1,38 @@
+[00:01:27]: [Join Announcement] estarhp
+[00:04:29]: [Join Announcement] 3301624889
+[00:06:42]: [Vote Announcement] rollback passed
+[00:19:33]: [Leave Announcement] 3301624889
+[00:21:43]: [Join Announcement] 3301624889
+[01:21:43]: [Death Announcement] 3301624889 was killed by Starvation. He became a spooky ghost!
+[01:21:45]: [Resurrect Announcement] 3301624889 was resurrected by estarhp.
+[01:31:25]: [Leave Announcement] 3301624889
+[01:31:58]: [Leave Announcement] estarhp
+[23:19:44]: [Join Announcement] estarhp
+[23:21:08]: [Join Announcement] 3301624889
+[23:21:37]: [Leave Announcement] 3301624889
+[23:22:59]: [Join Announcement] 3301624889
+[23:23:18]: [Leave Announcement] 3301624889
+[23:25:47]: [Join Announcement] 3301624889
+[23:30:39]: [Join Announcement] lienxithy
+[23:34:27]: [Death Announcement] lienxithy was killed by Starvation. She became a spooky ghost!
+[23:38:05]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[23:39:59]: [Death Announcement] lienxithy was killed by Spider. She became a spooky ghost!
+[23:49:01]: [Resurrect Announcement] lienxithy was resurrected by 3301624889.
+[23:56:19]: [Death Announcement] 3301624889 was killed by Bearger. He became a spooky ghost!
+[23:57:10]: [Resurrect Announcement] 3301624889 was resurrected by estarhp.
+[00:14:08]: [Death Announcement] estarhp was killed by Monster Meat. She became a spooky ghost!
+[00:17:39]: [Death Announcement] lienxithy was killed by Varglet. She became a spooky ghost!
+[00:17:54]: [Vote Announcement] rollback passed
+[00:20:09]: [Resurrect Announcement] estarhp was resurrected by 3301624889.
+[00:28:05]: [Leave Announcement] 3301624889
+[00:28:13]: [Leave Announcement] lienxithy
+[00:29:27]: [Leave Announcement] estarhp
+[23:22:50]: [Join Announcement] estarhp
+[23:23:53]: [Join Announcement] 3301624889
+[23:24:27]: [Join Announcement] lienxithy
+[23:50:56]: [Leave Announcement] 3301624889
+[23:54:31]: [Join Announcement] 3301624889
+[23:56:42]: [Leave Announcement] estarhp
+[23:56:49]: [Death Announcement] 3301624889 was killed by Spider Warrior. He became a spooky ghost!
+[23:56:52]: [Leave Announcement] 3301624889
+[23:56:56]: [Leave Announcement] lienxithy

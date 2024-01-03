@@ -1,0 +1,22 @@
+[00:01:27]: [Join Announcement] estarhp
+[00:04:29]: [Join Announcement] 3301624889
+[00:06:42]: [Vote Announcement] rollback passed
+[00:19:33]: [Leave Announcement] 3301624889
+[00:21:43]: [Join Announcement] 3301624889
+[01:21:43]: [Death Announcement] 3301624889 was killed by Starvation. He became a spooky ghost!
+[01:21:45]: [Resurrect Announcement] 3301624889 was resurrected by estarhp.
+[01:31:25]: [Leave Announcement] 3301624889
+[01:31:58]: [Leave Announcement] estarhp
+[23:19:44]: [Join Announcement] estarhp
+[23:21:08]: [Join Announcement] 3301624889
+[23:21:37]: [Leave Announcement] 3301624889
+[23:22:59]: [Join Announcement] 3301624889
+[23:23:18]: [Leave Announcement] 3301624889
+[23:25:47]: [Join Announcement] 3301624889
+[23:30:39]: [Join Announcement] lienxithy
+[23:34:27]: [Death Announcement] lienxithy was killed by Starvation. She became a spooky ghost!
+[23:38:05]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[23:39:59]: [Death Announcement] lienxithy was killed by Spider. She became a spooky ghost!
+[23:49:01]: [Resurrect Announcement] lienxithy was resurrected by 3301624889.
+[23:56:19]: [Death Announcement] 3301624889 was killed by Bearger. He became a spooky ghost!
+[23:57:10]: [Resurrect Announcement] 3301624889 was resurrected by estarhp.
