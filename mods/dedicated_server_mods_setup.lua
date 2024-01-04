@@ -10,10 +10,9 @@
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=379114180
 	--ServerModCollectionSetup("379114180")
 
-ServerModSetup("2287303119");
-ServerModSetup("1207269058");
-ServerModSetup("362175979");
-ServerModSetup("378160973");
-ServerModSetup("466732225");
-ServerModSetup("2070363330");
+ServerModSetup("1207269058")
+ServerModSetup("2287303119")
+ServerModSetup("2797939615")
+ServerModSetup("378160973")
+
 

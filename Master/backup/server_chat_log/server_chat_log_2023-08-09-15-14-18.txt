@@ -1,9 +1,0 @@
-[17:04:12]: [Join Announcement] estarhp
-[17:55:32]: [Vote Announcement] rollback passed
-[19:00:27]: [Leave Announcement] estarhp
-[19:44:56]: [Join Announcement] estarhp
-[19:45:12]: [Join Announcement] 3512835457
-[20:02:33]: [Join Announcement] 3301624889
-[20:42:03]: [Leave Announcement] estarhp
-[20:42:31]: [Leave Announcement] 3512835457
-[20:42:31]: [Leave Announcement] 3301624889
