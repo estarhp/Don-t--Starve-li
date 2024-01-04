@@ -852,3 +852,53 @@
 [00:02:12]: Server Autopaused	
 [00:02:14]: Server Unpaused	
 [00:02:14]: Server Autopaused	
+[00:04:27]: Server Unpaused	
+[00:04:27]: Server Autopaused	
+[00:04:45]: Server Unpaused	
+[00:04:45]: Server Autopaused	
+[00:04:46]: Server Unpaused	
+[00:04:54]: Server Paused	
+[00:06:25]: Server Unpaused	
+[00:06:25]: Sim paused
+[00:12:08]: Sim unpaused
+[00:12:56]: Server Autopaused	
+[00:12:56]: Server Unpaused	
+[00:12:57]: Server Autopaused	
+[00:12:58]: Server Unpaused	
+[00:16:00]: Available disk space for save files: 161701 MB
+[00:16:00]: Serializing world: session/EB8D0B83904439AB/0000000103
+[00:16:00]: Truncating to snapshot #103...
+[00:16:00]:  - session/EB8D0B83904439AB/0000000097
+[00:16:00]:  - session/EB8D0B83904439AB/A7ILUGHR7MEL/0000000097
+[00:16:00]:  - session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000097
+[00:16:00]:    3 file(s) removed
+[00:18:21]: Server Autopaused	
+[00:18:21]: Server Unpaused	
+[00:18:21]: Server Autopaused	
+[00:18:21]: Server Unpaused	
+[00:24:01]: Available disk space for save files: 161696 MB
+[00:24:01]: Serializing world: session/EB8D0B83904439AB/0000000104
+[00:24:01]: Truncating to snapshot #104...
+[00:24:01]:  - session/EB8D0B83904439AB/0000000098
+[00:24:01]:  - session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000098
+[00:24:01]:    2 file(s) removed
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_2HEq3klP) from TokenPurpose
+[00:32:01]: Available disk space for save files: 161692 MB
+[00:32:02]: Serializing world: session/EB8D0B83904439AB/0000000105
+[00:32:02]: Truncating to snapshot #105...
+[00:32:02]:  - session/EB8D0B83904439AB/0000000099
+[00:32:02]:    1 file(s) removed
+[00:32:28]: Server Autopaused	
+[00:32:29]: Server Unpaused	
+[00:40:02]: Available disk space for save files: 161687 MB
+[00:40:03]: Serializing world: session/EB8D0B83904439AB/0000000106
+[00:40:03]: Truncating to snapshot #106...
+[00:40:03]:  - session/EB8D0B83904439AB/0000000100
+[00:40:03]:    1 file(s) removed
+[00:41:47]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 5001 milliseconds with 0 out of 0 bytes received
+[00:45:07]: Server Autopaused	
+[00:45:08]: Server Unpaused	
+[00:45:15]: Server Autopaused	
+[00:45:18]: Server Unpaused	
+[00:45:20]: Sim paused

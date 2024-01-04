@@ -950,3 +950,60 @@
 [00:02:12]: Server Autopaused	
 [00:02:14]: Server Unpaused	
 [00:02:14]: Server Autopaused	
+[00:04:27]: Server Unpaused	
+[00:04:27]: Server Autopaused	
+[00:04:45]: Server Unpaused	
+[00:04:45]: Server Autopaused	
+[00:04:46]: Server Unpaused	
+[00:04:54]: Server Paused	
+[00:06:25]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:06:25]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:06:25]: Server Unpaused	
+[00:06:25]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000103
+[00:06:25]: Sim paused
+[00:11:40]: New incoming connection 183.230.12.176|7051 <6428686613474147433>
+[00:11:40]: Client connected from 183.230.12.176|7051 <6428686613474147433>
+[00:11:40]: ValidateGameSessionToken GUID<6428686613474147433>
+[00:11:41]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:11:42]: [Steam] Authenticated host '76561199365741450'
+[00:11:44]: There is no active event to validate against.
+[00:11:44]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:12:08]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000103
+[00:12:08]: Spawning player at: [Load] (-176.44, -0.00, -127.32)	
+[00:12:08]: Sim unpaused
+[00:12:56]: Server Autopaused	
+[00:12:56]: Server Unpaused	
+[00:12:57]: Server Autopaused	
+[00:12:58]: Server Unpaused	
+[00:15:59]: Available disk space for save files: 161701 MB
+[00:16:00]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000103
+[00:16:00]: Serializing world: session/7310D089907748FA/0000000103
+[00:18:21]: Server Autopaused	
+[00:18:21]: Server Unpaused	
+[00:18:21]: Server Autopaused	
+[00:18:21]: Server Unpaused	
+[00:21:07]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 5000 milliseconds with 0 out of 0 bytes received
+[00:24:01]: Available disk space for save files: 161696 MB
+[00:24:01]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000104
+[00:24:01]: Serializing world: session/7310D089907748FA/0000000104
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_2HEq3klP) from TokenPurpose
+[00:32:01]: Available disk space for save files: 161692 MB
+[00:32:01]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000105
+[00:32:02]: Serializing world: session/7310D089907748FA/0000000105
+[00:32:28]: Server Autopaused	
+[00:32:29]: Server Unpaused	
+[00:35:06]: Stale Component Reference: GUID 121197, scripts/entityscript.lua:1203
+[00:40:02]: Available disk space for save files: 161687 MB
+[00:40:03]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000106
+[00:40:03]: Serializing world: session/7310D089907748FA/0000000106
+[00:41:51]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 5002 milliseconds with 0 out of 0 bytes received
+[00:41:52]: CURL ERROR: (dst.metrics.klei.com) [28]Operation timed out after 5000 milliseconds with 0 out of 0 bytes received
+[00:45:07]: Server Autopaused	
+[00:45:08]: Server Unpaused	
+[00:45:15]: Server Autopaused	
+[00:45:18]: Server Unpaused	
+[00:45:19]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:45:19]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:45:20]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000107
+[00:45:20]: Sim paused
