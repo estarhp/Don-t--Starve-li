@@ -1,0 +1,26 @@
+[00:01:31]: [Join Announcement] estarhp
+[00:08:55]: [Join Announcement] 3301624889
+[00:33:29]: [Death Announcement] 3301624889 was killed by Flint. He became a spooky ghost!
+[00:33:53]: [Vote Announcement] rollback passed
+[00:48:26]: [Death Announcement] 3301624889 was killed by Slurper. He became a spooky ghost!
+[00:48:38]: [Vote Announcement] rollback passed
+[00:48:56]: [Death Announcement] estarhp was killed by Starvation. He became a spooky ghost!
+[01:11:49]: [Leave Announcement] 3301624889
+[01:17:18]: [Join Announcement] 3301624889
+[02:58:26]: [Vote Announcement] rollback passed
+[03:05:45]: [Death Announcement] estarhp was killed by Bearger. He became a spooky ghost!
+[03:06:07]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[03:06:35]: [Death Announcement] estarhp was killed by Bearger. He became a spooky ghost!
+[03:07:16]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[03:23:52]: [Leave Announcement] estarhp
+[03:23:54]: [Leave Announcement] 3301624889
+[21:03:05]: [Join Announcement] estarhp
+[21:05:57]: [Vote Announcement] rollback passed
+[22:53:24]: [Join Announcement] lienxithy
+[23:02:47]: [Vote Announcement] rollback passed
+[23:10:25]: [Death Announcement] lienxithy was killed by Terrorbeak. She became a spooky ghost!
+[23:11:34]: [Resurrect Announcement] lienxithy was resurrected by Life Giving Amulet.
+[23:25:37]: [Death Announcement] lienxithy was killed by Spider Queen. She became a spooky ghost!
+[23:26:10]: [Vote Announcement] rollback passed
+[23:57:58]: [Death Announcement] lienxithy was killed by Varglet. She became a spooky ghost!
+[23:58:32]: [Resurrect Announcement] lienxithy was resurrected by Life Giving Amulet.

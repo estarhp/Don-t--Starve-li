@@ -105,7 +105,7 @@ return {
     touchstone="default",
     trees="default",
     weather="default",
-    winters_feast="default",
+    winters_feast="never",
     world_size="default",
     wormattacks="default",
     wormhole_prefab="tentacle_pillar",
