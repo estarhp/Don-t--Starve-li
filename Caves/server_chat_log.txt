@@ -69,3 +69,37 @@
 [01:55:20]: [Death Announcement] estarhp was killed by Spider. He became a spooky ghost!
 [01:55:26]: [Vote Announcement] rollback passed
 [03:36:24]: [Leave Announcement] estarhp
+[22:43:47]: [Join Announcement] estarhp
+[22:53:46]: [Join Announcement] 3301624889
+[22:57:10]: [Death Announcement] 3301624889 was killed by Blue Hound. He became a spooky ghost!
+[22:57:16]: [Vote Announcement] rollback passed
+[23:11:08]: [Say] (KU_2HEq3klP) estarhp: 快来连麦
+[23:14:39]: [Say] (KU_2HEq3klP) estarhp: 下去把猪打了？
+[23:15:48]: [Say] (KU_2HEq3klP) estarhp: deng yi bo cai ba
+[23:16:47]: [Say] (KU_2HEq3klP) estarhp: zhi jie an Y da pin yin ba
+[23:20:08]: [Say] (KU_2HEq3klP) estarhp: gao dian guai wu rou
+[00:00:00]: [Join Announcement] 3301624889
+[00:33:21]: [Vote Announcement] rollback passed
+[00:38:01]: [Vote Announcement] rollback passed
+[01:15:19]: [Vote Announcement] rollback passed
+[01:20:07]: [Vote Announcement] rollback passed
+[01:22:23]: [Leave Announcement] 3301624889
+[01:23:45]: [Join Announcement] 3301624889
+[01:28:30]: [Death Announcement] 3301624889 was killed by Nightmare Werepig. He became a spooky ghost!
+[01:28:56]: [Death Announcement] estarhp was killed by Nightmare Werepig. He became a spooky ghost!
+[01:29:00]: [Vote Announcement] rollback passed
+[01:31:16]: [Leave Announcement] 3301624889
+[01:36:20]: [Join Announcement] 3301624889
+[02:08:27]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[02:08:50]: [Vote Announcement] rollback passed
+[02:13:46]: [Death Announcement] estarhp was killed by Damaged Bishop. He became a spooky ghost!
+[02:13:58]: [Vote Announcement] rollback passed
+[02:16:12]: [Join Announcement] estarhp
+[02:26:22]: [Death Announcement] 3301624889 was killed by Nightmarebeak. He became a spooky ghost!
+[02:26:30]: [Death Announcement] estarhp was killed by Splumonkey. He became a spooky ghost!
+[02:26:33]: [Vote Announcement] rollback passed
+[02:29:00]: [Join Announcement] estarhp
+[02:34:25]: [Death Announcement] estarhp was killed by Crawling Horror. He became a spooky ghost!
+[02:35:11]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[02:42:38]: [Leave Announcement] estarhp
+[02:42:42]: [Leave Announcement] 3301624889
