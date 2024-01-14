@@ -1594,3 +1594,56 @@
 [05:58:11]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
 [06:00:15]: [200] Account Communication Success (6)
 [06:00:15]: Received (KU_2HEq3klP) from TokenPurpose
+[06:03:11]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:03:56]: Available disk space for save files: 156149 MB
+[06:03:57]: Serializing world: session/EB8D0B83904439AB/0000000390
+[06:03:57]: Truncating to snapshot #390...
+[06:03:57]:  - session/EB8D0B83904439AB/0000000384
+[06:03:57]:    1 file(s) removed
+[06:06:31]: [Shard] #1 -> session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000391
+[06:06:31]: [Shard] Received migration #1 data for (KU_2HEq3klP)
+[06:06:36]: [P2P] Session request for '76561199365741450'
+[06:06:40]: [P2P] Create session: 133.222.65.69|1 '76561199365741450'
+[06:06:40]: [P2P] Received from 133.222.65.69|1 '76561199365741450'
+[06:06:40]: [P2P] Sent to 133.222.65.69|1 '76561199365741450'
+[06:06:41]: New incoming connection 133.222.65.69|1 <6112577504462201086>
+[06:06:41]: Client connected from 133.222.65.69|1 <6112577504462201086>
+[06:06:41]: ValidateGameSessionToken GUID<6112577504462201086>
+[06:06:42]: Client authenticated: (KU_2HEq3klP) estarhp
+[06:06:42]: [Steam] Authenticated host '76561199365741450'
+[06:06:42]: [Shard] Completed incoming migration #1 for (KU_2HEq3klP)
+[06:06:55]: Resuming user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000391
+[06:06:55]: Player will spawn close to portal #8	
+[06:06:55]: Spawning player at: [Load] (-25.78, 0.00, 281.88)	
+[06:08:11]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4376 ms: Connection timed out
+[06:08:12]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:10:59]: Activating portal[8] to 1	
+[06:11:00]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000391
+[06:11:00]: [Shard] Migration request: (KU_2HEq3klP) to [SHDMASTER](1)
+[06:11:00]: [Shard] #2 <- session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000391
+[06:11:00]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[06:11:00]: [Steam] SendUserDisconnect for '76561199365741450'
+[06:11:57]: Available disk space for save files: 156144 MB
+[06:11:58]: Serializing world: session/EB8D0B83904439AB/0000000391
+[06:11:58]: Truncating to snapshot #391...
+[06:11:58]:  - session/EB8D0B83904439AB/0000000385
+[06:11:58]:    1 file(s) removed
+[06:13:21]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[06:18:11]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4377 ms: Connection timed out
+[06:19:58]: Available disk space for save files: 156138 MB
+[06:19:58]: Serializing world: session/EB8D0B83904439AB/0000000392
+[06:19:58]: Truncating to snapshot #392...
+[06:19:58]:  - session/EB8D0B83904439AB/0000000386
+[06:19:58]:    1 file(s) removed
+[06:21:04]: [P2P] Session timed out for '76561199365741450'
+[06:21:04]: [P2P] Remove session: 133.222.65.69|1 '76561199365741450'
+[06:22:07]: Server Paused	
+[06:22:51]: Server Unpaused	
+[06:23:56]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:28:43]: Available disk space for save files: 156132 MB
+[06:28:43]: Serializing world: session/EB8D0B83904439AB/0000000393
+[06:28:43]: Truncating to snapshot #393...
+[06:28:43]:  - session/EB8D0B83904439AB/0000000387
+[06:28:43]:    1 file(s) removed
+[06:30:15]: [200] Account Communication Success (6)
+[06:30:15]: Received (KU_2HEq3klP) from TokenPurpose

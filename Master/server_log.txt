@@ -1752,3 +1752,68 @@
 [05:58:51]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
 [06:00:15]: [200] Account Communication Success (6)
 [06:00:15]: Received (KU_2HEq3klP) from TokenPurpose
+[06:03:56]: Available disk space for save files: 156149 MB
+[06:03:56]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000390
+[06:03:56]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000390
+[06:03:56]: Missing reference:	102791 - beef_bell	->	102793	102793 - beefalo	
+[06:03:56]: Missing reference:	107378 - beefaloherd	->	102799	102799 - beefalo	
+[06:03:57]: Serializing world: session/7310D089907748FA/0000000390
+[06:06:30]: Activating portal[8] to 641468961	
+[06:06:31]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000391
+[06:06:31]: [Shard] Migration request: (KU_2HEq3klP) to Caves(641468961)
+[06:06:31]: [Shard] Begin migration #1 for (KU_2HEq3klP)
+[06:06:31]: [Shard] #1 [SHDMASTER](1) -> Caves(641468961)
+[06:06:31]: [Shard] #1 <- session/7310D089907748FA/A7G92EQ0TQUP/0000000391
+[06:06:31]: [Shard] Writing save location file for (KU_2HEq3klP)
+[06:06:31]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[06:06:31]: [Steam] SendUserDisconnect for '76561199365741450'
+[06:06:31]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[06:06:42]: [Shard] Completed migration #1 for player (KU_2HEq3klP)
+[06:08:02]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:08:02]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:11:00]: [Shard] Begin migration #2 for (KU_2HEq3klP)
+[06:11:00]: [Shard] #2 Caves(641468961) -> [SHDMASTER](1)
+[06:11:00]: [Shard] #2 -> session/7310D089907748FA/A7G92EQ0TQUP/0000000391
+[06:11:00]: [Shard] Received migration #2 data for (KU_2HEq3klP)
+[06:11:00]: [Shard] Writing save location file for (KU_2HEq3klP)
+[06:11:00]: [Shard] (KU_2HEq3klP) disconnected from Caves(641468961)
+[06:11:09]: [P2P] Received from 133.215.216.40|1 '76561199365741450'
+[06:11:09]: [P2P] Sent to 133.215.216.40|1 '76561199365741450'
+[06:11:10]: New incoming connection 133.215.216.40|1 <1677135485503577645>
+[06:11:10]: Client connected from 133.215.216.40|1 <1677135485503577645>
+[06:11:10]: ValidateGameSessionToken GUID<1677135485503577645>
+[06:11:11]: Client authenticated: (KU_2HEq3klP) estarhp
+[06:11:11]: [Steam] Authenticated host '76561199365741450'
+[06:11:11]: [Shard] Completed incoming migration #2 for (KU_2HEq3klP)
+[06:11:11]: [Shard] Completed migration #2 for player (KU_2HEq3klP)
+[06:11:27]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000391
+[06:11:27]: Player will spawn close to portal #8	
+[06:11:27]: Spawning player at: [Load] (-80.76, 0.00, -213.80)	
+[06:11:57]: Available disk space for save files: 156144 MB
+[06:11:58]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000391
+[06:11:58]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000391
+[06:11:58]: Missing reference:	102791 - beef_bell	->	102793	102793 - beefalo	
+[06:11:58]: Missing reference:	107378 - beefaloherd	->	102799	102799 - beefalo	
+[06:11:58]: Serializing world: session/7310D089907748FA/0000000391
+[06:13:02]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4376 ms: Connection timed out
+[06:13:03]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:13:11]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[06:18:02]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4376 ms: Connection timed out
+[06:18:03]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:19:58]: Available disk space for save files: 156138 MB
+[06:19:58]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000392
+[06:19:58]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000392
+[06:19:58]: Missing reference:	102791 - beef_bell	->	102793	102793 - beefalo	
+[06:19:58]: Missing reference:	107378 - beefaloherd	->	105888	105888 - beefalo	
+[06:19:59]: Serializing world: session/7310D089907748FA/0000000392
+[06:22:07]: Server Paused	
+[06:22:51]: Server Unpaused	
+[06:23:17]: Stale Component Reference: GUID 124843, scripts/entityscript.lua:1203
+[06:28:42]: Available disk space for save files: 156132 MB
+[06:28:43]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000393
+[06:28:43]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000393
+[06:28:43]: Missing reference:	102791 - beef_bell	->	102793	102793 - beefalo	
+[06:28:43]: Missing reference:	107378 - beefaloherd	->	106018	106018 - beefalo	
+[06:28:43]: Serializing world: session/7310D089907748FA/0000000393
+[06:30:15]: [200] Account Communication Success (6)
+[06:30:15]: Received (KU_2HEq3klP) from TokenPurpose
