@@ -1,0 +1,153 @@
+[00:01:31]: [Join Announcement] estarhp
+[00:08:55]: [Join Announcement] 3301624889
+[00:33:29]: [Death Announcement] 3301624889 was killed by Flint. He became a spooky ghost!
+[00:33:53]: [Vote Announcement] rollback passed
+[00:48:26]: [Death Announcement] 3301624889 was killed by Slurper. He became a spooky ghost!
+[00:48:38]: [Vote Announcement] rollback passed
+[00:48:56]: [Death Announcement] estarhp was killed by Starvation. He became a spooky ghost!
+[01:11:49]: [Leave Announcement] 3301624889
+[01:17:18]: [Join Announcement] 3301624889
+[02:58:26]: [Vote Announcement] rollback passed
+[03:05:45]: [Death Announcement] estarhp was killed by Bearger. He became a spooky ghost!
+[03:06:07]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[03:06:35]: [Death Announcement] estarhp was killed by Bearger. He became a spooky ghost!
+[03:07:16]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[03:23:52]: [Leave Announcement] estarhp
+[03:23:54]: [Leave Announcement] 3301624889
+[21:03:05]: [Join Announcement] estarhp
+[21:05:57]: [Vote Announcement] rollback passed
+[22:53:24]: [Join Announcement] lienxithy
+[23:02:47]: [Vote Announcement] rollback passed
+[23:10:25]: [Death Announcement] lienxithy was killed by Terrorbeak. She became a spooky ghost!
+[23:11:34]: [Resurrect Announcement] lienxithy was resurrected by Life Giving Amulet.
+[23:25:37]: [Death Announcement] lienxithy was killed by Spider Queen. She became a spooky ghost!
+[23:26:10]: [Vote Announcement] rollback passed
+[23:57:58]: [Death Announcement] lienxithy was killed by Varglet. She became a spooky ghost!
+[23:58:32]: [Resurrect Announcement] lienxithy was resurrected by Life Giving Amulet.
+[00:22:13]: [Death Announcement] lienxithy was killed by Darkness. She became a spooky ghost!
+[00:22:58]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[00:25:36]: [Death Announcement] lienxithy was killed by Bee. She became a spooky ghost!
+[00:26:13]: [Resurrect Announcement] lienxithy was resurrected by Life Giving Amulet.
+[00:26:19]: [Vote Announcement] rollback passed
+[00:27:23]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[00:27:44]: [Death Announcement] lienxithy was killed by Beefalo. She became a spooky ghost!
+[00:28:39]: [Vote Announcement] rollback passed
+[00:29:27]: [Resurrect Announcement] lienxithy was resurrected by estarhp.
+[00:33:21]: [Leave Announcement] lienxithy
+[01:22:53]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[01:23:13]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[01:32:43]: [Vote Announcement] rollback passed
+[02:00:30]: [Vote Announcement] rollback passed
+[02:18:33]: [Vote Announcement] rollback passed
+[02:37:35]: [Leave Announcement] estarhp
+[22:40:14]: [Join Announcement] estarhp
+[22:40:23]: [Leave Announcement] estarhp
+[22:43:29]: [Join Announcement] 3301624889
+[22:48:05]: [Join Announcement] estarhp
+[23:20:09]: [Death Announcement] estarhp was killed by Depths Worm. He became a spooky ghost!
+[23:20:46]: [Resurrect Announcement] estarhp was resurrected by 3301624889.
+[23:43:42]: [Leave Announcement] 3301624889
+[23:45:04]: [Join Announcement] 3301624889
+[00:25:24]: [Vote Announcement] rollback passed
+[00:26:22]: [Leave Announcement] 3301624889
+[01:09:47]: [Join Announcement] 3301624889
+[01:10:35]: [Vote Announcement] rollback passed
+[01:11:20]: [Vote Announcement] rollback passed
+[01:12:03]: [Vote Announcement] rollback passed
+[01:59:54]: [Death Announcement] estarhp was killed by Darkness. He became a spooky ghost!
+[02:01:29]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[02:12:34]: [Leave Announcement] 3301624889
+[02:13:03]: [Leave Announcement] estarhp
+[22:05:29]: [Join Announcement] lienxithy
+[22:07:39]: [Join Announcement] estarhp
+[22:32:43]: [Death Announcement] lienxithy was killed by Darkness. She became a spooky ghost!
+[22:33:06]: [Vote Announcement] rollback passed
+[22:57:58]: [Death Announcement] lienxithy was killed by Red Hound. She became a spooky ghost!
+[22:58:04]: [Vote Announcement] rollback passed
+[23:58:13]: [Leave Announcement] lienxithy
+[01:04:05]: [Vote Announcement] rollback passed
+[01:55:20]: [Death Announcement] estarhp was killed by Spider. He became a spooky ghost!
+[01:55:26]: [Vote Announcement] rollback passed
+[03:36:24]: [Leave Announcement] estarhp
+[22:43:47]: [Join Announcement] estarhp
+[22:53:46]: [Join Announcement] 3301624889
+[22:57:10]: [Death Announcement] 3301624889 was killed by Blue Hound. He became a spooky ghost!
+[22:57:16]: [Vote Announcement] rollback passed
+[23:11:08]: [Say] (KU_2HEq3klP) estarhp: 快来连麦
+[23:14:39]: [Say] (KU_2HEq3klP) estarhp: 下去把猪打了？
+[23:15:48]: [Say] (KU_2HEq3klP) estarhp: deng yi bo cai ba
+[23:16:47]: [Say] (KU_2HEq3klP) estarhp: zhi jie an Y da pin yin ba
+[23:20:08]: [Say] (KU_2HEq3klP) estarhp: gao dian guai wu rou
+[00:00:00]: [Join Announcement] 3301624889
+[00:33:21]: [Vote Announcement] rollback passed
+[00:38:01]: [Vote Announcement] rollback passed
+[01:15:19]: [Vote Announcement] rollback passed
+[01:20:07]: [Vote Announcement] rollback passed
+[01:22:23]: [Leave Announcement] 3301624889
+[01:23:45]: [Join Announcement] 3301624889
+[01:28:30]: [Death Announcement] 3301624889 was killed by Nightmare Werepig. He became a spooky ghost!
+[01:28:56]: [Death Announcement] estarhp was killed by Nightmare Werepig. He became a spooky ghost!
+[01:29:00]: [Vote Announcement] rollback passed
+[01:31:16]: [Leave Announcement] 3301624889
+[01:36:20]: [Join Announcement] 3301624889
+[02:08:27]: [Death Announcement] estarhp was killed by Terrorbeak. He became a spooky ghost!
+[02:08:50]: [Vote Announcement] rollback passed
+[02:13:46]: [Death Announcement] estarhp was killed by Damaged Bishop. He became a spooky ghost!
+[02:13:58]: [Vote Announcement] rollback passed
+[02:16:12]: [Join Announcement] estarhp
+[02:26:22]: [Death Announcement] 3301624889 was killed by Nightmarebeak. He became a spooky ghost!
+[02:26:30]: [Death Announcement] estarhp was killed by Splumonkey. He became a spooky ghost!
+[02:26:33]: [Vote Announcement] rollback passed
+[02:29:00]: [Join Announcement] estarhp
+[02:34:25]: [Death Announcement] estarhp was killed by Crawling Horror. He became a spooky ghost!
+[02:35:11]: [Resurrect Announcement] estarhp was resurrected by Life Giving Amulet.
+[02:42:38]: [Leave Announcement] estarhp
+[02:42:42]: [Leave Announcement] 3301624889
+[15:15:13]: [Join Announcement] 3301624889
+[15:15:19]: [Join Announcement] estarhp
+[15:41:25]: [Vote Announcement] rollback passed
+[16:13:16]: [Vote Announcement] rollback passed
+[16:32:36]: [Death Announcement] 3301624889 was killed by Shadow Rook. He became a spooky ghost!
+[16:32:41]: [Vote Announcement] rollback passed
+[16:35:02]: [Death Announcement] 3301624889 was killed by Shadow Rook. He became a spooky ghost!
+[16:35:05]: [Vote Announcement] rollback passed
+[16:35:52]: [Vote Announcement] rollback passed
+[16:37:55]: [Death Announcement] 3301624889 was killed by Shadow Rook. He became a spooky ghost!
+[16:55:54]: [Vote Announcement] rollback passed
+[16:57:50]: [Leave Announcement] 3301624889
+[16:58:40]: [Join Announcement] 3301624889
+[17:00:32]: [Vote Announcement] rollback passed
+[17:34:13]: [Leave Announcement] 3301624889
+[17:36:31]: [Join Announcement] 3301624889
+[17:47:12]: [Announcement] This is going to be a terrible night...
+[17:47:22]: [Announcement] The Twins turn their gaze toward 3301624889
+[17:53:22]: [Say] (KU_2HEq3klP) estarhp: mai
+[18:18:44]: [Leave Announcement] 3301624889
+[18:20:50]: [Join Announcement] 3301624889
+[18:32:56]: [Leave Announcement] 3301624889
+[18:40:55]: [Leave Announcement] estarhp
+[18:41:39]: [Join Announcement] estarhp
+[18:47:15]: [Leave Announcement] estarhp
+[18:48:21]: [Join Announcement] estarhp
+[18:51:00]: [Leave Announcement] estarhp
+[18:51:57]: [Join Announcement] estarhp
+[19:00:05]: [Leave Announcement] estarhp
+[19:00:44]: [Join Announcement] estarhp
+[19:03:45]: [Leave Announcement] estarhp
+[20:44:32]: [Join Announcement] estarhp
+[21:01:15]: [Vote Announcement] rollback passed
+[21:04:15]: [Vote Announcement] rollback passed
+[21:06:49]: [Vote Announcement] rollback passed
+[21:13:58]: [Vote Announcement] rollback passed
+[21:25:24]: [Vote Announcement] rollback passed
+[21:29:04]: [Vote Announcement] rollback passed
+[21:34:26]: [Death Announcement] estarhp was killed by Klaus. He became a spooky ghost!
+[21:34:31]: [Vote Announcement] rollback passed
+[21:36:01]: [Vote Announcement] rollback passed
+[21:39:52]: [Death Announcement] estarhp was killed by No-Eyed Deer. He became a spooky ghost!
+[21:39:56]: [Vote Announcement] rollback passed
+[21:41:03]: [Vote Announcement] rollback passed
+[21:48:27]: [Vote Announcement] rollback passed
+[22:03:55]: [Leave Announcement] estarhp
+[23:58:55]: [Join Announcement] estarhp
+[00:05:01]: [Join Announcement] lienxithy
