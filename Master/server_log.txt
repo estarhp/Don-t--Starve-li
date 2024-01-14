@@ -1677,3 +1677,7 @@
 [01:27:53]: Sim paused
 [01:30:15]: [200] Account Communication Success (6)
 [01:30:15]: Received (KU_2HEq3klP) from TokenPurpose
+[01:37:53]: [P2P] Session timed out for '76561199365741450'
+[01:37:53]: [P2P] Remove session: 133.215.216.39|1 '76561199365741450'
+[02:00:15]: [200] Account Communication Success (6)
+[02:00:15]: Received (KU_2HEq3klP) from TokenPurpose
