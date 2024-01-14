@@ -1,8 +1,0 @@
-[00:01:54]: [Join Announcement] estarhp
-[00:01:59]: [Join Announcement] 3301624889
-[00:02:04]: [Death Announcement] estarhp was killed by Shenanigans. He became a spooky ghost!
-[00:02:12]: [Vote Announcement] rollback passed
-[00:02:56]: [Death Announcement] estarhp was killed by Shenanigans. He became a spooky ghost!
-[00:08:23]: [Death Announcement] estarhp was killed by Hound. He became a spooky ghost!
-[00:10:13]: [Resurrect Announcement] estarhp was resurrected by 3301624889.
-[00:10:42]: [Vote Announcement] rollback passed

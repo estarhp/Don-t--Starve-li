@@ -1,0 +1,14 @@
+[00:03:09]: [Join Announcement] estarhp
+[00:08:47]: [Join Announcement] lienxithy
+[00:26:58]: [Vote Announcement] rollback passed
+[00:39:23]: [Vote Announcement] rollback passed
+[00:45:18]: [Vote Announcement] rollback passed
+[00:49:53]: [Death Announcement] estarhp was killed by Fire. He became a spooky ghost!
+[00:50:06]: [Vote Announcement] rollback passed
+[00:55:12]: [Vote Announcement] rollback passed
+[00:56:09]: [Leave Announcement] lienxithy
+[00:58:25]: [Join Announcement] lienxithy
+[00:58:39]: [Leave Announcement] lienxithy
+[01:01:13]: [Join Announcement] lienxithy
+[01:05:34]: [Leave Announcement] estarhp
+[01:05:43]: [Leave Announcement] lienxithy

@@ -1,14 +1,5 @@
-[00:03:09]: [Join Announcement] estarhp
-[00:08:47]: [Join Announcement] lienxithy
-[00:26:58]: [Vote Announcement] rollback passed
-[00:39:23]: [Vote Announcement] rollback passed
-[00:45:18]: [Vote Announcement] rollback passed
-[00:49:53]: [Death Announcement] estarhp was killed by Fire. He became a spooky ghost!
-[00:50:06]: [Vote Announcement] rollback passed
-[00:55:12]: [Vote Announcement] rollback passed
-[00:56:09]: [Leave Announcement] lienxithy
-[00:58:25]: [Join Announcement] lienxithy
-[00:58:39]: [Leave Announcement] lienxithy
-[01:01:14]: [Join Announcement] lienxithy
-[01:05:34]: [Leave Announcement] estarhp
-[01:05:43]: [Leave Announcement] lienxithy
+[00:40:53]: [Join Announcement] estarhp
+[00:47:21]: [Death Announcement] estarhp 死亡，死因： 饿死。他变成了一个令人毛骨悚然的鬼！
+[00:47:24]: [Vote Announcement] rollback passed
+[01:00:46]: [Skin Announcement] estarhp mysterybox_ice_4
+[01:27:52]: [Leave Announcement] estarhp

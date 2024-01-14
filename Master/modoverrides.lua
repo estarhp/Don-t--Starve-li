@@ -1,5 +1,10 @@
 return {
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+  ["workshop-1301033176"]={ configuration_options={ LANG="auto" }, enabled=true },
+  ["workshop-2078243581"]={
+    configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
+    enabled=true 
+  },
   ["workshop-2287303119"]={
     configuration_options={
       [""]=0,
@@ -25,7 +30,6 @@ return {
     },
     enabled=true 
   },
-  ["workshop-2329855041"]={ configuration_options={ naijiu=999999, sj=1 }, enabled=true },
   ["workshop-2797939615"]={
     configuration_options={
       [""]=0,
@@ -108,6 +112,11 @@ return {
     },
     enabled=true 
   },
+  ["workshop-358749986"]={
+    configuration_options={ IndicatorSize=3, MaxIndicator=7000, PlayerIndicators=1 },
+    enabled=true 
+  },
+  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
       ENABLEPINGS=true,
@@ -119,5 +128,6 @@ return {
       SHOWPLAYERSOPTIONS=2 
     },
     enabled=true 
-  } 
+  },
+  ["workshop-466732225"]={ configuration_options={  }, enabled=true } 
 }
