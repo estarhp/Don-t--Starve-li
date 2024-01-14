@@ -3,3 +3,5 @@
 [00:47:24]: [Vote Announcement] rollback passed
 [01:00:46]: [Skin Announcement] estarhp mysterybox_ice_4
 [01:27:52]: [Leave Announcement] estarhp
+[05:45:14]: [Join Announcement] estarhp
+[05:47:42]: [Join Announcement] lienxithy
