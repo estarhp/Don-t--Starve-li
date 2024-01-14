@@ -2662,3 +2662,23 @@
 [08:26:20]:    1 file(s) removed
 [08:30:15]: [200] Account Communication Success (6)
 [08:30:15]: Received (KU_2HEq3klP) from TokenPurpose
+[08:34:21]: Available disk space for save files: 156139 MB
+[08:34:21]: Serializing world: session/EB8D0B83904439AB/0000000407
+[08:34:21]: Truncating to snapshot #407...
+[08:34:21]:  - session/EB8D0B83904439AB/0000000401
+[08:34:21]:    1 file(s) removed
+[08:34:36]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4377 ms: Connection timed out
+[08:42:21]: Available disk space for save files: 156138 MB
+[08:42:22]: Serializing world: session/EB8D0B83904439AB/0000000408
+[08:42:22]: Truncating to snapshot #408...
+[08:42:22]:  - session/EB8D0B83904439AB/0000000402
+[08:42:22]:    1 file(s) removed
+[08:50:22]: Available disk space for save files: 156130 MB
+[08:50:22]: Serializing world: session/EB8D0B83904439AB/0000000409
+[08:50:22]: Truncating to snapshot #409...
+[08:50:22]:  - session/EB8D0B83904439AB/0000000403
+[08:50:22]:    1 file(s) removed
+[08:54:38]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[08:55:16]: Sim paused
+[09:00:15]: [200] Account Communication Success (6)
+[09:00:15]: Received (KU_2HEq3klP) from TokenPurpose

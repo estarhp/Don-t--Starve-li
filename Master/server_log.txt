@@ -2915,3 +2915,31 @@
 [08:26:21]:    2 file(s) removed
 [08:30:16]: [200] Account Communication Success (6)
 [08:30:16]: Received (KU_2HEq3klP) from TokenPurpose
+[08:34:20]: Available disk space for save files: 156139 MB
+[08:34:21]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[08:34:21]: Serializing world: session/7310D089907748FA/0000000407
+[08:34:21]: Truncating to snapshot #407...
+[08:34:21]:  - session/7310D089907748FA/0000000401
+[08:34:21]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000401
+[08:34:21]:    2 file(s) removed
+[08:34:27]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[08:42:21]: Available disk space for save files: 156138 MB
+[08:42:22]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[08:42:22]: Serializing world: session/7310D089907748FA/0000000408
+[08:42:22]: Truncating to snapshot #408...
+[08:42:22]:  - session/7310D089907748FA/0000000402
+[08:42:22]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000402
+[08:42:22]:    2 file(s) removed
+[08:44:57]: Stale Component Reference: GUID 124729, scripts/entityscript.lua:1203
+[08:44:57]: Hunt failed	
+[08:50:22]: Available disk space for save files: 156130 MB
+[08:50:22]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[08:50:23]: Serializing world: session/7310D089907748FA/0000000409
+[08:50:23]: Truncating to snapshot #409...
+[08:50:23]:  - session/7310D089907748FA/0000000403
+[08:50:23]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000403
+[08:50:23]:    2 file(s) removed
+[08:54:28]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[08:55:16]: Sim paused
+[09:00:16]: [200] Account Communication Success (6)
+[09:00:16]: Received (KU_2HEq3klP) from TokenPurpose
