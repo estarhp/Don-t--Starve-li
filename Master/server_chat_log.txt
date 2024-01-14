@@ -8,3 +8,5 @@
 [06:15:21]: [Say] (KU_2HEq3klP) estarhp: ting de dao ma
 [06:51:43]: [Vote Announcement] rollback passed
 [07:08:32]: [Leave Announcement] lienxithy
+[07:53:44]: [Death Announcement] estarhp 死亡，死因： Prickly Stagehand。他变成了一个令人毛骨悚然的鬼！
+[07:53:49]: [Vote Announcement] rollback passed
