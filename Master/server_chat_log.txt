@@ -6,3 +6,4 @@
 [05:45:14]: [Join Announcement] estarhp
 [05:47:42]: [Join Announcement] lienxithy
 [06:15:21]: [Say] (KU_2HEq3klP) estarhp: ting de dao ma
+[06:51:43]: [Vote Announcement] rollback passed
