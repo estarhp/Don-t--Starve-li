@@ -4033,3 +4033,56 @@
 [06:31:31]: Validating portal[8] <-> 641468961[8] (inactive)	
 [06:31:31]: Validating portal[6] <-> 641468961[6] (inactive)	
 [06:31:31]: Sim paused
+[06:31:44]: [Shard] Secondary Caves(641468961) ready!
+[06:31:44]: World 641468961 is now connected	
+[06:31:44]: Validating portal[10] <-> 641468961[10] (disabled)	
+[06:31:44]: Validating portal[1] <-> 641468961[1] (active)	
+[06:31:44]: Validating portal[3] <-> 641468961[3] (disabled)	
+[06:31:44]: Validating portal[4] <-> 641468961[4] (disabled)	
+[06:31:44]: Validating portal[7] <-> 641468961[7] (disabled)	
+[06:31:44]: Validating portal[5] <-> 641468961[5] (active)	
+[06:31:44]: Validating portal[9] <-> 641468961[9] (active)	
+[06:31:44]: Validating portal[2] <-> 641468961[2] (active)	
+[06:31:44]: Validating portal[8] <-> 641468961[8] (active)	
+[06:31:44]: Validating portal[6] <-> 641468961[6] (active)	
+[06:31:45]: Restarting player migration on master server
+[06:31:45]: [Shard] Read save location file for (KU_2HEq3klP)
+[06:31:45]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000417
+[06:31:45]: Spawning player at: [Load] (24.60, -0.00, -191.97)	
+[06:31:45]: Sim unpaused
+[06:31:48]: Restarting player migration on master server
+[06:31:48]: [Shard] Read save location file for (KU_XKeqpL1V)
+[06:31:48]: Resuming user: session/7310D089907748FA/A7K598QCQK2V/0000000417
+[06:31:48]: Spawning player at: [Load] (45.83, -0.00, -195.03)	
+[06:34:14]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_save()\) @(31.76, -148.69)
+[06:34:14]: attempt to call a nil value
+[06:34:21]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_save()) @(31.76, -127.09)
+[06:34:22]: Available disk space for save files: 156071 MB
+[06:34:22]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000417
+[06:34:22]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000417
+[06:34:22]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[06:34:22]: Serializing world: session/7310D089907748FA/0000000417
+[06:39:46]: Available disk space for save files: 156065 MB
+[06:39:46]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000418
+[06:39:46]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000418
+[06:39:46]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[06:39:46]: Serializing world: session/7310D089907748FA/0000000418
+[06:40:51]: Server Paused	
+[06:42:08]: Server Unpaused	
+[06:47:26]: [VFXParticleEmit] Cannot SetRenderResources with the texture "fx/frostbreath.tex" because it is invalid.
+[06:49:04]: Available disk space for save files: 156060 MB
+[06:49:04]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000419
+[06:49:04]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000419
+[06:49:04]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[06:49:05]: Serializing world: session/7310D089907748FA/0000000419
+[06:57:05]: Available disk space for save files: 156054 MB
+[06:57:05]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000420
+[06:57:05]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000420
+[06:57:05]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[06:57:05]: Serializing world: session/7310D089907748FA/0000000420
+[07:00:15]: [200] Account Communication Success (6)
+[07:00:15]: Received (KU_2HEq3klP) from TokenPurpose
+[07:01:16]: [Steam] SendUserDisconnect for '76561199528234051'
+[07:01:16]: Connection lost to 133.215.216.42|1 <3662965541925582058>
+[07:01:16]: [Shard] (KU_XKeqpL1V) disconnected from [SHDMASTER](1)
+[07:01:17]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000421

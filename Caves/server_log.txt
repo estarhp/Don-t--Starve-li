@@ -3645,3 +3645,112 @@
 [06:31:33]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
 [06:31:33]: Loading 19 new character(s)	
 [06:31:33]: Total 19 character(s) loaded	
+[06:31:37]: Loading Nav Grid	
+[06:31:37]: World generated on build 587581 with save version: 5.142, using seed: 1973073258	
+[06:31:38]: setting 	summerlength	15	
+[06:31:38]: setting 	cavemoonphase	full	
+[06:31:38]: setting 	iscavefullmoon	false	
+[06:31:38]: setting 	isnightmaredawn	false	
+[06:31:38]: setting 	elapseddaysinseason	0	
+[06:31:38]: setting 	isfullmoon	false	
+[06:31:38]: setting 	moisture	4918.4428710938	
+[06:31:38]: setting 	springlength	20	
+[06:31:38]: setting 	islunarhailing	false	
+[06:31:38]: setting 	isnightmarewild	false	
+[06:31:38]: setting 	nightmaretimeinphase	0.96125621276456	
+[06:31:38]: setting 	precipitationrate	0	
+[06:31:38]: setting 	iswet	false	
+[06:31:38]: setting 	isnewmoon	false	
+[06:31:38]: setting 	israining	false	
+[06:31:38]: setting 	iswinter	true	
+[06:31:38]: setting 	isnightmarewarn	true	
+[06:31:38]: setting 	precipitation	none	
+[06:31:38]: setting 	iscavewaxingmoon	false	
+[06:31:38]: setting 	isacidraining	false	
+[06:31:38]: setting 	moonphase	new	
+[06:31:38]: setting 	remainingdaysinseason	15	
+[06:31:38]: setting 	temperature	2.4016305400432	
+[06:31:38]: setting 	wetness	0	
+[06:31:38]: setting 	cycles	370	
+[06:31:38]: setting 	moistureceil	6213.7553710938	
+[06:31:38]: setting 	isday	false	
+[06:31:38]: setting 	winterlength	15	
+[06:31:38]: setting 	season	winter	
+[06:31:38]: setting 	iswaxingmoon	true	
+[06:31:38]: setting 	isalterawake	false	
+[06:31:38]: setting 	isnightmarecalm	false	
+[06:31:38]: setting 	isnight	true	
+[06:31:38]: setting 	isdusk	false	
+[06:31:38]: setting 	isspring	false	
+[06:31:38]: setting 	isautumn	false	
+[06:31:38]: setting 	iscaveday	true	
+[06:31:38]: setting 	lunarhaillevel	0	
+[06:31:38]: setting 	pop	0.68879992356078	
+[06:31:38]: setting 	snowlevel	0	
+[06:31:38]: setting 	issnowcovered	false	
+[06:31:38]: setting 	autumnlength	20	
+[06:31:38]: setting 	phase	night	
+[06:31:38]: setting 	nightmaretime	446.51305914881	
+[06:31:38]: setting 	issnowing	false	
+[06:31:38]: setting 	iscavedusk	false	
+[06:31:38]: setting 	nightmarephase	warn	
+[06:31:38]: setting 	timeinphase	0.0050935291108631	
+[06:31:38]: setting 	seasonprogress	0	
+[06:31:38]: setting 	iscavenight	false	
+[06:31:38]: setting 	iscavenewmoon	false	
+[06:31:38]: setting 	issummer	false	
+[06:31:38]: setting 	cavephase	day	
+[06:31:38]: setting 	time	0.0022284189860026	
+[06:31:44]: SWITCHING 	true	
+[06:31:44]: ARCHIVE ON	
+[06:31:44]: Reconstructing topology	
+[06:31:44]: 	...Sorting points	
+[06:31:44]: 	...Sorting edges	
+[06:31:44]: 	...Connecting nodes	
+[06:31:44]: 	...Validating connections	
+[06:31:44]: 	...Housekeeping	
+[06:31:44]: 	...Done!	
+[06:31:44]: 1 uploads added to server. From server_temp
+[06:31:44]: World 1 is now connected	
+[06:31:44]: [SyncWorldSettings] Sending ResyncWorldSettings.	
+[06:31:44]: Telling Client our new session identifier: EB8D0B83904439AB
+[06:31:44]: Check for write access: TRUE
+[06:31:44]: Check for read access: TRUE
+[06:31:44]: Available disk space for save files: 156065 MB
+[06:31:44]: ModIndex: Load sequence finished successfully.	
+[06:31:45]: Reset() returning
+[06:31:45]: Validating portal[8] <-> 1[8] (active)	
+[06:31:45]: Validating portal[10] <-> 1[10] (active)	
+[06:31:45]: Validating portal[5] <-> 1[5] (active)	
+[06:31:45]: Validating portal[2] <-> 1[2] (active)	
+[06:31:45]: Validating portal[1] <-> 1[1] (active)	
+[06:31:45]: Validating portal[4] <-> 1[4] (active)	
+[06:31:45]: Validating portal[3] <-> 1[3] (active)	
+[06:31:45]: Validating portal[6] <-> 1[6] (active)	
+[06:31:45]: Validating portal[9] <-> 1[9] (active)	
+[06:31:45]: Validating portal[7] <-> 1[7] (active)	
+[06:34:22]: Available disk space for save files: 156071 MB
+[06:34:22]: Serializing world: session/EB8D0B83904439AB/0000000417
+[06:34:22]: Truncating to snapshot #417...
+[06:34:22]:  - session/EB8D0B83904439AB/0000000411
+[06:34:22]:    1 file(s) removed
+[06:39:46]: Available disk space for save files: 156065 MB
+[06:39:46]: Serializing world: session/EB8D0B83904439AB/0000000418
+[06:39:46]: Truncating to snapshot #418...
+[06:39:46]:  - session/EB8D0B83904439AB/0000000412
+[06:39:46]:    1 file(s) removed
+[06:40:51]: Server Paused	
+[06:42:08]: Server Unpaused	
+[06:43:09]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[06:49:04]: Available disk space for save files: 156060 MB
+[06:49:04]: Serializing world: session/EB8D0B83904439AB/0000000419
+[06:49:04]: Truncating to snapshot #419...
+[06:49:04]:  - session/EB8D0B83904439AB/0000000413
+[06:49:04]:    1 file(s) removed
+[06:57:05]: Available disk space for save files: 156054 MB
+[06:57:05]: Serializing world: session/EB8D0B83904439AB/0000000420
+[06:57:05]: Truncating to snapshot #420...
+[06:57:05]:  - session/EB8D0B83904439AB/0000000414
+[06:57:05]:    1 file(s) removed
+[07:00:15]: [200] Account Communication Success (6)
+[07:00:15]: Received (KU_2HEq3klP) from TokenPurpose

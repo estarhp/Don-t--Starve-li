@@ -17,3 +17,4 @@
 [06:12:23]: [Vote Announcement] rollback passed
 [06:30:58]: [Death Announcement] estarhp 死亡，死因： 克劳斯。他变成了一个令人毛骨悚然的鬼！
 [06:31:06]: [Vote Announcement] rollback passed
+[07:01:15]: [Leave Announcement] lienxithy
