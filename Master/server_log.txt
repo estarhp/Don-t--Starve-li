@@ -3025,3 +3025,56 @@
 [05:00:15]: Received (KU_2HEq3klP) from TokenPurpose
 [05:30:15]: [200] Account Communication Success (6)
 [05:30:15]: Received (KU_2HEq3klP) from TokenPurpose
+[05:31:40]: [P2P] Create session: 133.215.216.42|1 '76561199528234051'
+[05:31:40]: [P2P] Received from 133.215.216.42|1 '76561199528234051'
+[05:31:40]: [P2P] Sent to 133.215.216.42|1 '76561199528234051'
+[05:31:41]: New incoming connection 133.215.216.42|1 <3662965541925582058>
+[05:31:41]: Client connected from 133.215.216.42|1 <3662965541925582058>
+[05:31:41]: ValidateGameSessionToken GUID<3662965541925582058>
+[05:31:42]: Client authenticated: (KU_XKeqpL1V) lienxithy
+[05:31:42]: [Steam] SendUserConnectAndAuthenticate for '76561199528234051'
+[05:31:43]: [Steam] Authenticated client '76561199528234051'
+[05:31:43]: There is no active event to validate against.
+[05:31:43]: [Shard] Read save location file for (KU_XKeqpL1V)
+[05:32:08]: Resuming user: session/7310D089907748FA/A7K598QCQK2V/0000000397
+[05:32:08]: Spawning player at: [Load] (-156.49, -0.00, -154.57)	
+[05:32:08]: Sim unpaused
+[05:32:09]: New time stamps for everyone at	1705330835	
+[05:33:55]: [P2P] Create session: 133.215.216.43|1 '76561199365741450'
+[05:33:55]: [P2P] Received from 133.215.216.43|1 '76561199365741450'
+[05:33:55]: [P2P] Sent to 133.215.216.43|1 '76561199365741450'
+[05:33:56]: New incoming connection 133.215.216.43|1 <42225661329201098>
+[05:33:56]: Client connected from 133.215.216.43|1 <42225661329201098>
+[05:33:56]: ValidateGameSessionToken GUID<42225661329201098>
+[05:33:57]: Client authenticated: (KU_2HEq3klP) estarhp
+[05:33:57]: [Steam] Authenticated host '76561199365741450'
+[05:33:59]: There is no active event to validate against.
+[05:33:59]: [Shard] Read save location file for (KU_2HEq3klP)
+[05:34:26]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000404
+[05:34:26]: Spawning player at: [Load] (-178.23, 0.00, -120.49)	
+[05:35:14]: Available disk space for save files: 156054 MB
+[05:35:14]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000410
+[05:35:14]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000410
+[05:35:14]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[05:35:15]: Serializing world: session/7310D089907748FA/0000000410
+[05:36:20]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[05:43:15]: Available disk space for save files: 156048 MB
+[05:43:15]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000411
+[05:43:15]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000411
+[05:43:15]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[05:43:15]: Serializing world: session/7310D089907748FA/0000000411
+[05:51:03]: Server Paused	
+[05:51:35]: Server Unpaused	
+[05:51:47]: Available disk space for save files: 156080 MB
+[05:51:48]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000412
+[05:51:48]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000412
+[05:51:48]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[05:51:48]: Serializing world: session/7310D089907748FA/0000000412
+[05:53:45]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[05:59:48]: Available disk space for save files: 156074 MB
+[05:59:49]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000413
+[05:59:49]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000413
+[05:59:49]: Missing reference:	110307 - beef_bell	->	110309	110309 - beefalo	
+[05:59:49]: Serializing world: session/7310D089907748FA/0000000413
+[06:00:15]: [200] Account Communication Success (6)
+[06:00:15]: Received (KU_2HEq3klP) from TokenPurpose
