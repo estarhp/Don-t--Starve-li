@@ -13,3 +13,7 @@
 [08:09:38]: [Leave Announcement] estarhp
 [05:31:57]: [Join Announcement] lienxithy
 [05:34:15]: [Join Announcement] estarhp
+[06:12:17]: [Death Announcement] estarhp 死亡，死因： 克劳斯。他变成了一个令人毛骨悚然的鬼！
+[06:12:23]: [Vote Announcement] rollback passed
+[06:30:58]: [Death Announcement] estarhp 死亡，死因： 克劳斯。他变成了一个令人毛骨悚然的鬼！
+[06:31:06]: [Vote Announcement] rollback passed
