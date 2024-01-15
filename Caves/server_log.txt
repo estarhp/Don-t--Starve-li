@@ -3754,3 +3754,71 @@
 [06:57:05]:    1 file(s) removed
 [07:00:15]: [200] Account Communication Success (6)
 [07:00:15]: Received (KU_2HEq3klP) from TokenPurpose
+[07:05:05]: Available disk space for save files: 156042 MB
+[07:05:06]: Serializing world: session/EB8D0B83904439AB/0000000421
+[07:05:06]: Truncating to snapshot #421...
+[07:05:06]:  - session/EB8D0B83904439AB/0000000415
+[07:05:06]:    1 file(s) removed
+[07:07:48]: Server Autopaused	
+[07:07:50]: Server Unpaused	
+[07:09:41]: Server Autopaused	
+[07:09:41]: Server Unpaused	
+[07:10:47]: Server Autopaused	
+[07:10:51]: Server Unpaused	
+[07:11:49]: Server Autopaused	
+[07:11:50]: Server Unpaused	
+[07:12:02]: Server Autopaused	
+[07:12:02]: Server Unpaused	
+[07:13:14]: Available disk space for save files: 156036 MB
+[07:13:15]: Serializing world: session/EB8D0B83904439AB/0000000422
+[07:13:15]: Truncating to snapshot #422...
+[07:13:15]:  - session/EB8D0B83904439AB/0000000416
+[07:13:15]:    1 file(s) removed
+[07:15:10]: [Shard] #3 -> session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000423
+[07:15:10]: [Shard] Received migration #3 data for (KU_2HEq3klP)
+[07:15:20]: [P2P] Create session: 133.222.65.70|1 '76561199365741450'
+[07:15:20]: [P2P] Received from 133.222.65.70|1 '76561199365741450'
+[07:15:20]: [P2P] Sent to 133.222.65.70|1 '76561199365741450'
+[07:15:21]: New incoming connection 133.222.65.70|1 <232888473714914387>
+[07:15:21]: Client connected from 133.222.65.70|1 <232888473714914387>
+[07:15:21]: ValidateGameSessionToken GUID<232888473714914387>
+[07:15:23]: Client authenticated: (KU_2HEq3klP) estarhp
+[07:15:23]: [Steam] Authenticated host '76561199365741450'
+[07:15:23]: [Shard] Completed incoming migration #3 for (KU_2HEq3klP)
+[07:15:35]: Resuming user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000423
+[07:15:36]: Player will spawn close to portal #8	
+[07:15:36]: Spawning player at: [Load] (-26.09, 0.00, 279.81)	
+[07:15:46]: Server Autopaused	
+[07:15:51]: Server Unpaused	
+[07:18:24]: Server Autopaused	
+[07:18:32]: Server Unpaused	
+[07:19:06]: Server Autopaused	
+[07:19:06]: Server Unpaused	
+[07:19:18]: Activating portal[8] to 1	
+[07:19:18]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000423
+[07:19:18]: [Shard] Migration request: (KU_2HEq3klP) to [SHDMASTER](1)
+[07:19:18]: [Shard] #4 <- session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000423
+[07:19:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:19:18]: [Steam] SendUserDisconnect for '76561199365741450'
+[07:19:50]: Server Autopaused	
+[07:19:54]: Server Unpaused	
+[07:21:34]: Available disk space for save files: 156030 MB
+[07:21:34]: Serializing world: session/EB8D0B83904439AB/0000000423
+[07:21:34]: Truncating to snapshot #423...
+[07:21:34]:  - session/EB8D0B83904439AB/0000000417
+[07:21:34]:    1 file(s) removed
+[07:29:21]: Server Autopaused	
+[07:29:21]: Server Unpaused	
+[07:29:22]: [P2P] Session timed out for '76561199365741450'
+[07:29:22]: [P2P] Remove session: 133.222.65.70|1 '76561199365741450'
+[07:29:28]: Server Autopaused	
+[07:29:31]: Server Unpaused	
+[07:29:38]: Available disk space for save files: 156025 MB
+[07:29:38]: Serializing world: session/EB8D0B83904439AB/0000000424
+[07:29:38]: Truncating to snapshot #424...
+[07:29:38]:  - session/EB8D0B83904439AB/0000000418
+[07:29:38]:    1 file(s) removed
+[07:30:15]: [200] Account Communication Success (6)
+[07:30:15]: Received (KU_2HEq3klP) from TokenPurpose
+[07:30:52]: Server Autopaused	
+[07:30:52]: Server Unpaused	

@@ -4086,3 +4086,81 @@
 [07:01:16]: Connection lost to 133.215.216.42|1 <3662965541925582058>
 [07:01:16]: [Shard] (KU_XKeqpL1V) disconnected from [SHDMASTER](1)
 [07:01:17]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000421
+[07:01:57]: [P2P] Connection failed for '76561199528234051'
+[07:05:05]: Available disk space for save files: 156042 MB
+[07:05:06]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000421
+[07:05:06]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[07:05:06]: Serializing world: session/7310D089907748FA/0000000421
+[07:07:48]: Server Autopaused	
+[07:07:50]: Server Unpaused	
+[07:07:51]: Remote left click out of range	
+[07:08:13]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[07:09:41]: Server Autopaused	
+[07:09:41]: Server Unpaused	
+[07:10:47]: Server Autopaused	
+[07:10:51]: Server Unpaused	
+[07:11:16]: [P2P] Session timed out for '76561199528234051'
+[07:11:16]: [P2P] Remove session: 133.215.216.42|1 '76561199528234051'
+[07:11:49]: Server Autopaused	
+[07:11:50]: Server Unpaused	
+[07:12:02]: Server Autopaused	
+[07:12:02]: Server Unpaused	
+[07:13:14]: Available disk space for save files: 156036 MB
+[07:13:14]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000422
+[07:13:14]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[07:13:15]: Serializing world: session/7310D089907748FA/0000000422
+[07:14:02]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[07:15:10]: Activating portal[8] to 641468961	
+[07:15:10]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000423
+[07:15:10]: [Shard] Migration request: (KU_2HEq3klP) to Caves(641468961)
+[07:15:10]: [Shard] Begin migration #3 for (KU_2HEq3klP)
+[07:15:10]: [Shard] #3 [SHDMASTER](1) -> Caves(641468961)
+[07:15:10]: [Shard] #3 <- session/7310D089907748FA/A7G92EQ0TQUP/0000000423
+[07:15:10]: [Shard] Writing save location file for (KU_2HEq3klP)
+[07:15:10]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:15:10]: [Steam] SendUserDisconnect for '76561199365741450'
+[07:15:10]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[07:15:23]: [Shard] Completed migration #3 for player (KU_2HEq3klP)
+[07:15:28]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[07:15:46]: Server Autopaused	
+[07:15:51]: Server Unpaused	
+[07:18:24]: Server Autopaused	
+[07:18:32]: Server Unpaused	
+[07:19:06]: Server Autopaused	
+[07:19:06]: Server Unpaused	
+[07:19:18]: [Shard] Begin migration #4 for (KU_2HEq3klP)
+[07:19:18]: [Shard] #4 Caves(641468961) -> [SHDMASTER](1)
+[07:19:18]: [Shard] #4 -> session/7310D089907748FA/A7G92EQ0TQUP/0000000423
+[07:19:18]: [Shard] Received migration #4 data for (KU_2HEq3klP)
+[07:19:18]: [Shard] Writing save location file for (KU_2HEq3klP)
+[07:19:18]: [Shard] (KU_2HEq3klP) disconnected from Caves(641468961)
+[07:19:27]: [P2P] Received from 133.215.216.43|1 '76561199365741450'
+[07:19:27]: [P2P] Sent to 133.215.216.43|1 '76561199365741450'
+[07:19:28]: New incoming connection 133.215.216.43|1 <749407815739035532>
+[07:19:28]: Client connected from 133.215.216.43|1 <749407815739035532>
+[07:19:28]: ValidateGameSessionToken GUID<749407815739035532>
+[07:19:30]: Client authenticated: (KU_2HEq3klP) estarhp
+[07:19:30]: [Steam] Authenticated host '76561199365741450'
+[07:19:30]: [Shard] Completed incoming migration #4 for (KU_2HEq3klP)
+[07:19:30]: [Shard] Completed migration #4 for player (KU_2HEq3klP)
+[07:19:45]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000423
+[07:19:45]: Player will spawn close to portal #8	
+[07:19:45]: Spawning player at: [Load] (-81.90, 0.00, -212.85)	
+[07:19:50]: Server Autopaused	
+[07:19:54]: Server Unpaused	
+[07:21:34]: Available disk space for save files: 156030 MB
+[07:21:34]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000423
+[07:21:34]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[07:21:35]: Serializing world: session/7310D089907748FA/0000000423
+[07:29:21]: Server Autopaused	
+[07:29:21]: Server Unpaused	
+[07:29:28]: Server Autopaused	
+[07:29:31]: Server Unpaused	
+[07:29:38]: Available disk space for save files: 156025 MB
+[07:29:38]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000424
+[07:29:38]: Missing reference:	110097 - beefaloherd	->	117473	117473 - beefalo	
+[07:29:38]: Serializing world: session/7310D089907748FA/0000000424
+[07:30:16]: [200] Account Communication Success (6)
+[07:30:16]: Received (KU_2HEq3klP) from TokenPurpose
+[07:30:52]: Server Autopaused	
+[07:30:52]: Server Unpaused	
