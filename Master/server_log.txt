@@ -1289,3 +1289,59 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:03:02]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000452
 [00:03:03]: Spawning player at: [Load] (-174.51, 0.00, -116.49)	
 [00:03:03]: Sim unpaused
+[00:11:10]: Available disk space for save files: 155920 MB
+[00:11:10]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000453
+[00:11:10]: Missing reference:	107584 - beefaloherd	->	113637	113637 - beefalo	
+[00:11:11]: Serializing world: session/7310D089907748FA/0000000453
+[00:15:29]: Server Autopaused	
+[00:15:42]: Server Unpaused	
+[00:18:08]: Server Paused	
+[00:18:29]: Server Unpaused	
+[00:18:32]: Server Autopaused	
+[00:18:32]: Server Unpaused	
+[00:18:57]: Server Paused	
+[00:19:19]: Server Unpaused	
+[00:20:08]: Available disk space for save files: 155914 MB
+[00:20:08]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000454
+[00:20:08]: Missing reference:	107584 - beefaloherd	->	113637	113637 - beefalo	
+[00:20:09]: Serializing world: session/7310D089907748FA/0000000454
+[00:24:06]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[00:24:06]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[00:24:26]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[00:26:05]: [P2P] Session request for '76561199528234051'
+[00:26:08]: [P2P] Create session: 226.33.5.190|1 '76561199528234051'
+[00:26:08]: [P2P] Received from 226.33.5.190|1 '76561199528234051'
+[00:26:08]: [P2P] Sent to 226.33.5.190|1 '76561199528234051'
+[00:26:17]: New incoming connection 226.33.5.190|1 <3691335167473071523>
+[00:26:17]: Client connected from 226.33.5.190|1 <3691335167473071523>
+[00:26:17]: ValidateGameSessionToken GUID<3691335167473071523>
+[00:26:19]: Client authenticated: (KU_XKeqpL1V) lienxithy
+[00:26:19]: [Steam] SendUserConnectAndAuthenticate for '76561199528234051'
+[00:26:19]: [Steam] Authenticated client '76561199528234051'
+[00:26:20]: There is no active event to validate against.
+[00:26:20]: [Shard] Read save location file for (KU_XKeqpL1V)
+[00:26:26]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[00:27:50]: [Steam] SendUserDisconnect for '76561199528234051'
+[00:27:50]: Connection lost to 226.33.5.190|1 <3691335167473071523>
+[00:27:50]: [Shard] (KU_XKeqpL1V) disconnected from [SHDMASTER](1)
+[00:27:51]: New incoming connection 226.33.5.190|1 <8151551691774796091>
+[00:27:51]: Client connected from 226.33.5.190|1 <8151551691774796091>
+[00:27:51]: ValidateGameSessionToken GUID<8151551691774796091>
+[00:27:52]: Client authenticated: (KU_XKeqpL1V) lienxithy
+[00:27:53]: [Steam] SendUserConnectAndAuthenticate for '76561199528234051'
+[00:27:53]: [Steam] Authenticated client '76561199528234051'
+[00:27:54]: There is no active event to validate against.
+[00:27:54]: [Shard] Read save location file for (KU_XKeqpL1V)
+[00:28:08]: Available disk space for save files: 155909 MB
+[00:28:09]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000455
+[00:28:09]: Missing reference:	107584 - beefaloherd	->	113637	113637 - beefalo	
+[00:28:09]: Serializing world: session/7310D089907748FA/0000000455
+[00:29:09]: Resuming user: session/7310D089907748FA/A7K598QCQK2V/0000000421
+[00:29:09]: Spawning player at: [Load] (-177.49, -0.00, -117.28)	
+[00:30:24]: [200] Account Communication Success (6)
+[00:30:24]: Received (KU_2HEq3klP) from TokenPurpose
+[00:36:10]: Available disk space for save files: 155903 MB
+[00:36:10]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000456
+[00:36:10]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000456
+[00:36:10]: Missing reference:	107584 - beefaloherd	->	113637	113637 - beefalo	
+[00:36:10]: Serializing world: session/7310D089907748FA/0000000456
