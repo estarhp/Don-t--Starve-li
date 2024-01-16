@@ -3775,3 +3775,74 @@
 [01:18:31]: Server Unpaused	
 [01:18:56]: Server Paused	
 [01:19:01]: Server Unpaused	
+[01:19:41]: Server Paused	
+[01:19:46]: Server Unpaused	
+[01:21:38]: Server Autopaused	
+[01:21:39]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-329.82, -107.43)
+[01:21:39]: giving 	119662 - staff_tornado	
+[01:21:39]: Server Unpaused	
+[01:22:11]: Server Paused	
+[01:22:18]: Server Unpaused	
+[01:22:51]: Available disk space for save files: 156017 MB
+[01:22:51]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000433
+[01:22:52]: Serializing world: session/EB8D0B83904439AB/0000000433
+[01:26:04]: Server Autopaused	
+[01:26:04]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-322.89, -125.08)
+[01:26:04]: giving 	120627 - staff_tornado	
+[01:26:04]: Server Unpaused	
+[01:27:49]: Server Autopaused	
+[01:27:50]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-326.66, -105.20)
+[01:27:50]: giving 	120981 - staff_tornado	
+[01:27:50]: Server Unpaused	
+[01:30:10]: [200] Account Communication Success (6)
+[01:30:10]: Received (KU_2HEq3klP) from TokenPurpose
+[01:30:11]: Server Autopaused	
+[01:30:12]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-346.62, -109.60)
+[01:30:12]: giving 	121812 - staff_tornado	
+[01:30:12]: Server Unpaused	
+[01:30:54]: Available disk space for save files: 156012 MB
+[01:30:55]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000434
+[01:30:55]: Serializing world: session/EB8D0B83904439AB/0000000434
+[01:31:34]: Server Autopaused	
+[01:31:40]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(TheWorld:PushEvent ("ms_forceprecipitation", false)) @(-355.00, -135.68)
+[01:31:40]: Server Unpaused	
+[01:33:59]: Server Autopaused	
+[01:33:59]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(TheWorld:PushEvent ("ms_forceprecipitation", false)) @(-354.67, -88.06)
+[01:33:59]: Server Unpaused	
+[01:34:04]: Server Autopaused	
+[01:34:08]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-355.28, -87.98)
+[01:34:08]: giving 	123396 - staff_tornado	
+[01:34:08]: Server Unpaused	
+[01:34:38]: Server Autopaused	
+[01:34:39]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-330.81, -124.87)
+[01:34:39]: giving 	123490 - staff_tornado	
+[01:34:39]: Server Unpaused	
+[01:34:40]: Server Autopaused	
+[01:34:40]: Server Unpaused	
+[01:38:09]: Server Autopaused	
+[01:38:11]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-334.34, -141.02)
+[01:38:11]: giving 	125328 - staff_tornado	
+[01:38:11]: Server Unpaused	
+[01:39:08]: Available disk space for save files: 156008 MB
+[01:39:08]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000435
+[01:39:08]: Serializing world: session/EB8D0B83904439AB/0000000435
+[01:40:19]: Server Autopaused	
+[01:40:20]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-338.87, -119.27)
+[01:40:20]: giving 	126305 - staff_tornado	
+[01:40:20]: Server Unpaused	
+[01:43:02]: Server Autopaused	
+[01:43:03]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("staff_tornado",1)) @(-341.79, -132.00)
+[01:43:03]: giving 	128015 - staff_tornado	
+[01:43:03]: Server Unpaused	
+[01:45:51]: Server Autopaused	
+[01:46:02]: Server Unpaused	
+[01:46:04]: Server Autopaused	
+[01:46:05]: Server Unpaused	
+[01:46:06]: Server Autopaused	
+[01:46:06]: Server Unpaused	
+[01:46:07]: Server Autopaused	
+[01:46:09]: Server Unpaused	
+[01:46:18]: [Steam] SendUserDisconnect for '76561199365741450'
+[01:46:18]: Connection lost to 123.45.39.131|1 <7819792302872563778>
+[01:46:18]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000436
+[01:46:18]: Sim paused

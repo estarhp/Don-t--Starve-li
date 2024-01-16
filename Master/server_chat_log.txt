@@ -6,3 +6,4 @@
 [00:48:32]: [Death Announcement] estarhp 死亡，死因： 蘑菇炸弹。他变成了一个令人毛骨悚然的鬼！
 [01:04:53]: [Death Announcement] estarhp 死亡，死因： 蘑菇炸弹。他变成了一个令人毛骨悚然的鬼！
 [01:04:57]: [Vote Announcement] rollback passed
+[01:46:18]: [Leave Announcement] estarhp
