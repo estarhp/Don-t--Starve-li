@@ -19,6 +19,25 @@ KLEI     1 return {
     },
     ["workshop-1207269058"]={ ["configuration_options"]={  }, ["enabled"]=true },
     ["workshop-1301033176"]={ ["configuration_options"]={ ["LANG"]="auto" }, ["enabled"]=true },
+    ["workshop-1898292532"]={
+      ["configuration_options"]={
+        ["antlion"]=true,
+        ["atrium_gate"]=false,
+        ["bearger"]=true,
+        ["beequeenhive"]=false,
+        ["crabking"]=false,
+        ["deerclops"]=true,
+        ["dragonfly"]=false,
+        ["hound"]=true,
+        ["klaus_sack"]=false,
+        ["lunarrift_portal"]=true,
+        ["malbatross"]=false,
+        ["prime_mate"]=true,
+        ["tips_method"]=1,
+        ["toadstool"]=false 
+      },
+      ["enabled"]=true 
+    },
     ["workshop-2078243581"]={
       ["configuration_options"]={
         ["Blue"]=0,
