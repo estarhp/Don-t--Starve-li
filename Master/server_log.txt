@@ -2361,3 +2361,28 @@
 [03:30:11]: Received (KU_2HEq3klP) from TokenPurpose
 [04:00:11]: [200] Account Communication Success (6)
 [04:00:11]: Received (KU_2HEq3klP) from TokenPurpose
+[04:30:11]: [200] Account Communication Success (6)
+[04:30:11]: Received (KU_2HEq3klP) from TokenPurpose
+[04:35:30]: [P2P] Create session: 167.206.156.109|1 '76561199365741450'
+[04:35:30]: [P2P] Received from 167.206.156.109|1 '76561199365741450'
+[04:35:30]: [P2P] Sent to 167.206.156.109|1 '76561199365741450'
+[04:35:30]: New incoming connection 167.206.156.109|1 <4407984227632675169>
+[04:35:30]: Client connected from 167.206.156.109|1 <4407984227632675169>
+[04:35:30]: ValidateGameSessionToken GUID<4407984227632675169>
+[04:35:33]: Client authenticated: (KU_2HEq3klP) estarhp
+[04:35:34]: [Steam] Authenticated host '76561199365741450'
+[04:35:35]: There is no active event to validate against.
+[04:35:35]: [Shard] Read save location file for (KU_2HEq3klP)
+[04:35:58]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000446
+[04:35:58]: Spawning player at: [Load] (-184.75, 0.00, -116.81)	
+[04:35:58]: Sim unpaused
+[04:35:59]: New time stamps for everyone at	1705409136	
+[04:37:19]: Available disk space for save files: 155947 MB
+[04:37:19]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000446
+[04:37:19]: Missing reference:	111812 - beef_bell	->	111814	111814 - beefalo	
+[04:37:20]: Serializing world: session/7310D089907748FA/0000000446
+[04:45:20]: Available disk space for save files: 155925 MB
+[04:45:20]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000447
+[04:45:20]: Missing reference:	111812 - beef_bell	->	111814	111814 - beefalo	
+[04:45:21]: Serializing world: session/7310D089907748FA/0000000447
+[04:47:11]: Stale Component Reference: GUID 124826, scripts/entityscript.lua:1203
