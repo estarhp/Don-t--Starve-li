@@ -2401,3 +2401,28 @@
 [05:00:47]: Received (KU_2HEq3klP) from TokenPurpose
 [05:06:32]: [P2P] Session timed out for '76561199365741450'
 [05:06:32]: [P2P] Remove session: 167.206.156.109|1 '76561199365741450'
+[05:30:11]: [200] Account Communication Success (6)
+[05:30:11]: Received (KU_2HEq3klP) from TokenPurpose
+[05:39:31]: [P2P] Create session: 167.206.156.110|1 '76561199365741450'
+[05:39:31]: [P2P] Received from 167.206.156.110|1 '76561199365741450'
+[05:39:31]: [P2P] Sent to 167.206.156.110|1 '76561199365741450'
+[05:39:31]: New incoming connection 167.206.156.110|1 <8332573943268134527>
+[05:39:31]: Client connected from 167.206.156.110|1 <8332573943268134527>
+[05:39:31]: ValidateGameSessionToken GUID<8332573943268134527>
+[05:39:32]: Client authenticated: (KU_2HEq3klP) estarhp
+[05:39:32]: [Steam] Authenticated host '76561199365741450'
+[05:39:35]: There is no active event to validate against.
+[05:39:35]: [Shard] Read save location file for (KU_2HEq3klP)
+[05:40:00]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000449
+[05:40:00]: Spawning player at: [Load] (-174.94, 0.00, -127.51)	
+[05:40:00]: Sim unpaused
+[05:40:03]: New time stamps for everyone at	1705412980	
+[05:40:10]: Server Paused	
+[05:40:52]: Server Unpaused	
+[05:45:35]: Available disk space for save files: 155904 MB
+[05:45:35]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000449
+[05:45:35]: Missing reference:	111812 - beef_bell	->	111814	111814 - beefalo	
+[05:45:36]: Serializing world: session/7310D089907748FA/0000000449
+[05:45:40]: Could not find anim [spawn] in bank [squiderp]
+[05:45:41]: Could not find anim [spawn] in bank [squiderp]
+[05:45:41]: Could not find anim [spawn] in bank [squiderp]
