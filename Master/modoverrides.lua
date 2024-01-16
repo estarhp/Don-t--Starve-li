@@ -148,6 +148,19 @@ return {
     },
     enabled=true 
   },
+  ["workshop-2991592240"]={
+    configuration_options={
+      Title="",
+      t_smhf=3,
+      t_smup=true,
+      uses="Infinite",
+      uses2="Infinite",
+      uses3="Infinite",
+      uses4="Infinite" 
+    },
+    enabled=true 
+  },
+  ["workshop-3089978852"]={ configuration_options={  }, enabled=true },
   ["workshop-358749986"]={
     configuration_options={ IndicatorSize=3, MaxIndicator=7000, PlayerIndicators=1 },
     enabled=true 

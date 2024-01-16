@@ -18,6 +18,25 @@ return {
   },
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
   ["workshop-1301033176"]={ configuration_options={ LANG="auto" }, enabled=true },
+  ["workshop-1898292532"]={
+    configuration_options={
+      antlion=true,
+      atrium_gate=false,
+      bearger=true,
+      beequeenhive=false,
+      crabking=false,
+      deerclops=true,
+      dragonfly=false,
+      hound=true,
+      klaus_sack=false,
+      lunarrift_portal=true,
+      malbatross=false,
+      prime_mate=true,
+      tips_method=1,
+      toadstool=false 
+    },
+    enabled=true 
+  },
   ["workshop-2078243581"]={
     configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
     enabled=true 
@@ -129,6 +148,19 @@ return {
     },
     enabled=true 
   },
+  ["workshop-2991592240"]={
+    configuration_options={
+      Title="",
+      t_smhf=3,
+      t_smup=true,
+      uses="Infinite",
+      uses2="Infinite",
+      uses3="Infinite",
+      uses4="Infinite" 
+    },
+    enabled=true 
+  },
+  ["workshop-3089978852"]={ configuration_options={  }, enabled=true },
   ["workshop-358749986"]={
     configuration_options={ IndicatorSize=3, MaxIndicator=7000, PlayerIndicators=1 },
     enabled=true 
