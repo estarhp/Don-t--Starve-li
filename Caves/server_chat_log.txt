@@ -5,3 +5,6 @@
 [01:13:03]: [Resurrect Announcement] estarhp 复活自 lienxithy.
 [01:35:44]: [Death Announcement] estarhp 死亡，死因： 座狼。他变成了一个令人毛骨悚然的鬼！
 [01:35:49]: [Vote Announcement] rollback passed
+[01:42:36]: [Skin Announcement] lienxithy flowerhat_healing
+[01:43:19]: [Leave Announcement] lienxithy
+[01:52:40]: [Leave Announcement] estarhp

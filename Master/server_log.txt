@@ -2490,3 +2490,78 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [01:36:15]: Received resync request from client with no player
 [01:36:15]: [Shard] Secondary shard 'Caves(641468961)' restarting...
 [01:36:15]: World 641468961 is now disconnected	
+[01:36:16]: Validating portal[2] <-> 641468961[2] (inactive)	
+[01:36:16]: Validating portal[10] <-> 641468961[10] (inactive)	
+[01:36:16]: Retrofitting for Return Of Them: Turn of Tides - completed hermit house 1, 2, 3 friendship tasks.	
+[01:36:16]: Validating portal[3] <-> 641468961[3] (inactive)	
+[01:36:16]: Validating portal[8] <-> 641468961[8] (inactive)	
+[01:36:16]: Validating portal[5] <-> 641468961[5] (inactive)	
+[01:36:16]: Validating portal[4] <-> 641468961[4] (inactive)	
+[01:36:16]: Validating portal[6] <-> 641468961[6] (inactive)	
+[01:36:16]: Validating portal[9] <-> 641468961[9] (inactive)	
+[01:36:16]: Validating portal[7] <-> 641468961[7] (inactive)	
+[01:36:16]: Validating portal[1] <-> 641468961[1] (inactive)	
+[01:36:17]: Sim paused
+[01:36:28]: [Shard] Secondary Caves(641468961) ready!
+[01:36:28]: World 641468961 is now connected	
+[01:36:28]: Validating portal[2] <-> 641468961[2] (active)	
+[01:36:28]: Validating portal[10] <-> 641468961[10] (disabled)	
+[01:36:28]: Validating portal[3] <-> 641468961[3] (disabled)	
+[01:36:28]: Validating portal[8] <-> 641468961[8] (active)	
+[01:36:28]: Validating portal[5] <-> 641468961[5] (active)	
+[01:36:28]: Validating portal[4] <-> 641468961[4] (disabled)	
+[01:36:28]: Validating portal[6] <-> 641468961[6] (active)	
+[01:36:28]: Validating portal[9] <-> 641468961[9] (active)	
+[01:36:28]: Validating portal[7] <-> 641468961[7] (disabled)	
+[01:36:28]: Validating portal[1] <-> 641468961[1] (active)	
+[01:36:33]: Restarting player migration on master server
+[01:36:33]: [Shard] Read save location file for (KU_XKeqpL1V)
+[01:36:33]: Resuming user: session/7310D089907748FA/A7K598QCQK2V/0000000463
+[01:36:33]: Spawning player at: [Load] (-23.45, 0.00, 149.63)	
+[01:36:33]: Sim unpaused
+[01:36:34]: Restarting player migration on master server
+[01:36:34]: [Shard] Read save location file for (KU_2HEq3klP)
+[01:36:34]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000463
+[01:36:34]: A timer with the name 	regenover	 already exists on 	125557 - compostheal_buff	!	
+[01:36:34]: Spawning player at: [Load] (64.20, 0.00, 123.76)	
+[01:41:39]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:43:19]: [Steam] SendUserDisconnect for '76561199528234051'
+[01:43:19]: Connection lost to 226.33.5.190|1 <8151551691774796091>
+[01:43:19]: [Shard] (KU_XKeqpL1V) disconnected from [SHDMASTER](1)
+[01:43:20]: Serializing user: session/7310D089907748FA/A7K598QCQK2V/0000000463
+[01:44:01]: Server Autopaused	
+[01:44:04]: Server Unpaused	
+[01:44:05]: Server Autopaused	
+[01:44:06]: Server Unpaused	
+[01:44:12]: Server Autopaused	
+[01:44:13]: Server Unpaused	
+[01:44:21]: Server Paused	
+[01:45:55]: Server Unpaused	
+[01:46:05]: Server Autopaused	
+[01:46:18]: Server Unpaused	
+[01:46:25]: Available disk space for save files: 155909 MB
+[01:46:25]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000463
+[01:46:25]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[01:46:26]: Serializing world: session/7310D089907748FA/0000000463
+[01:47:01]: Server Autopaused	
+[01:47:02]: Server Unpaused	
+[01:48:27]: Server Autopaused	
+[01:48:28]: Server Unpaused	
+[01:48:32]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:49:24]: Server Autopaused	
+[01:49:30]: Server Unpaused	
+[01:51:29]: Server Autopaused	
+[01:51:30]: Server Unpaused	
+[01:52:26]: Server Autopaused	
+[01:52:31]: Server Unpaused	
+[01:52:40]: [Steam] SendUserDisconnect for '76561199365741450'
+[01:52:40]: Connection lost to 226.33.5.189|1 <2483841643457119284>
+[01:52:40]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[01:52:40]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000464
+[01:52:40]: Sim paused
+[01:53:19]: [P2P] Session timed out for '76561199528234051'
+[01:53:19]: [P2P] Remove session: 226.33.5.190|1 '76561199528234051'
+[02:00:21]: [200] Account Communication Success (6)
+[02:00:21]: Received (KU_2HEq3klP) from TokenPurpose
+[02:02:40]: [P2P] Session timed out for '76561199365741450'
+[02:02:40]: [P2P] Remove session: 226.33.5.189|1 '76561199365741450'
