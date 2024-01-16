@@ -3846,3 +3846,7 @@
 [01:46:18]: Connection lost to 123.45.39.131|1 <7819792302872563778>
 [01:46:18]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000436
 [01:46:18]: Sim paused
+[01:56:18]: [P2P] Session timed out for '76561199365741450'
+[01:56:18]: [P2P] Remove session: 123.45.39.131|1 '76561199365741450'
+[02:00:11]: [200] Account Communication Success (6)
+[02:00:11]: Received (KU_2HEq3klP) from TokenPurpose
