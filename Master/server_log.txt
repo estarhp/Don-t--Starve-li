@@ -3884,3 +3884,72 @@
 [02:00:11]: Received (KU_2HEq3klP) from TokenPurpose
 [02:30:10]: [200] Account Communication Success (6)
 [02:30:10]: Received (KU_2HEq3klP) from TokenPurpose
+[02:57:41]: [P2P] Create session: 123.26.249.147|1 '76561199365741450'
+[02:57:41]: [P2P] Received from 123.26.249.147|1 '76561199365741450'
+[02:57:41]: [P2P] Sent to 123.26.249.147|1 '76561199365741450'
+[02:57:41]: New incoming connection 123.26.249.147|1 <2299459309544344911>
+[02:57:41]: Client connected from 123.26.249.147|1 <2299459309544344911>
+[02:57:41]: ValidateGameSessionToken GUID<2299459309544344911>
+[02:57:42]: Client authenticated: (KU_2HEq3klP) estarhp
+[02:57:42]: [Steam] Authenticated host '76561199365741450'
+[02:57:43]: There is no active event to validate against.
+[02:57:43]: [Shard] Read save location file for (KU_2HEq3klP)
+[02:57:43]: [Shard] Forwarding player to Caves(641468961)
+[02:57:43]: [Shard] Begin migration #12 for (KU_2HEq3klP)
+[02:57:43]: [Shard] #12 [SHDMASTER](1) -> Caves(641468961)
+[02:57:44]: Sim unpaused
+[02:57:44]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:57:44]: [Steam] SendUserDisconnect for '76561199365741450'
+[02:57:44]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[02:57:45]: New time stamps for everyone at	1705385319	
+[02:57:55]: [Shard] Completed migration #12 for player (KU_2HEq3klP)
+[02:58:49]: Available disk space for save files: 155983 MB
+[02:58:50]: Missing reference:	115393 - beef_bell	->	115395	115395 - beefalo	
+[02:58:50]: Serializing world: session/7310D089907748FA/0000000436
+[02:58:50]: Truncating to snapshot #436...
+[02:58:50]:  - session/7310D089907748FA/0000000430
+[02:58:50]:    1 file(s) removed
+[02:58:53]: Server Autopaused	
+[02:59:03]: Server Unpaused	
+[02:59:38]: Server Autopaused	
+[02:59:46]: Server Unpaused	
+[02:59:47]: Server Autopaused	
+[02:59:52]: Server Unpaused	
+[02:59:53]: Server Autopaused	
+[02:59:54]: Server Unpaused	
+[03:00:10]: [200] Account Communication Success (6)
+[03:00:10]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:04]: Server Autopaused	
+[03:01:04]: Server Unpaused	
+[03:01:37]: [Shard] Begin migration #13 for (KU_2HEq3klP)
+[03:01:37]: [Shard] #13 Caves(641468961) -> [SHDMASTER](1)
+[03:01:37]: [Shard] #13 -> session/7310D089907748FA/A7G92EQ0TQUP/0000000437
+[03:01:37]: [Shard] Received migration #13 data for (KU_2HEq3klP)
+[03:01:37]: [Shard] Writing save location file for (KU_2HEq3klP)
+[03:01:38]: [Shard] (KU_2HEq3klP) disconnected from Caves(641468961)
+[03:01:46]: [P2P] Received from 123.26.249.147|1 '76561199365741450'
+[03:01:46]: [P2P] Sent to 123.26.249.147|1 '76561199365741450'
+[03:01:47]: New incoming connection 123.26.249.147|1 <9119886502101582600>
+[03:01:47]: Client connected from 123.26.249.147|1 <9119886502101582600>
+[03:01:47]: ValidateGameSessionToken GUID<9119886502101582600>
+[03:01:48]: Client authenticated: (KU_2HEq3klP) estarhp
+[03:01:49]: [Steam] Authenticated host '76561199365741450'
+[03:01:49]: [Shard] Completed incoming migration #13 for (KU_2HEq3klP)
+[03:01:49]: [Shard] Completed migration #13 for player (KU_2HEq3klP)
+[03:02:01]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000437
+[03:02:02]: Player will spawn close to portal #8	
+[03:02:02]: Spawning player at: [Load] (-81.67, 0.00, -213.26)	
+[03:02:07]: Server Autopaused	
+[03:02:10]: Server Unpaused	
+[03:04:13]: Server Autopaused	
+[03:04:16]: Server Unpaused	
+[03:04:24]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[03:06:16]: Server Autopaused	
+[03:06:17]: Server Unpaused	
+[03:06:26]: [Steam] SendUserDisconnect for '76561199365741450'
+[03:06:26]: Connection lost to 123.26.249.147|1 <9119886502101582600>
+[03:06:26]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[03:06:27]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000437
+[03:06:27]: Sim paused
+[03:16:26]: [P2P] Session timed out for '76561199365741450'
+[03:16:26]: [P2P] Remove session: 123.26.249.147|1 '76561199365741450'

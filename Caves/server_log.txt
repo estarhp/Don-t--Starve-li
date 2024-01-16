@@ -3852,3 +3852,51 @@
 [02:00:11]: Received (KU_2HEq3klP) from TokenPurpose
 [02:30:11]: [200] Account Communication Success (6)
 [02:30:11]: Received (KU_2HEq3klP) from TokenPurpose
+[02:57:43]: [Shard] Received forward request #12 for (KU_2HEq3klP)
+[02:57:44]: Sim unpaused
+[02:57:51]: [P2P] Create session: 123.45.39.132|1 '76561199365741450'
+[02:57:51]: [P2P] Received from 123.45.39.132|1 '76561199365741450'
+[02:57:51]: [P2P] Sent to 123.45.39.132|1 '76561199365741450'
+[02:57:52]: New incoming connection 123.45.39.132|1 <23944963496155585>
+[02:57:52]: Client connected from 123.45.39.132|1 <23944963496155585>
+[02:57:52]: ValidateGameSessionToken GUID<23944963496155585>
+[02:57:53]: Client authenticated: (KU_2HEq3klP) estarhp
+[02:57:54]: [Steam] Authenticated host '76561199365741450'
+[02:57:55]: There is no active event to validate against.
+[02:57:55]: [Shard] Completed incoming migration #12 for (KU_2HEq3klP)
+[02:58:18]: Resuming user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000436
+[02:58:18]: Spawning player at: [Load] (-342.08, -0.00, -100.97)	
+[02:58:49]: Available disk space for save files: 155983 MB
+[02:58:50]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000436
+[02:58:50]: Serializing world: session/EB8D0B83904439AB/0000000436
+[02:58:53]: Server Autopaused	
+[02:59:03]: Server Unpaused	
+[02:59:17]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[02:59:38]: Server Autopaused	
+[02:59:46]: Server Unpaused	
+[02:59:47]: Server Autopaused	
+[02:59:52]: Server Unpaused	
+[02:59:53]: Server Autopaused	
+[02:59:54]: Server Unpaused	
+[03:00:11]: [200] Account Communication Success (6)
+[03:00:11]: Received (KU_2HEq3klP) from TokenPurpose
+[03:01:04]: Server Autopaused	
+[03:01:04]: Server Unpaused	
+[03:01:37]: Activating portal[8] to 1	
+[03:01:37]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000437
+[03:01:37]: [Shard] Migration request: (KU_2HEq3klP) to [SHDMASTER](1)
+[03:01:37]: [Shard] #13 <- session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000437
+[03:01:37]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:01:38]: Ignored request to resume during migration
+[03:01:38]: [Steam] SendUserDisconnect for '76561199365741450'
+[03:02:07]: Server Autopaused	
+[03:02:10]: Server Unpaused	
+[03:04:13]: Server Autopaused	
+[03:04:16]: Server Unpaused	
+[03:04:36]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[03:04:36]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[03:06:16]: Server Autopaused	
+[03:06:17]: Server Unpaused	
+[03:06:27]: Sim paused
+[03:11:38]: [P2P] Session timed out for '76561199365741450'
+[03:11:38]: [P2P] Remove session: 123.45.39.132|1 '76561199365741450'
