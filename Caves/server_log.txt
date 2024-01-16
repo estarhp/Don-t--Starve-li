@@ -1795,3 +1795,49 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [01:06:09]: Truncating to snapshot #459...
 [01:06:09]:  - session/EB8D0B83904439AB/0000000453
 [01:06:09]:    1 file(s) removed
+[01:08:12]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:14:09]: Available disk space for save files: 155904 MB
+[01:14:10]: Serializing world: session/EB8D0B83904439AB/0000000460
+[01:14:10]: Truncating to snapshot #460...
+[01:14:10]:  - session/EB8D0B83904439AB/0000000454
+[01:14:10]:    1 file(s) removed
+[01:22:10]: Available disk space for save files: 155898 MB
+[01:22:11]: Serializing world: session/EB8D0B83904439AB/0000000461
+[01:22:11]: Truncating to snapshot #461...
+[01:22:11]:  - session/EB8D0B83904439AB/0000000455
+[01:22:11]:    1 file(s) removed
+[01:28:13]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:30:11]: Available disk space for save files: 155893 MB
+[01:30:12]: Serializing world: session/EB8D0B83904439AB/0000000462
+[01:30:12]: Truncating to snapshot #462...
+[01:30:12]:  - session/EB8D0B83904439AB/0000000456
+[01:30:12]:    1 file(s) removed
+[01:30:23]: [200] Account Communication Success (6)
+[01:30:23]: Received (KU_2HEq3klP) from TokenPurpose
+[01:35:54]: World 1 is now disconnected	
+[01:35:54]: Validating portal[9] <-> 1[9] (inactive)	
+[01:35:54]: Validating portal[7] <-> 1[7] (inactive)	
+[01:35:54]: Validating portal[3] <-> 1[3] (inactive)	
+[01:35:54]: Validating portal[5] <-> 1[5] (inactive)	
+[01:35:54]: Validating portal[1] <-> 1[1] (inactive)	
+[01:35:54]: Validating portal[6] <-> 1[6] (inactive)	
+[01:35:54]: Validating portal[4] <-> 1[4] (inactive)	
+[01:35:54]: Validating portal[8] <-> 1[8] (inactive)	
+[01:35:54]: Validating portal[10] <-> 1[10] (inactive)	
+[01:35:54]: Validating portal[2] <-> 1[2] (inactive)	
+[01:35:54]: Sim paused
+[01:36:14]: Synchronizing backward to master snapshot 462	
+[01:36:14]: World 1 is now connected	
+[01:36:14]: [SyncWorldSettings] Sending ResyncWorldSettings.	
+[01:36:14]: Validating portal[9] <-> 1[9] (active)	
+[01:36:14]: Validating portal[7] <-> 1[7] (active)	
+[01:36:14]: Validating portal[3] <-> 1[3] (active)	
+[01:36:14]: Validating portal[5] <-> 1[5] (active)	
+[01:36:14]: Validating portal[1] <-> 1[1] (active)	
+[01:36:14]: Validating portal[6] <-> 1[6] (active)	
+[01:36:14]: Validating portal[4] <-> 1[4] (active)	
+[01:36:14]: Validating portal[8] <-> 1[8] (active)	
+[01:36:14]: Validating portal[10] <-> 1[10] (active)	
+[01:36:14]: Validating portal[2] <-> 1[2] (active)	
+[01:36:14]: Sim unpaused
+[01:36:14]: Collecting garbage...
