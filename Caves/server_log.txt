@@ -2408,3 +2408,11 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [06:30:21]: Received (KU_2HEq3klP) from TokenPurpose
 [07:00:21]: [200] Account Communication Success (6)
 [07:00:21]: Received (KU_2HEq3klP) from TokenPurpose
+[07:12:46]: Received MasterInfoPacket row 7777bec69e4553f232455597aa72db2f region ap-southeast-1
+[07:12:46]: Obtaining secondary shard IP from ap-southeast-1 lobby
+[07:27:56]: Received MasterInfoPacket row a4c0ec397392813f0c26e54baa61b8d5 region eu-central-1
+[07:27:56]: Obtaining secondary shard IP from eu-central-1 lobby
+[07:30:21]: [200] Account Communication Success (6)
+[07:30:21]: Received (KU_2HEq3klP) from TokenPurpose
+[07:33:06]: Received MasterInfoPacket row 62bd2636592816d088b499b33ec422c6 region ap-southeast-1
+[07:33:06]: Obtaining secondary shard IP from ap-southeast-1 lobby

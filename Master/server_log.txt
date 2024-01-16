@@ -2585,3 +2585,23 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [06:30:22]: Received (KU_2HEq3klP) from TokenPurpose
 [07:00:22]: [200] Account Communication Success (6)
 [07:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[07:12:43]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:12:43]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:12:44]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:12:44]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[07:12:44]: Master Server Broadcast will try to broadcast a new listing.
+[07:12:46]: Server registered via geo DNS in ap-southeast-1
+[07:27:52]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:27:52]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:27:53]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:27:53]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[07:27:53]: Master Server Broadcast will try to broadcast a new listing.
+[07:27:56]: Server registered via geo DNS in eu-central-1
+[07:30:22]: [200] Account Communication Success (6)
+[07:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[07:33:02]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:33:03]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:33:04]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:33:04]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[07:33:04]: Master Server Broadcast will try to broadcast a new listing.
+[07:33:06]: Server registered via geo DNS in ap-southeast-1
