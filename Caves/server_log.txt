@@ -2145,3 +2145,9 @@
 [01:17:57]:    1 file(s) removed
 [01:18:56]: Server Autopaused	
 [01:18:58]: Server Unpaused	
+[01:21:16]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:24:29]: Server Autopaused	
+[01:24:31]: Server Unpaused	
+[01:24:40]: Sim paused
+[01:30:10]: [200] Account Communication Success (6)
+[01:30:10]: Received (KU_2HEq3klP) from TokenPurpose

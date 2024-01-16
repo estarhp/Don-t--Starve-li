@@ -2337,3 +2337,17 @@
 [01:17:58]: Serializing world: session/7310D089907748FA/0000000445
 [01:18:56]: Server Autopaused	
 [01:18:58]: Server Unpaused	
+[01:21:05]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:21:05]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[01:24:29]: Server Autopaused	
+[01:24:31]: Server Unpaused	
+[01:24:40]: [Steam] SendUserDisconnect for '76561199365741450'
+[01:24:40]: Connection lost to 167.206.156.108|1 <3884080941771332297>
+[01:24:40]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[01:24:40]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000446
+[01:24:40]: Sim paused
+[01:26:15]: [P2P] Connection failed for '76561199365741450'
+[01:30:36]: [200] Account Communication Success (6)
+[01:30:36]: Received (KU_2HEq3klP) from TokenPurpose
+[01:34:40]: [P2P] Session timed out for '76561199365741450'
+[01:34:40]: [P2P] Remove session: 167.206.156.108|1 '76561199365741450'
