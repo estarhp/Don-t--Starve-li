@@ -2756,3 +2756,87 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:05:46]: [Steam] Authenticated host '76561199365741450'
 [00:05:49]: There is no active event to validate against.
 [00:05:49]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:07:27]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000467
+[00:07:27]: Spawning player at: [Load] (-171.81, 0.00, -123.52)	
+[00:07:27]: Sim unpaused
+[00:07:32]: New time stamps for everyone at	1705501878	
+[00:07:57]: Available disk space for save files: 155803 MB
+[00:07:57]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000467
+[00:07:57]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[00:07:58]: Serializing world: session/7310D089907748FA/0000000467
+[00:08:24]: Server Paused	
+[00:09:19]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:09:19]: Connection lost to 226.33.5.192|1 <2079038023042323717>
+[00:09:19]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:09:19]: Server Unpaused	
+[00:09:20]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:09:20]: Sim paused
+[00:09:38]: [P2P] Received from 226.33.5.192|1 '76561199365741450'
+[00:09:38]: [P2P] Sent to 226.33.5.192|1 '76561199365741450'
+[00:09:40]: New incoming connection 226.33.5.192|1 <253895641929663206>
+[00:09:40]: Client connected from 226.33.5.192|1 <253895641929663206>
+[00:09:40]: ValidateGameSessionToken GUID<253895641929663206>
+[00:09:41]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:09:44]: [Steam] Authenticated host '76561199365741450'
+[00:09:47]: There is no active event to validate against.
+[00:09:47]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:10:13]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:10:13]: Spawning player at: [Load] (-180.38, -0.00, -143.74)	
+[00:10:13]: Sim unpaused
+[00:10:31]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[00:11:01]: Server Autopaused	
+[00:11:03]: Server Unpaused	
+[00:11:11]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:11:11]: Connection lost to 226.33.5.192|1 <253895641929663206>
+[00:11:11]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:11:12]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:11:12]: Sim paused
+[00:11:32]: [P2P] Connection failed for '76561199365741450'
+[00:12:32]: [P2P] Connection failed for '76561199365741450'
+[00:12:33]: [P2P] Received from 226.33.5.192|1 '76561199365741450'
+[00:12:33]: [P2P] Sent to 226.33.5.192|1 '76561199365741450'
+[00:12:34]: New incoming connection 226.33.5.192|1 <1502033422450614199>
+[00:12:34]: Client connected from 226.33.5.192|1 <1502033422450614199>
+[00:12:34]: ValidateGameSessionToken GUID<1502033422450614199>
+[00:12:35]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:12:37]: [Steam] Authenticated host '76561199365741450'
+[00:12:39]: There is no active event to validate against.
+[00:12:39]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:13:10]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:13:10]: Spawning player at: [Load] (-184.53, -0.00, -146.18)	
+[00:13:10]: Sim unpaused
+[00:14:01]: Server Autopaused	
+[00:14:07]: Server Unpaused	
+[00:14:15]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:14:15]: Connection lost to 226.33.5.192|1 <1502033422450614199>
+[00:14:15]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:14:16]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:14:16]: Sim paused
+[00:14:36]: [P2P] Received from 226.33.5.192|1 '76561199365741450'
+[00:14:36]: [P2P] Sent to 226.33.5.192|1 '76561199365741450'
+[00:14:37]: New incoming connection 226.33.5.192|1 <8764645590721580725>
+[00:14:37]: Client connected from 226.33.5.192|1 <8764645590721580725>
+[00:14:37]: ValidateGameSessionToken GUID<8764645590721580725>
+[00:14:40]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:14:45]: [Steam] Authenticated host '76561199365741450'
+[00:14:47]: There is no active event to validate against.
+[00:14:47]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:15:09]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:15:09]: Spawning player at: [Load] (-180.25, 0.00, -174.89)	
+[00:15:09]: Sim unpaused
+[00:15:39]: Server Autopaused	
+[00:15:40]: Server Unpaused	
+[00:15:40]: Server Autopaused	
+[00:15:41]: Server Unpaused	
+[00:15:43]: Server Autopaused	
+[00:15:45]: Server Unpaused	
+[00:15:54]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:15:54]: Connection lost to 226.33.5.192|1 <8764645590721580725>
+[00:15:54]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:15:55]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:15:55]: Sim paused
+[00:16:10]: [P2P] Connection failed for '76561199365741450'
+[00:25:54]: [P2P] Session timed out for '76561199365741450'
+[00:25:54]: [P2P] Remove session: 226.33.5.192|1 '76561199365741450'
+[00:30:22]: [200] Account Communication Success (6)
+[00:30:22]: Received (KU_2HEq3klP) from TokenPurpose
