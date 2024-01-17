@@ -8,3 +8,6 @@
 [01:42:36]: [Skin Announcement] lienxithy flowerhat_healing
 [01:43:19]: [Leave Announcement] lienxithy
 [01:52:40]: [Leave Announcement] estarhp
+[22:38:13]: [Join Announcement] estarhp
+[23:03:53]: [Skin Announcement] estarhp mysterybox_ice_4
+[23:05:35]: [Leave Announcement] estarhp

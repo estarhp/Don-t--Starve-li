@@ -2671,3 +2671,59 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [22:00:22]: Received (KU_2HEq3klP) from TokenPurpose
 [22:30:22]: [200] Account Communication Success (6)
 [22:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[22:37:52]: [P2P] Create session: 226.33.5.191|1 '76561199365741450'
+[22:37:52]: [P2P] Received from 226.33.5.191|1 '76561199365741450'
+[22:37:52]: [P2P] Sent to 226.33.5.191|1 '76561199365741450'
+[22:37:54]: New incoming connection 226.33.5.191|1 <7094023925082179192>
+[22:37:54]: Client connected from 226.33.5.191|1 <7094023925082179192>
+[22:37:54]: ValidateGameSessionToken GUID<7094023925082179192>
+[22:37:55]: Client authenticated: (KU_2HEq3klP) estarhp
+[22:37:56]: [Steam] Authenticated host '76561199365741450'
+[22:37:57]: There is no active event to validate against.
+[22:37:57]: [Shard] Read save location file for (KU_2HEq3klP)
+[22:38:22]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000464
+[22:38:22]: Spawning player at: [Load] (-187.22, 0.00, -156.95)	
+[22:38:22]: Sim unpaused
+[22:38:26]: New time stamps for everyone at	1705496532	
+[22:38:54]: Server Autopaused	
+[22:38:55]: Server Unpaused	
+[22:38:56]: Server Autopaused	
+[22:39:14]: Server Unpaused	
+[22:39:14]: Server Autopaused	
+[22:39:16]: Server Unpaused	
+[22:40:26]: Server Autopaused	
+[22:40:27]: Server Unpaused	
+[22:40:43]: Available disk space for save files: 155838 MB
+[22:40:44]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000464
+[22:40:44]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[22:40:44]: Serializing world: session/7310D089907748FA/0000000464
+[22:47:04]: Server Autopaused	
+[22:47:05]: Server Unpaused	
+[22:47:59]: Server Autopaused	
+[22:48:03]: Server Unpaused	
+[22:48:12]: Server Autopaused	
+[22:48:14]: Server Unpaused	
+[22:48:52]: Available disk space for save files: 155833 MB
+[22:48:52]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000465
+[22:48:52]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[22:48:52]: Serializing world: session/7310D089907748FA/0000000465
+[22:56:38]: Server Autopaused	
+[22:56:39]: Server Unpaused	
+[22:56:53]: Available disk space for save files: 155827 MB
+[22:56:54]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000466
+[22:56:54]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[22:56:54]: Serializing world: session/7310D089907748FA/0000000466
+[22:59:39]: Server Autopaused	
+[22:59:40]: Server Unpaused	
+[23:00:22]: [200] Account Communication Success (6)
+[23:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[23:03:47]: Server Autopaused	
+[23:03:55]: Server Unpaused	
+[23:04:07]: Server Paused	
+[23:05:08]: Server Unpaused	
+[23:05:35]: [Steam] SendUserDisconnect for '76561199365741450'
+[23:05:35]: Connection lost to 226.33.5.191|1 <7094023925082179192>
+[23:05:35]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[23:05:35]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000467
+[23:05:36]: Sim paused
+[23:05:44]: [P2P] Connection failed for '76561199365741450'
