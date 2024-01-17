@@ -2731,3 +2731,28 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [23:15:35]: [P2P] Remove session: 226.33.5.191|1 '76561199365741450'
 [23:30:22]: [200] Account Communication Success (6)
 [23:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[00:00:22]: [200] Account Communication Success (6)
+[00:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[00:02:54]: [P2P] Create session: 226.33.5.192|1 '76561199365741450'
+[00:02:54]: [P2P] Received from 226.33.5.192|1 '76561199365741450'
+[00:02:54]: [P2P] Sent to 226.33.5.192|1 '76561199365741450'
+[00:03:05]: New incoming connection 226.33.5.192|1 <2620309718211100052>
+[00:03:05]: Client connected from 226.33.5.192|1 <2620309718211100052>
+[00:03:05]: ValidateGameSessionToken GUID<2620309718211100052>
+[00:03:07]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:03:12]: [Steam] Authenticated host '76561199365741450'
+[00:03:18]: There is no active event to validate against.
+[00:03:18]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:04:04]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:04:04]: Connection lost to 226.33.5.192|1 <2620309718211100052>
+[00:04:04]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:04:41]: [P2P] Connection failed for '76561199365741450'
+[00:05:41]: [P2P] Received from 226.33.5.192|1 '76561199365741450'
+[00:05:41]: [P2P] Sent to 226.33.5.192|1 '76561199365741450'
+[00:05:43]: New incoming connection 226.33.5.192|1 <2079038023042323717>
+[00:05:44]: Client connected from 226.33.5.192|1 <2079038023042323717>
+[00:05:44]: ValidateGameSessionToken GUID<2079038023042323717>
+[00:05:45]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:05:46]: [Steam] Authenticated host '76561199365741450'
+[00:05:49]: There is no active event to validate against.
+[00:05:49]: [Shard] Read save location file for (KU_2HEq3klP)
