@@ -2875,3 +2875,7 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:57:04]: [P2P] Connection failed for '76561199365741450'
 [01:00:23]: [200] Account Communication Success (6)
 [01:00:23]: Received (KU_2HEq3klP) from TokenPurpose
+[01:06:43]: [P2P] Session timed out for '76561199365741450'
+[01:06:43]: [P2P] Remove session: 226.33.5.194|1 '76561199365741450'
+[01:30:22]: [200] Account Communication Success (6)
+[01:30:22]: Received (KU_2HEq3klP) from TokenPurpose
