@@ -2840,3 +2840,38 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:25:54]: [P2P] Remove session: 226.33.5.192|1 '76561199365741450'
 [00:30:22]: [200] Account Communication Success (6)
 [00:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[00:39:56]: [P2P] Connection failed for '76561199365741450'
+[00:40:07]: [P2P] Create session: 226.33.5.193|1 '76561199365741450'
+[00:40:07]: [P2P] Received from 226.33.5.193|1 '76561199365741450'
+[00:40:07]: [P2P] Sent to 226.33.5.193|1 '76561199365741450'
+[00:40:11]: [P2P] Connection failed for '76561199365741450'
+[00:50:09]: [P2P] Session timed out for '76561199365741450'
+[00:50:09]: [P2P] Remove session: 226.33.5.193|1 '76561199365741450'
+[00:54:47]: [P2P] Create session: 226.33.5.194|1 '76561199365741450'
+[00:54:47]: [P2P] Received from 226.33.5.194|1 '76561199365741450'
+[00:54:47]: [P2P] Sent to 226.33.5.194|1 '76561199365741450'
+[00:54:53]: New incoming connection 226.33.5.194|1 <868949581969931919>
+[00:54:54]: Client connected from 226.33.5.194|1 <868949581969931919>
+[00:54:54]: ValidateGameSessionToken GUID<868949581969931919>
+[00:54:55]: Client authenticated: (KU_2HEq3klP) estarhp
+[00:54:59]: [Steam] Authenticated host '76561199365741450'
+[00:55:07]: There is no active event to validate against.
+[00:55:07]: [Shard] Read save location file for (KU_2HEq3klP)
+[00:55:54]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:55:54]: Spawning player at: [Load] (-185.67, 0.00, -171.16)	
+[00:55:54]: Sim unpaused
+[00:55:54]: New time stamps for everyone at	1705504780	
+[00:56:21]: Server Autopaused	
+[00:56:22]: Server Unpaused	
+[00:56:22]: Server Autopaused	
+[00:56:29]: Server Unpaused	
+[00:56:33]: Server Autopaused	
+[00:56:34]: Server Unpaused	
+[00:56:43]: [Steam] SendUserDisconnect for '76561199365741450'
+[00:56:43]: Connection lost to 226.33.5.194|1 <868949581969931919>
+[00:56:43]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[00:56:44]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[00:56:44]: Sim paused
+[00:57:04]: [P2P] Connection failed for '76561199365741450'
+[01:00:23]: [200] Account Communication Success (6)
+[01:00:23]: Received (KU_2HEq3klP) from TokenPurpose

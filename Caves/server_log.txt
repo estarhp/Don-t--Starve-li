@@ -2551,3 +2551,13 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [00:15:55]: Sim paused
 [00:30:26]: [200] Account Communication Success (6)
 [00:30:26]: Received (KU_2HEq3klP) from TokenPurpose
+[00:55:54]: Sim unpaused
+[00:56:21]: Server Autopaused	
+[00:56:22]: Server Unpaused	
+[00:56:22]: Server Autopaused	
+[00:56:29]: Server Unpaused	
+[00:56:33]: Server Autopaused	
+[00:56:34]: Server Unpaused	
+[00:56:44]: Sim paused
+[01:00:21]: [200] Account Communication Success (6)
+[01:00:21]: Received (KU_2HEq3klP) from TokenPurpose

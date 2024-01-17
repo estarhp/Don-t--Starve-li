@@ -19,3 +19,5 @@
 [00:14:15]: [Leave Announcement] estarhp
 [00:15:00]: [Join Announcement] estarhp
 [00:15:54]: [Leave Announcement] estarhp
+[00:55:26]: [Join Announcement] estarhp
+[00:56:43]: [Leave Announcement] estarhp
