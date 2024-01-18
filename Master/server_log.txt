@@ -6927,3 +6927,17 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [06:30:22]: Received (KU_2HEq3klP) from TokenPurpose
 [07:00:28]: [200] Account Communication Success (6)
 [07:00:28]: Received (KU_2HEq3klP) from TokenPurpose
+[07:06:23]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:06:23]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:06:24]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:06:24]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[07:06:24]: Master Server Broadcast will try to broadcast a new listing.
+[07:06:27]: Server registered via geo DNS in ap-southeast-1
+[07:30:22]: [200] Account Communication Success (6)
+[07:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[07:31:32]: [Http] Curl failed[1] with HTTP_404, retrying (2 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:31:33]: [Http] Curl failed[1] with HTTP_404, retrying (1 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:31:33]: [Http] Curl failed[1] with HTTP_404, retrying (0 times). Response: _{"Error":{"Code":"E_NOT_IN_DB"}}_
+[07:31:34]: [Error] Master Server Broadcast Error: E_NOT_IN_DB
+[07:31:34]: Master Server Broadcast will try to broadcast a new listing.
+[07:31:37]: Server registered via geo DNS in eu-central-1
