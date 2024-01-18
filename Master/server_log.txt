@@ -6869,3 +6869,39 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [01:03:59]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000488
 [01:03:59]: Missing reference:	110822 - beefaloherd	->	112794	112794 - beefalo	
 [01:04:00]: Serializing world: session/7310D089907748FA/0000000488
+[01:10:50]: Could not find anim [spawn] in bank [squiderp]
+[01:10:51]: Could not find anim [spawn] in bank [squiderp]
+[01:11:45]: Could not find anim [spawn] in bank [squiderp]
+[01:11:45]: Could not find anim [spawn] in bank [squiderp]
+[01:11:45]: Could not find anim [spawn] in bank [squiderp]
+[01:12:00]: Available disk space for save files: 155725 MB
+[01:12:00]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000489
+[01:12:00]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000489
+[01:12:00]: Missing reference:	110822 - beefaloherd	->	112794	112794 - beefalo	
+[01:12:00]: Serializing world: session/7310D089907748FA/0000000489
+[01:12:30]: Could not find anim [death] in bank [ghost]
+[01:12:30]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000490
+[01:15:51]: Could not find anim [idle_loop] in bank [ghost]
+[01:15:54]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000490
+[01:20:00]: Available disk space for save files: 155719 MB
+[01:20:01]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000490
+[01:20:01]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000490
+[01:20:01]: Missing reference:	110822 - beefaloherd	->	112794	112794 - beefalo	
+[01:20:01]: Serializing world: session/7310D089907748FA/0000000490
+[01:21:11]: [Steam] SendUserDisconnect for '76561199527617974'
+[01:21:11]: Connection lost to 226.33.5.200|1 <6968850400940207265>
+[01:21:11]: [Shard] (KU_LVGZizdL) disconnected from [SHDMASTER](1)
+[01:21:11]: Server Autopaused	
+[01:21:11]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000491
+[01:21:12]: Server Unpaused	
+[01:21:21]: [Steam] SendUserDisconnect for '76561199365741450'
+[01:21:21]: Connection lost to 226.33.5.202|1 <1999393603217559111>
+[01:21:21]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[01:21:21]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000491
+[01:21:21]: Sim paused
+[01:30:23]: [200] Account Communication Success (6)
+[01:30:23]: Received (KU_2HEq3klP) from TokenPurpose
+[01:31:11]: [P2P] Session timed out for '76561199527617974'
+[01:31:11]: [P2P] Remove session: 226.33.5.200|1 '76561199527617974'
+[01:31:21]: [P2P] Session timed out for '76561199365741450'
+[01:31:21]: [P2P] Remove session: 226.33.5.202|1 '76561199365741450'
