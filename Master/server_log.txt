@@ -2927,3 +2927,64 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [13:00:22]: Received (KU_2HEq3klP) from TokenPurpose
 [13:30:22]: [200] Account Communication Success (6)
 [13:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[13:47:32]: [P2P] Create session: 226.33.5.195|1 '76561199365741450'
+[13:47:32]: [P2P] Received from 226.33.5.195|1 '76561199365741450'
+[13:47:32]: [P2P] Sent to 226.33.5.195|1 '76561199365741450'
+[13:47:32]: New incoming connection 226.33.5.195|1 <5190165088218804967>
+[13:47:32]: Client connected from 226.33.5.195|1 <5190165088218804967>
+[13:47:32]: ValidateGameSessionToken GUID<5190165088218804967>
+[13:47:33]: Client authenticated: (KU_2HEq3klP) estarhp
+[13:47:33]: [Steam] Authenticated host '76561199365741450'
+[13:47:35]: There is no active event to validate against.
+[13:47:35]: [Shard] Read save location file for (KU_2HEq3klP)
+[13:47:59]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[13:48:00]: Spawning player at: [Load] (-180.92, 0.00, -171.89)	
+[13:48:00]: Sim unpaused
+[13:48:04]: New time stamps for everyone at	1705551110	
+[13:49:20]: Server Paused	
+[13:49:54]: Server Unpaused	
+[13:51:40]: Server Paused	
+[13:51:56]: Server Unpaused	
+[13:53:04]: Available disk space for save files: 155764 MB
+[13:53:05]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000468
+[13:53:05]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[13:53:05]: Serializing world: session/7310D089907748FA/0000000468
+[13:55:47]: Stale Component Reference: GUID 185745, scripts/entityscript.lua:1203
+[13:55:47]: Stale Component Reference: GUID 189287, scripts/entityscript.lua:1203
+[13:55:47]: Stale Component Reference: GUID 188854, scripts/entityscript.lua:1203
+[13:58:32]: [P2P] Session request for '76561199527617974'
+[13:58:37]: [P2P] Create session: 226.33.5.196|1 '76561199527617974'
+[13:58:37]: [P2P] Received from 226.33.5.196|1 '76561199527617974'
+[13:58:37]: [P2P] Sent to 226.33.5.196|1 '76561199527617974'
+[13:58:45]: New incoming connection 226.33.5.196|1 <3238791125699745311>
+[13:58:45]: Client connected from 226.33.5.196|1 <3238791125699745311>
+[13:58:45]: ValidateGameSessionToken GUID<3238791125699745311>
+[13:58:46]: Client authenticated: (KU_LVGZizdL) 3301624889
+[13:58:46]: [Steam] SendUserConnectAndAuthenticate for '76561199527617974'
+[13:58:46]: [Steam] Authenticated client '76561199527617974'
+[13:58:48]: There is no active event to validate against.
+[13:58:48]: [Shard] Read save location file for (KU_LVGZizdL)
+[13:58:48]: [Shard] Forwarding player to Caves(641468961)
+[13:58:48]: [Shard] Begin migration #1 for (KU_LVGZizdL)
+[13:58:48]: [Shard] #1 [SHDMASTER](1) -> Caves(641468961)
+[13:58:48]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[13:58:48]: [Steam] SendUserDisconnect for '76561199527617974'
+[13:58:48]: [Shard] (KU_LVGZizdL) disconnected from [SHDMASTER](1)
+[13:59:02]: [Shard] Completed migration #1 for player (KU_LVGZizdL)
+[14:00:22]: [200] Account Communication Success (6)
+[14:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[14:01:05]: Available disk space for save files: 155758 MB
+[14:01:06]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000469
+[14:01:06]: Missing reference:	108499 - beefaloherd	->	115038	115038 - beefalo	
+[14:01:06]: Serializing world: session/7310D089907748FA/0000000469
+[14:02:45]: Activating portal[8] to 641468961	
+[14:02:45]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000470
+[14:02:45]: [Shard] Migration request: (KU_2HEq3klP) to Caves(641468961)
+[14:02:45]: [Shard] Begin migration #2 for (KU_2HEq3klP)
+[14:02:45]: [Shard] #2 [SHDMASTER](1) -> Caves(641468961)
+[14:02:45]: [Shard] #2 <- session/7310D089907748FA/A7G92EQ0TQUP/0000000470
+[14:02:45]: [Shard] Writing save location file for (KU_2HEq3klP)
+[14:02:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[14:02:45]: [Steam] SendUserDisconnect for '76561199365741450'
+[14:02:45]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[14:02:57]: [Shard] Completed migration #2 for player (KU_2HEq3klP)
