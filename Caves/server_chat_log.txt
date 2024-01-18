@@ -47,3 +47,15 @@
 [23:27:58]: [Announcement] This is going to be a terrible night...
 [23:28:07]: [Announcement] The Twins turn their gaze toward estarhp
 [23:36:07]: [Announcement] This is going to be a terrible night...
+[23:36:17]: [Announcement] The Twins turn their gaze toward 3301624889
+[23:36:50]: [Death Announcement] 3301624889 死亡，死因： Retinazor。他变成了一个令人毛骨悚然的鬼！
+[23:37:09]: [Resurrect Announcement] 3301624889 复活自 生命护符.
+[23:44:08]: [Announcement] This is going to be a terrible night...
+[23:44:18]: [Announcement] The Twins turn their gaze toward 3301624889
+[23:45:06]: [Death Announcement] 3301624889 死亡，死因： Retinazor。他变成了一个令人毛骨悚然的鬼！
+[23:45:24]: [Resurrect Announcement] 3301624889 复活自 生命护符.
+[23:51:39]: [Announcement] This is going to be a terrible night...
+[23:51:57]: [Announcement] The Twins turn their gaze toward 3301624889
+[23:52:53]: [Death Announcement] estarhp 死亡，死因： Retinazor。他变成了一个令人毛骨悚然的鬼！
+[23:53:51]: [Resurrect Announcement] estarhp 复活自 生命护符.
+[23:57:54]: [Leave Announcement] estarhp

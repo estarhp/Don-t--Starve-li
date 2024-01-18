@@ -5020,3 +5020,55 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [23:31:08]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
 [23:31:08]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
 [23:36:08]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:36:50]: Could not find anim [death] in bank [ghost]
+[23:36:50]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000483
+[23:37:03]: Available disk space for save files: 155702 MB
+[23:37:03]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000483
+[23:37:03]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000483
+[23:37:03]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:37:04]: Serializing world: session/7310D089907748FA/0000000483
+[23:37:09]: Could not find anim [idle_loop] in bank [ghost]
+[23:37:12]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000484
+[23:41:09]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:41:09]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:45:04]: Available disk space for save files: 155697 MB
+[23:45:04]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000484
+[23:45:04]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000484
+[23:45:04]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:45:05]: Serializing world: session/7310D089907748FA/0000000484
+[23:45:06]: Could not find anim [death] in bank [ghost]
+[23:45:06]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000485
+[23:45:09]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:45:24]: Could not find anim [idle_loop] in bank [ghost]
+[23:45:28]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000485
+[23:47:55]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:48:37]: Failed to assign item skin ids due to ownership check failure.
+[23:51:10]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:51:48]: Server Paused	
+[23:51:55]: Server Unpaused	
+[23:51:55]: Server Paused	
+[23:51:56]: Server Unpaused	
+[23:52:53]: Could not find anim [death] in bank [ghost]
+[23:52:53]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000485
+[23:53:13]: Available disk space for save files: 155691 MB
+[23:53:13]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000485
+[23:53:13]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000485
+[23:53:13]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:53:14]: Serializing world: session/7310D089907748FA/0000000485
+[23:53:51]: Could not find anim [idle_loop] in bank [ghost]
+[23:53:55]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000486
+[23:56:23]: Activating portal[8] to 641468961	
+[23:56:24]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000486
+[23:56:24]: [Shard] Migration request: (KU_2HEq3klP) to Caves(641468961)
+[23:56:24]: [Shard] Begin migration #15 for (KU_2HEq3klP)
+[23:56:24]: [Shard] #15 [SHDMASTER](1) -> Caves(641468961)
+[23:56:24]: [Shard] #15 <- session/7310D089907748FA/A7G92EQ0TQUP/0000000486
+[23:56:24]: [Shard] Writing save location file for (KU_2HEq3klP)
+[23:56:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[23:56:24]: [Steam] SendUserDisconnect for '76561199365741450'
+[23:56:24]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[23:57:54]: [Shard] Migration for KU_2HEq3klP timed out.
+[23:57:54]: [Shard] Cancelling pending migration #15 for (KU_2HEq3klP)
+[23:58:35]: Server Paused	
+[00:00:22]: [200] Account Communication Success (6)
+[00:00:22]: Received (KU_2HEq3klP) from TokenPurpose

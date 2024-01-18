@@ -4556,3 +4556,32 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [23:30:22]: [200] Account Communication Success (6)
 [23:30:22]: Received (KU_2HEq3klP) from TokenPurpose
 [23:31:19]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4923 ms: Connection timed out
+[23:36:18]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4377 ms: Connection timed out
+[23:37:03]: Available disk space for save files: 155702 MB
+[23:37:04]: Serializing world: session/EB8D0B83904439AB/0000000483
+[23:37:04]: Truncating to snapshot #483...
+[23:37:04]:  - session/EB8D0B83904439AB/0000000477
+[23:37:04]:    1 file(s) removed
+[23:45:04]: Available disk space for save files: 155697 MB
+[23:45:04]: Serializing world: session/EB8D0B83904439AB/0000000484
+[23:45:04]: Truncating to snapshot #484...
+[23:45:04]:  - session/EB8D0B83904439AB/0000000478
+[23:45:04]:    1 file(s) removed
+[23:51:20]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:51:48]: Server Paused	
+[23:51:55]: Server Unpaused	
+[23:51:55]: Server Paused	
+[23:51:56]: Server Unpaused	
+[23:53:13]: Available disk space for save files: 155691 MB
+[23:53:13]: Serializing world: session/EB8D0B83904439AB/0000000485
+[23:53:13]: Truncating to snapshot #485...
+[23:53:13]:  - session/EB8D0B83904439AB/0000000479
+[23:53:13]:    1 file(s) removed
+[23:56:24]: [Shard] #15 -> session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000486
+[23:56:24]: [Shard] Received migration #15 data for (KU_2HEq3klP)
+[23:57:24]: [P2P] Connection failed for '76561199365741450'
+[23:57:54]: [P2P] Connection failed for '76561199365741450'
+[23:57:54]: [Shard] Migration by user ('KU_2HEq3klP') failed (178). 
+[23:58:35]: Server Paused	
+[00:00:23]: [200] Account Communication Success (6)
+[00:00:23]: Received (KU_2HEq3klP) from TokenPurpose
