@@ -4955,3 +4955,68 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [23:03:54]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
 [23:03:54]: Serializing world: session/7310D089907748FA/0000000479
 [23:05:00]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:10:00]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:10:00]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:10:00]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:11:54]: Available disk space for save files: 155725 MB
+[23:11:55]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000480
+[23:11:55]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000480
+[23:11:55]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:11:55]: Serializing world: session/7310D089907748FA/0000000480
+[23:15:01]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:15:01]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:17:54]: CURL ERROR: (lobby-v2.klei.com) [28]SSL connection timeout
+[23:17:54]: [Http] Curl failed[0] with HTTP_0, retrying (2 times). Response: __
+[23:18:25]: [Steam] SendUserDisconnect for '76561199365741450'
+[23:18:25]: Connection lost to 226.33.5.201|1 <9133134827103793309>
+[23:18:25]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[23:18:25]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000481
+[23:18:35]: Server Paused	
+[23:18:38]: [P2P] Connection failed for '76561199365741450'
+[23:18:55]: [P2P] Received from 226.33.5.201|1 '76561199365741450'
+[23:18:55]: [P2P] Sent to 226.33.5.201|1 '76561199365741450'
+[23:18:55]: New incoming connection 226.33.5.201|1 <8286129634459312746>
+[23:18:55]: Client connected from 226.33.5.201|1 <8286129634459312746>
+[23:18:55]: ValidateGameSessionToken GUID<8286129634459312746>
+[23:19:05]: Client authenticated: (KU_2HEq3klP) estarhp
+[23:19:05]: [Steam] Authenticated host '76561199365741450'
+[23:19:06]: There is no active event to validate against.
+[23:19:06]: [Shard] Read save location file for (KU_2HEq3klP)
+[23:19:29]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000481
+[23:19:29]: Spawning player at: [Load] (-178.21, 0.00, -130.13)	
+[23:19:32]: Server Unpaused	
+[23:20:52]: Available disk space for save files: 155719 MB
+[23:20:53]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000481
+[23:20:53]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000481
+[23:20:53]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:20:53]: Serializing world: session/7310D089907748FA/0000000481
+[23:25:20]: [Steam] SendUserDisconnect for '76561199365741450'
+[23:25:20]: Connection lost to 226.33.5.201|1 <8286129634459312746>
+[23:25:20]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[23:25:20]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000482
+[23:25:33]: [P2P] Connection failed for '76561199365741450'
+[23:25:48]: [P2P] Connection failed for '76561199365741450'
+[23:26:06]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[23:26:29]: [P2P] Received from 226.33.5.201|1 '76561199365741450'
+[23:26:29]: [P2P] Sent to 226.33.5.201|1 '76561199365741450'
+[23:26:30]: New incoming connection 226.33.5.201|1 <7519624668093536331>
+[23:26:30]: Client connected from 226.33.5.201|1 <7519624668093536331>
+[23:26:30]: ValidateGameSessionToken GUID<7519624668093536331>
+[23:26:32]: Client authenticated: (KU_2HEq3klP) estarhp
+[23:26:33]: [Steam] Authenticated host '76561199365741450'
+[23:26:34]: There is no active event to validate against.
+[23:26:34]: [Shard] Read save location file for (KU_2HEq3klP)
+[23:26:56]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000482
+[23:26:56]: Spawning player at: [Load] (-163.71, 0.00, -261.67)	
+[23:28:39]: Server Paused	
+[23:28:47]: Server Unpaused	
+[23:29:02]: Available disk space for save files: 155713 MB
+[23:29:03]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000482
+[23:29:03]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000482
+[23:29:03]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:29:03]: Serializing world: session/7310D089907748FA/0000000482
+[23:30:22]: [200] Account Communication Success (6)
+[23:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:08]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:31:08]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:36:08]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout

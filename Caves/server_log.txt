@@ -4531,3 +4531,28 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [23:03:54]: Truncating to snapshot #479...
 [23:03:54]:  - session/EB8D0B83904439AB/0000000473
 [23:03:54]:    1 file(s) removed
+[23:10:12]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:11:54]: Available disk space for save files: 155725 MB
+[23:11:55]: Serializing world: session/EB8D0B83904439AB/0000000480
+[23:11:55]: Truncating to snapshot #480...
+[23:11:55]:  - session/EB8D0B83904439AB/0000000474
+[23:11:55]:    1 file(s) removed
+[23:15:13]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:18:35]: Server Paused	
+[23:19:32]: Server Unpaused	
+[23:20:53]: Available disk space for save files: 155719 MB
+[23:20:53]: Serializing world: session/EB8D0B83904439AB/0000000481
+[23:20:53]: Truncating to snapshot #481...
+[23:20:53]:  - session/EB8D0B83904439AB/0000000475
+[23:20:53]:    1 file(s) removed
+[23:21:10]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:28:39]: Server Paused	
+[23:28:48]: Server Unpaused	
+[23:29:02]: Available disk space for save files: 155713 MB
+[23:29:03]: Serializing world: session/EB8D0B83904439AB/0000000482
+[23:29:03]: Truncating to snapshot #482...
+[23:29:03]:  - session/EB8D0B83904439AB/0000000476
+[23:29:03]:    1 file(s) removed
+[23:30:22]: [200] Account Communication Success (6)
+[23:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[23:31:19]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4923 ms: Connection timed out

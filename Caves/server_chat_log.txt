@@ -38,3 +38,12 @@
 [15:31:33]: [Leave Announcement] estarhp
 [22:57:19]: [Join Announcement] 3301624889
 [22:57:37]: [Join Announcement] estarhp
+[23:18:25]: [Leave Announcement] estarhp
+[23:19:20]: [Join Announcement] estarhp
+[23:19:57]: [Announcement] This is going to be a terrible night...
+[23:20:07]: [Announcement] The Twins turn their gaze toward estarhp
+[23:25:20]: [Leave Announcement] estarhp
+[23:26:47]: [Join Announcement] estarhp
+[23:27:58]: [Announcement] This is going to be a terrible night...
+[23:28:07]: [Announcement] The Twins turn their gaze toward estarhp
+[23:36:07]: [Announcement] This is going to be a terrible night...
