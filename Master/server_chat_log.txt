@@ -64,3 +64,7 @@
 [00:33:58]: [Announcement] The Twins turn their gaze toward 3301624889
 [00:35:07]: [Death Announcement] estarhp 死亡，死因： 暴躁猴。他变成了一个令人毛骨悚然的鬼！
 [00:35:12]: [Vote Announcement] rollback passed
+[00:39:47]: [Death Announcement] estarhp 死亡，死因： 暴躁猴。他变成了一个令人毛骨悚然的鬼！
+[00:40:45]: [Vote Announcement] rollback passed
+[00:47:22]: [Death Announcement] estarhp 死亡，死因： 深渊蠕虫。他变成了一个令人毛骨悚然的鬼！
+[00:47:29]: [Vote Announcement] rollback passed
