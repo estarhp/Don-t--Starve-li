@@ -36,3 +36,5 @@
 [14:34:52]: [Join Announcement] estarhp
 [15:15:44]: [Leave Announcement] 3301624889
 [15:31:33]: [Leave Announcement] estarhp
+[22:57:19]: [Join Announcement] 3301624889
+[22:57:37]: [Join Announcement] estarhp

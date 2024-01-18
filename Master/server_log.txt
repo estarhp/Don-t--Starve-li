@@ -4913,3 +4913,45 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [22:00:23]: Received (KU_2HEq3klP) from TokenPurpose
 [22:30:22]: [200] Account Communication Success (6)
 [22:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[22:56:54]: [P2P] Create session: 226.33.5.200|1 '76561199527617974'
+[22:56:54]: [P2P] Received from 226.33.5.200|1 '76561199527617974'
+[22:56:54]: [P2P] Sent to 226.33.5.200|1 '76561199527617974'
+[22:56:56]: New incoming connection 226.33.5.200|1 <6968850400940207265>
+[22:56:56]: Client connected from 226.33.5.200|1 <6968850400940207265>
+[22:56:56]: ValidateGameSessionToken GUID<6968850400940207265>
+[22:56:57]: Client authenticated: (KU_LVGZizdL) 3301624889
+[22:56:58]: [Steam] SendUserConnectAndAuthenticate for '76561199527617974'
+[22:56:59]: [Steam] Authenticated client '76561199527617974'
+[22:57:00]: There is no active event to validate against.
+[22:57:00]: [Shard] Read save location file for (KU_LVGZizdL)
+[22:57:17]: [P2P] Create session: 226.33.5.201|1 '76561199365741450'
+[22:57:17]: [P2P] Received from 226.33.5.201|1 '76561199365741450'
+[22:57:17]: [P2P] Sent to 226.33.5.201|1 '76561199365741450'
+[22:57:17]: New incoming connection 226.33.5.201|1 <9133134827103793309>
+[22:57:17]: Client connected from 226.33.5.201|1 <9133134827103793309>
+[22:57:17]: ValidateGameSessionToken GUID<9133134827103793309>
+[22:57:18]: Client authenticated: (KU_2HEq3klP) estarhp
+[22:57:18]: [Steam] Authenticated host '76561199365741450'
+[22:57:19]: There is no active event to validate against.
+[22:57:19]: [Shard] Read save location file for (KU_2HEq3klP)
+[22:57:29]: Resuming user: session/7310D089907748FA/A7ILUGHR7MEL/0000000477
+[22:57:29]: Spawning player at: [Load] (-182.79, 0.00, -115.41)	
+[22:57:29]: Sim unpaused
+[22:57:29]: New time stamps for everyone at	1705584075	
+[22:57:47]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000479
+[22:57:47]: Spawning player at: [Load] (-186.75, 0.00, -156.53)	
+[22:59:58]: CURL ERROR: (dst.metrics.klei.com) [28]Failed to connect to dst.metrics.klei.com port 443 after 4377 ms: Connection timed out
+[22:59:59]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[23:00:23]: [200] Account Communication Success (6)
+[23:00:23]: Received (KU_2HEq3klP) from TokenPurpose
+[23:01:10]: Failed to assign item skin ids due to ownership check failure.
+[23:01:29]: Could not find anim build FROMNUM
+[23:01:56]: Could not find anim build FROMNUM
+[23:02:21]: Could not find anim build FROMNUM
+[23:02:36]: Could not find anim build FROMNUM
+[23:03:54]: Available disk space for save files: 155732 MB
+[23:03:54]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000479
+[23:03:54]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000479
+[23:03:54]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[23:03:54]: Serializing world: session/7310D089907748FA/0000000479
+[23:05:00]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
