@@ -59,3 +59,8 @@
 [23:52:53]: [Death Announcement] estarhp 死亡，死因： Retinazor。他变成了一个令人毛骨悚然的鬼！
 [23:53:51]: [Resurrect Announcement] estarhp 复活自 生命护符.
 [23:57:54]: [Leave Announcement] estarhp
+[00:31:44]: [Join Announcement] estarhp
+[00:33:48]: [Announcement] This is going to be a terrible night...
+[00:33:58]: [Announcement] The Twins turn their gaze toward 3301624889
+[00:35:07]: [Death Announcement] estarhp 死亡，死因： 暴躁猴。他变成了一个令人毛骨悚然的鬼！
+[00:35:12]: [Vote Announcement] rollback passed
