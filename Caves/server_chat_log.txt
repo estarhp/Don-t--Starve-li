@@ -23,3 +23,14 @@
 [00:56:43]: [Leave Announcement] estarhp
 [13:47:51]: [Join Announcement] estarhp
 [13:59:39]: [Join Announcement] 3301624889
+[14:07:33]: [Death Announcement] estarhp 死亡，死因： 喷射蜘蛛。他变成了一个令人毛骨悚然的鬼！
+[14:08:16]: [Death Announcement] 3301624889 死亡，死因： 恐怖的巨喙。他变成了一个令人毛骨悚然的鬼！
+[14:08:19]: [Vote Announcement] rollback passed
+[14:10:07]: [Death Announcement] estarhp 死亡，死因： 钢羊。他变成了一个令人毛骨悚然的鬼！
+[14:10:37]: [Vote Announcement] rollback passed
+[14:17:09]: [Death Announcement] 3301624889 死亡，死因： Ink Blight。他变成了一个令人毛骨悚然的鬼！
+[14:17:46]: [Resurrect Announcement] 3301624889 复活自 estarhp.
+[14:31:00]: [Death Announcement] 3301624889 死亡，死因： 深渊蠕虫。他变成了一个令人毛骨悚然的鬼！
+[14:31:49]: [Vote Announcement] rollback passed
+[14:34:11]: [Leave Announcement] estarhp
+[14:34:52]: [Join Announcement] estarhp
