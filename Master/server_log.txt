@@ -4780,3 +4780,70 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [14:34:37]: [Shard] Completed migration #12 for player (KU_2HEq3klP)
 [14:35:26]: Server Paused	
 [14:35:44]: Server Unpaused	
+[14:39:36]: [Shard] Begin migration #13 for (KU_2HEq3klP)
+[14:39:36]: [Shard] #13 Caves(641468961) -> [SHDMASTER](1)
+[14:39:36]: [Shard] #13 -> session/7310D089907748FA/A7G92EQ0TQUP/0000000472
+[14:39:36]: [Shard] Received migration #13 data for (KU_2HEq3klP)
+[14:39:36]: [Shard] Writing save location file for (KU_2HEq3klP)
+[14:39:36]: [Shard] (KU_2HEq3klP) disconnected from Caves(641468961)
+[14:39:45]: [P2P] Received from 226.33.5.198|1 '76561199365741450'
+[14:39:45]: [P2P] Sent to 226.33.5.198|1 '76561199365741450'
+[14:39:46]: New incoming connection 226.33.5.198|1 <1312075854463816609>
+[14:39:46]: Client connected from 226.33.5.198|1 <1312075854463816609>
+[14:39:46]: ValidateGameSessionToken GUID<1312075854463816609>
+[14:39:48]: Client authenticated: (KU_2HEq3klP) estarhp
+[14:39:48]: [Steam] Authenticated host '76561199365741450'
+[14:39:48]: [Shard] Completed incoming migration #13 for (KU_2HEq3klP)
+[14:39:48]: [Shard] Completed migration #13 for player (KU_2HEq3klP)
+[14:40:00]: Resuming user: session/7310D089907748FA/A7G92EQ0TQUP/0000000472
+[14:40:01]: Player will spawn close to portal #8	
+[14:40:01]: Spawning player at: [Load] (-81.63, 0.00, -213.30)	
+[14:40:27]: [Shard] Begin migration #14 for (KU_LVGZizdL)
+[14:40:27]: [Shard] #14 Caves(641468961) -> [SHDMASTER](1)
+[14:40:27]: [Shard] #14 -> session/7310D089907748FA/A7ILUGHR7MEL/0000000472
+[14:40:27]: [Shard] Received migration #14 data for (KU_LVGZizdL)
+[14:40:27]: [Shard] Writing save location file for (KU_LVGZizdL)
+[14:40:28]: [Shard] (KU_LVGZizdL) disconnected from Caves(641468961)
+[14:40:34]: Available disk space for save files: 155777 MB
+[14:40:35]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000472
+[14:40:35]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[14:40:35]: Serializing world: session/7310D089907748FA/0000000472
+[14:40:38]: [P2P] Received from 226.33.5.199|1 '76561199527617974'
+[14:40:38]: [P2P] Sent to 226.33.5.199|1 '76561199527617974'
+[14:40:39]: New incoming connection 226.33.5.199|1 <8610699395373408629>
+[14:40:39]: Client connected from 226.33.5.199|1 <8610699395373408629>
+[14:40:39]: ValidateGameSessionToken GUID<8610699395373408629>
+[14:40:40]: Client authenticated: (KU_LVGZizdL) 3301624889
+[14:40:40]: [Steam] SendUserConnectAndAuthenticate for '76561199527617974'
+[14:40:40]: [Steam] Authenticated client '76561199527617974'
+[14:40:40]: [Shard] Completed incoming migration #14 for (KU_LVGZizdL)
+[14:40:40]: [Shard] Completed migration #14 for player (KU_LVGZizdL)
+[14:40:57]: Resuming user: session/7310D089907748FA/A7ILUGHR7MEL/0000000472
+[14:40:57]: Player will spawn close to portal #8	
+[14:40:57]: Spawning player at: [Load] (-80.17, 0.00, -213.78)	
+[14:46:42]: Server Paused	
+[14:47:09]: Server Unpaused	
+[14:48:36]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("greenamulet",1)) @(-156.06, -142.79)
+[14:48:36]: giving 	145199 - greenamulet	
+[14:49:03]: Available disk space for save files: 155771 MB
+[14:49:03]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000473
+[14:49:03]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000473
+[14:49:03]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[14:49:04]: Serializing world: session/7310D089907748FA/0000000473
+[14:57:04]: Available disk space for save files: 155766 MB
+[14:57:04]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000474
+[14:57:04]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000474
+[14:57:04]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[14:57:05]: Serializing world: session/7310D089907748FA/0000000474
+[14:59:10]: Failed to assign item skin ids due to ownership check failure.
+[15:00:22]: [200] Account Communication Success (6)
+[15:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[15:02:58]: Server Paused	
+[15:03:45]: [(KU_2HEq3klP) estarhp] ReceiveRemoteExecute(c_give("deer_antler1",1)) @(-23.90, 168.74)
+[15:03:45]: giving 	173757 - deer_antler1	
+[15:03:47]: Server Unpaused	
+[15:05:54]: Available disk space for save files: 155760 MB
+[15:05:54]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000475
+[15:05:54]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000475
+[15:05:54]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[15:05:55]: Serializing world: session/7310D089907748FA/0000000475

@@ -4422,3 +4422,49 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [14:35:42]: giving 	115703 - dreadstone	
 [14:35:42]: giving 	115705 - dreadstone	
 [14:35:44]: Server Unpaused	
+[14:39:35]: Activating portal[8] to 1	
+[14:39:36]: Serializing user: session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000472
+[14:39:36]: [Shard] Migration request: (KU_2HEq3klP) to [SHDMASTER](1)
+[14:39:36]: [Shard] #13 <- session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000472
+[14:39:36]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[14:39:36]: Ignored request to resume during migration
+[14:39:36]: [Steam] SendUserDisconnect for '76561199365741450'
+[14:40:27]: Activating portal[8] to 1	
+[14:40:27]: Serializing user: session/EB8D0B83904439AB/A7ILUGHR7MEL/0000000472
+[14:40:27]: [Shard] Migration request: (KU_LVGZizdL) to [SHDMASTER](1)
+[14:40:27]: [Shard] #14 <- session/EB8D0B83904439AB/A7ILUGHR7MEL/0000000472
+[14:40:28]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[14:40:28]: [Steam] SendUserDisconnect for '76561199527617974'
+[14:40:34]: Available disk space for save files: 155777 MB
+[14:40:35]: Serializing world: session/EB8D0B83904439AB/0000000472
+[14:40:35]: Truncating to snapshot #472...
+[14:40:35]:  - session/EB8D0B83904439AB/0000000466
+[14:40:35]:    1 file(s) removed
+[14:46:42]: Server Paused	
+[14:47:09]: Server Unpaused	
+[14:49:03]: Available disk space for save files: 155771 MB
+[14:49:04]: Serializing world: session/EB8D0B83904439AB/0000000473
+[14:49:04]: Truncating to snapshot #473...
+[14:49:04]:  - session/EB8D0B83904439AB/0000000467
+[14:49:04]:    1 file(s) removed
+[14:49:36]: [P2P] Session timed out for '76561199365741450'
+[14:49:36]: [P2P] Remove session: 226.27.212.172|1 '76561199365741450'
+[14:50:32]: [P2P] Session timed out for '76561199527617974'
+[14:50:32]: [P2P] Remove session: 226.27.212.171|1 '76561199527617974'
+[14:57:04]: Available disk space for save files: 155766 MB
+[14:57:05]: Serializing world: session/EB8D0B83904439AB/0000000474
+[14:57:05]: Truncating to snapshot #474...
+[14:57:05]:  - session/EB8D0B83904439AB/0000000468
+[14:57:05]:  - session/EB8D0B83904439AB/A7ILUGHR7MEL/0000000373
+[14:57:05]:    2 file(s) removed
+[15:00:22]: [200] Account Communication Success (6)
+[15:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[15:02:58]: Server Paused	
+[15:03:47]: Server Unpaused	
+[15:05:54]: Available disk space for save files: 155760 MB
+[15:05:54]: Serializing world: session/EB8D0B83904439AB/0000000475
+[15:05:54]: Truncating to snapshot #475...
+[15:05:54]:  - session/EB8D0B83904439AB/0000000469
+[15:05:54]:  - session/EB8D0B83904439AB/A7ILUGHR7MEL/0000000469
+[15:05:54]:  - session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000437
+[15:05:54]:    3 file(s) removed
