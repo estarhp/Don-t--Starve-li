@@ -6905,3 +6905,5 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [01:31:11]: [P2P] Remove session: 226.33.5.200|1 '76561199527617974'
 [01:31:21]: [P2P] Session timed out for '76561199365741450'
 [01:31:21]: [P2P] Remove session: 226.33.5.202|1 '76561199365741450'
+[02:00:22]: [200] Account Communication Success (6)
+[02:00:22]: Received (KU_2HEq3klP) from TokenPurpose
