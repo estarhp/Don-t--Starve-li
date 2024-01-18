@@ -4883,3 +4883,7 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [15:31:33]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
 [15:31:33]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000479
 [15:31:33]: Sim paused
+[15:41:33]: [P2P] Session timed out for '76561199365741450'
+[15:41:33]: [P2P] Remove session: 226.33.5.198|1 '76561199365741450'
+[16:00:22]: [200] Account Communication Success (6)
+[16:00:22]: Received (KU_2HEq3klP) from TokenPurpose
