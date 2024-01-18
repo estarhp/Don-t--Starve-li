@@ -34,3 +34,5 @@
 [14:31:49]: [Vote Announcement] rollback passed
 [14:34:11]: [Leave Announcement] estarhp
 [14:34:52]: [Join Announcement] estarhp
+[15:15:44]: [Leave Announcement] 3301624889
+[15:31:33]: [Leave Announcement] estarhp

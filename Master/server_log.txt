@@ -4847,3 +4847,39 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [15:05:54]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000475
 [15:05:54]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
 [15:05:55]: Serializing world: session/7310D089907748FA/0000000475
+[15:13:55]: Available disk space for save files: 155748 MB
+[15:13:55]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000476
+[15:13:55]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000476
+[15:13:55]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[15:13:55]: Serializing world: session/7310D089907748FA/0000000476
+[15:14:01]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[15:14:01]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[15:14:01]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[15:14:08]: Could not find anim [FROMNUM] in bank [wintersfeast_oven]
+[15:14:41]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[15:14:41]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[15:15:44]: [Steam] SendUserDisconnect for '76561199527617974'
+[15:15:44]: Connection lost to 226.33.5.199|1 <8610699395373408629>
+[15:15:44]: [Shard] (KU_LVGZizdL) disconnected from [SHDMASTER](1)
+[15:15:45]: Serializing user: session/7310D089907748FA/A7ILUGHR7MEL/0000000477
+[15:19:01]: CURL ERROR: (dst.metrics.klei.com) [28]SSL connection timeout
+[15:19:08]: CURL ERROR: (dst.metrics.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[15:21:55]: Available disk space for save files: 155743 MB
+[15:21:56]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000477
+[15:21:56]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[15:21:56]: Serializing world: session/7310D089907748FA/0000000477
+[15:25:44]: [P2P] Session timed out for '76561199527617974'
+[15:25:44]: [P2P] Remove session: 226.33.5.199|1 '76561199527617974'
+[15:29:56]: Available disk space for save files: 155737 MB
+[15:29:57]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000478
+[15:29:57]: Missing reference:	109832 - beef_bell	->	109834	109834 - beefalo	
+[15:29:57]: Serializing world: session/7310D089907748FA/0000000478
+[15:30:22]: [200] Account Communication Success (6)
+[15:30:22]: Received (KU_2HEq3klP) from TokenPurpose
+[15:31:22]: Server Autopaused	
+[15:31:24]: Server Unpaused	
+[15:31:33]: [Steam] SendUserDisconnect for '76561199365741450'
+[15:31:33]: Connection lost to 226.33.5.198|1 <1312075854463816609>
+[15:31:33]: [Shard] (KU_2HEq3klP) disconnected from [SHDMASTER](1)
+[15:31:33]: Serializing user: session/7310D089907748FA/A7G92EQ0TQUP/0000000479
+[15:31:33]: Sim paused
