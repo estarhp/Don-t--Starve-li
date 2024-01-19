@@ -6396,3 +6396,23 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [13:30:22]: Received (KU_2HEq3klP) from TokenPurpose
 [14:00:22]: [200] Account Communication Success (6)
 [14:00:22]: Received (KU_2HEq3klP) from TokenPurpose
+[14:06:19]: Available disk space for save files: 155147 MB
+[14:06:19]: Serializing world: session/EB8D0B83904439AB/0000000491
+[14:06:19]: Truncating to snapshot #491...
+[14:06:19]:  - session/EB8D0B83904439AB/0000000485
+[14:06:19]:  - session/EB8D0B83904439AB/A7G92EQ0TQUP/0000000472
+[14:06:19]:    2 file(s) removed
+[14:06:19]: [Shard] Stopping shard mode
+[14:06:19]: [Steam] SendUserDisconnect for ''
+[14:06:20]: Collecting garbage...
+[14:06:20]: lua_gc took 0.34 seconds
+[14:06:20]: ~ShardLuaProxy()
+[14:06:20]: ~cEventLeaderboardProxy()
+[14:06:20]: ~ItemServerLuaProxy()
+[14:06:20]: ~InventoryLuaProxy()
+[14:06:20]: ~NetworkLuaProxy()
+[14:06:20]: ~SimLuaProxy()
+[14:06:21]: lua_close took 0.59 seconds
+[14:06:21]: CurlRequestManager::ClientThread::Main() complete
+[14:06:21]: HttpClient2 discarded 0 callbacks.
+[14:06:21]: Shutting down

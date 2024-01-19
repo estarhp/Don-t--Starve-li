@@ -6979,3 +6979,39 @@ Please ensure that these point to valid files in your mod folder, or else commen
 [13:30:23]: Received (KU_2HEq3klP) from TokenPurpose
 [14:00:23]: [200] Account Communication Success (6)
 [14:00:23]: Received (KU_2HEq3klP) from TokenPurpose
+[14:06:19]: Available disk space for save files: 155147 MB
+[14:06:19]: Missing reference:	110822 - beefaloherd	->	112794	112794 - beefalo	
+[14:06:20]: Serializing world: session/7310D089907748FA/0000000491
+[14:06:20]: Truncating to snapshot #491...
+[14:06:20]:  - session/7310D089907748FA/0000000484
+[14:06:20]:  - session/7310D089907748FA/0000000485
+[14:06:20]:  - session/7310D089907748FA/0000000482
+[14:06:20]:  - session/7310D089907748FA/0000000483
+[14:06:20]:  - session/7310D089907748FA/0000000481
+[14:06:20]:  - session/7310D089907748FA/A7ILUGHR7MEL/0000000485
+[14:06:20]:  - session/7310D089907748FA/A7ILUGHR7MEL/0000000484
+[14:06:20]:  - session/7310D089907748FA/A7ILUGHR7MEL/0000000483
+[14:06:20]:  - session/7310D089907748FA/A7ILUGHR7MEL/0000000482
+[14:06:20]:  - session/7310D089907748FA/A7ILUGHR7MEL/0000000481
+[14:06:20]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000485
+[14:06:20]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000484
+[14:06:20]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000483
+[14:06:20]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000482
+[14:06:20]:  - session/7310D089907748FA/A7G92EQ0TQUP/0000000481
+[14:06:20]:    15 file(s) removed
+[14:06:20]: Removing server from lobby
+[14:06:20]: [Shard] Stopping shard mode
+[14:06:20]: [Steam] SendUserDisconnect for ''
+[14:06:20]: Collecting garbage...
+[14:06:21]: lua_gc took 0.66 seconds
+[14:06:21]: ~ShardLuaProxy()
+[14:06:21]: ~cEventLeaderboardProxy()
+[14:06:21]: ~ItemServerLuaProxy()
+[14:06:21]: ~InventoryLuaProxy()
+[14:06:21]: ~NetworkLuaProxy()
+[14:06:21]: ~SimLuaProxy()
+[14:06:21]: Cancelling LuaQueryCallback handle [357]
+[14:06:22]: lua_close took 1.06 seconds
+[14:06:22]: CurlRequestManager::ClientThread::Main() complete
+[14:06:22]: HttpClient2 discarded 1 callbacks.
+[14:06:23]: Shutting down
